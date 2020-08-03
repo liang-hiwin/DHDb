@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
@@ -11,6 +11,7 @@ function GetData() {
     rm -rf ./Temp && mkdir ./Temp && cd ./Temp
     curl -s --connect-timeout 15 "https://raw.githubusercontent.com/hezhijie0327/AdFilter/master/adfilter_domains.txt" | grep -v "\#" > ./dhdb_data.tmp
     curl -s --connect-timeout 15 "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/master/gfwlist2agh_web.txt" | grep "\[\/" | sed "s/\[\///g;s/\/\].*//g" >> ./dhdb_data.tmp
+    curl -s --connect-timeout 15 "https://raw.githubusercontent.com/hezhijie0327/Trackerslist/master/trackerslist_combine.txt" | sed "s/http\:\/\///g;s/https\:\/\///g;s/udp\:\/\///g;s/ws\:\/\///g;s/wss\:\/\///g;s/\:.*//g" >> ./dhdb_data.tmp
 }
 # Analyse Data
 function AnalyseData() {
