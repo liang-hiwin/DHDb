@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.0
+# Current Version: 1.0.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
@@ -54,13 +54,17 @@ function OutputData() {
         fi
     done
     if [ ! -f "../dhdb_dead.txt" ]; then
-        cat ./dhdb_alive.tmp | sort | uniq > ./dhdb_alive.txt && mv ./dhdb_alive.txt ../dhdb_alive.txt
-        cat ./dhdb_dead.tmp | sort | uniq > ./dhdb_dead.txt && mv ./dhdb_dead.txt ../dhdb_dead.txt
+        cat ./dhdb_alive.tmp | sort | uniq > ./dhdb_alive.txt
+        cat ./dhdb_dead.tmp | sort | uniq > ./dhdb_dead.txt
+        awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_alive.txt ./dhdb_dead.txt | sort | uniq > ../dhdb_dead.txt
+        awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_dead.txt ./dhdb_alive.txt | sort | uniq > ../dhdb_alive.txt
         cd .. && rm -rf ./Temp
         exit 0
     else
-        cat ./dhdb_alive.tmp ../dhdb_alive.txt | sort | uniq > ./dhdb_alive.txt && mv ./dhdb_alive.txt ../dhdb_alive.txt
-        cat ./dhdb_dead.tmp ../dhdb_dead.txt | sort | uniq > ./dhdb_dead.txt && mv ./dhdb_dead.txt ../dhdb_dead.txt
+        cat ./dhdb_alive.tmp ../dhdb_alive.txt | sort | uniq > ./dhdb_alive.txt
+        cat ./dhdb_dead.tmp ../dhdb_dead.txt | sort | uniq > ./dhdb_dead.txt
+        awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_alive.txt ./dhdb_dead.txt | sort | uniq > ../dhdb_dead.txt
+        awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_dead.txt ./dhdb_alive.txt | sort | uniq > ../dhdb_alive.txt
         cd .. && rm -rf ./Temp
         exit 0
     fi
