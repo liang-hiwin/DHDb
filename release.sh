@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.5
+# Current Version: 1.0.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
@@ -50,7 +50,7 @@ function OutputData() {
             fi
         fi
     done
-    echo "(Alive: ${result_alive} | Dead: ${result_dead} | Total: $(((${result_alive} + ${result_dead})))"
+    echo "(Alive: ${result_alive} | Dead: ${result_dead} | Total: $(((${result_alive} + ${result_dead}))))"
     if [ ! -f "../dhdb_dead.txt" ]; then
         cat ./dhdb_alive.tmp | sort | uniq > ./dhdb_alive.txt
         cat ./dhdb_dead.tmp | sort | uniq > ./dhdb_dead.txt
