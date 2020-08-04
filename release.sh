@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
@@ -30,25 +30,27 @@ function AnalyseData() {
 }
 # Output Data
 function OutputData() {
+    result_alive="0" && result_dead="0"
     for dhdb_data_task in "${!dhdb_data[@]}"; do
         if [ "$(dig A @dns.google ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ] || [ "$(dig AAAA @dns.google ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ]; then
             echo "${dhdb_data[$dhdb_data_task]} (Status: alive | Index: $((${dhdb_data_task} + 1)))"
-            echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp
+            echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp && result_alive=$((${result_alive} + 1))
         else
             if [ "$(dig A @dns.opendns.com ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ] || [ "$(dig AAAA @dns.opendns.com ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ]; then
                 echo "${dhdb_data[$dhdb_data_task]} (Status: alive | Index: $((${dhdb_data_task} + 1)))"
-                echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp
+                echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp && result_alive=$((${result_alive} + 1))
             else
                 if [ "$(dig A @one.one.one.one ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ] || [ "$(dig AAAA @one.one.one.one ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ]; then
                     echo "${dhdb_data[$dhdb_data_task]} (Status: alive | Index: $((${dhdb_data_task} + 1)))"
-                    echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp
+                    echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp && result_alive=$((${result_alive} + 1))
                 else
                     echo "${dhdb_data[$dhdb_data_task]} (Status: dead | Index: $((${dhdb_data_task} + 1)))"
-                    echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_dead.tmp
+                    echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_dead.tmp && result_dead=$((${result_dead} + 1))
                 fi
             fi
         fi
     done
+    echo "(Alive: ${result_alive} | Dead: ${result_dead} | Total: $(((${result_alive} + ${result_dead})))"
     if [ ! -f "../dhdb_dead.txt" ]; then
         cat ./dhdb_alive.tmp | sort | uniq > ./dhdb_alive.txt
         cat ./dhdb_dead.tmp | sort | uniq > ./dhdb_dead.txt
