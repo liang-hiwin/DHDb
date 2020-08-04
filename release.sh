@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.3
+# Current Version: 1.0.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
@@ -32,18 +32,18 @@ function AnalyseData() {
 function OutputData() {
     for dhdb_data_task in "${!dhdb_data[@]}"; do
         if [ "$(dig A @dns.google ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ] || [ "$(dig AAAA @dns.google ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ]; then
-            echo "${dhdb_data[$dhdb_data_task]} (Status: alive)"
+            echo "${dhdb_data[$dhdb_data_task]} (Status: alive | Index: $((${dhdb_data_task} + 1)))"
             echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp
         else
             if [ "$(dig A @dns.opendns.com ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ] || [ "$(dig AAAA @dns.opendns.com ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ]; then
-                echo "${dhdb_data[$dhdb_data_task]} (Status: alive)"
+                echo "${dhdb_data[$dhdb_data_task]} (Status: alive | Index: $((${dhdb_data_task} + 1)))"
                 echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp
             else
                 if [ "$(dig A @one.one.one.one ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ] || [ "$(dig AAAA @one.one.one.one ${dhdb_data[$dhdb_data_task]} | grep 'NXDOMAIN\|SERVFAIL\|SOA')" == "" ]; then
-                    echo "${dhdb_data[$dhdb_data_task]} (Status: alive)"
+                    echo "${dhdb_data[$dhdb_data_task]} (Status: alive | Index: $((${dhdb_data_task} + 1)))"
                     echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_alive.tmp
                 else
-                    echo "${dhdb_data[$dhdb_data_task]} (Status: dead)"
+                    echo "${dhdb_data[$dhdb_data_task]} (Status: dead | Index: $((${dhdb_data_task} + 1)))"
                     echo "${dhdb_data[$dhdb_data_task]}" >> ./dhdb_dead.tmp
                 fi
             fi
