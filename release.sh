@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.6
+# Current Version: 1.0.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
@@ -19,11 +19,11 @@ function AnalyseData() {
         dhdb_data=($(cat ./dhdb_data.tmp | sort | uniq | head -n 500 | awk "{ print $2 }"))
     else
         if [ ! -f "../dhdb_alive.txt" ]; then
-            dhdb_data=($(cat ../dhdb_dead.txt > ./dhdb_data.old && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_data.old ./dhdb_data.tmp | sort | uniq | head -n 1500 | awk "{ print $2 }"))
+            dhdb_data=($(cat ../dhdb_dead.txt > ./dhdb_data.old && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_data.old ./dhdb_data.tmp | sort | uniq | head -n 1250 | awk "{ print $2 }"))
         else
-            dhdb_data=($(cat ../dhdb_alive.txt ../dhdb_dead.txt > ./dhdb_data.old && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_data.old ./dhdb_data.tmp | sort | uniq | head -n 1500 | awk "{ print $2 }"))
+            dhdb_data=($(cat ../dhdb_alive.txt ../dhdb_dead.txt > ./dhdb_data.old && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_data.old ./dhdb_data.tmp | sort | uniq | head -n 1250 | awk "{ print $2 }"))
             if [ "${#dhdb_data[@]}" == 0 ]; then
-                dhdb_data=($(get_total_line=$(sed -n '$=' ../dhdb_alive.txt) && for (( tmp = 0; tmp < 1000; tmp++ )); do generate_radom_line=$(( RANDOM%${get_total_line} )); generate_radom_line=$[generate_radom_line + 1]; sed -n "$generate_radom_line"p ../dhdb_alive.txt; done > ./dhdb_alive.old && get_total_line=$(sed -n '$=' ../dhdb_dead.txt) && for (( tmp = 0; tmp < 500; tmp++ )); do generate_radom_line=$(( RANDOM%${get_total_line} )); generate_radom_line=$[generate_radom_line + 1]; sed -n "$generate_radom_line"p ../dhdb_dead.txt; done > ./dhdb_dead.old && cat ./dhdb_alive.old ./dhdb_dead.old | sort | uniq | awk "{ print $2 }"))
+                dhdb_data=($(get_total_line=$(sed -n '$=' ../dhdb_alive.txt) && for (( tmp = 0; tmp < 1000; tmp++ )); do generate_radom_line=$(( RANDOM%${get_total_line} )); generate_radom_line=$[generate_radom_line + 1]; sed -n "$generate_radom_line"p ../dhdb_alive.txt; done > ./dhdb_alive.old && get_total_line=$(sed -n '$=' ../dhdb_dead.txt) && for (( tmp = 0; tmp < 250; tmp++ )); do generate_radom_line=$(( RANDOM%${get_total_line} )); generate_radom_line=$[generate_radom_line + 1]; sed -n "$generate_radom_line"p ../dhdb_dead.txt; done > ./dhdb_dead.old && cat ./dhdb_alive.old ./dhdb_dead.old | sort | uniq | awk "{ print $2 }"))
             fi
         fi
     fi
