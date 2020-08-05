@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.1
+# Current Version: 1.1.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
@@ -22,7 +22,7 @@ function AnalyseData() {
             dhdb_data=($(cat ../dhdb_dead.txt > ./dhdb_data.old && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_data.old ./dhdb_data.tmp | sort | uniq | head -n 3000 | awk "{ print $2 }"))
         else
             dhdb_data=($(cat ../dhdb_alive.txt ../dhdb_dead.txt > ./dhdb_data.old && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./dhdb_data.old ./dhdb_data.tmp | sort | uniq | head -n 3000 | awk "{ print $2 }"))
-            if [ "${#dhdb_data[@]}" == 0 ]; then
+            if (( ${#dhdb_data[@]} == 0 )); then
                 dhdb_data=($(get_total_line=$(sed -n '$=' ../dhdb_alive.txt) && for (( tmp = 0; tmp < 1200; tmp++ )); do generate_random_line=$(( RANDOM%${get_total_line} )); generate_random_line=$[generate_random_line + 1]; sed -n "$generate_random_line"p ../dhdb_alive.txt; done > ./dhdb_alive.old && get_total_line=$(sed -n '$=' ../dhdb_dead.txt) && for (( tmp = 0; tmp < 300; tmp++ )); do generate_random_line=$(( RANDOM%${get_total_line} )); generate_random_line=$[generate_random_line + 1]; sed -n "$generate_random_line"p ../dhdb_dead.txt; done > ./dhdb_dead.old && cat ./dhdb_alive.old ./dhdb_dead.old | sort | uniq | awk "{ print $2 }"))
             fi
         fi
