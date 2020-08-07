@@ -1,6 +1,5 @@
 0-100.com
 00-gov.cn
-00.net
 00.syo.mx
 0006266.com
 0006999.com
@@ -261,7 +260,6 @@
 1-yuan.net
 1.allyes.com.cn
 1.atrack.114913.xyz
-1.cc
 1.chcx.cn
 1.codezh.com
 1.dwx365.com
@@ -275,7 +273,6 @@
 1.wps.cn
 1.xiaopin5.com
 1.xiaozhizhijia.com
-10.com
 100.adsina.allyes.com
 10000shequ.com
 10000tc.com
@@ -653,7 +650,6 @@
 17yue.me
 17zhidao.com
 17zhuangxiu.com
-18.net
 181839.com
 181lm.net
 1828.com
@@ -1004,7 +1000,6 @@
 3.32.ddns.name
 3.32.trickip.org
 3.tracker.eu.org
-30.com
 3000.ddj138.com
 3000api.com
 300ca0d0.space
@@ -1020,7 +1015,6 @@
 30ka.com
 30nl.net
 30wish.com
-31.com
 310ca263.space
 310tv.com
 311100.com
@@ -1060,7 +1054,6 @@
 323400.com
 329.my03.com
 32w.net
-33.com
 33.homeip.net
 3300gf.com
 3304399.com
@@ -1086,7 +1079,6 @@
 33k.cc
 33lm.cc
 33shangyou.com
-34.com
 3400.org
 340ca71c.space
 345down.com
@@ -1425,7 +1417,6 @@
 482hb.cn
 48575.com
 487.microcycas.com
-49.com
 491.serveftp.com
 4948.com
 497-img.com
@@ -1709,7 +1700,6 @@
 52youji.org
 52zhizuo.com
 52zhushan.com
-53.net
 531314.com
 531dns.com
 533.net
@@ -1798,7 +1788,6 @@
 58xmgys.com
 58xuechewang.com
 58yiji.com
-59.com
 591master.com
 591pifa.com
 593pi.cn
@@ -1878,7 +1867,6 @@
 5z5zw.com
 6.deaftone.com
 60.adsina.allyes.com
-60.cm
 60012.com
 600895.com
 601601.com
@@ -1894,7 +1882,6 @@
 60mil.com
 60nm.com
 61.adsina.allyes.com
-61.com
 612345.com
 61658.com
 61bb.com
@@ -1912,7 +1899,6 @@
 629055.com
 629k.com
 62game.com
-63.com
 63.wrating.com
 630337.com
 638.serveftp.com
@@ -1988,7 +1974,6 @@
 67tuan.com
 67wanwan.com
 67yes.com
-68.com
 68.serveftp.com
 685.com
 685862.vip
@@ -2070,7 +2055,6 @@
 70qn.com
 70wei.com
 70yst.cn
-71.com
 710071.net
 711.nets.hk
 71133.com
@@ -2172,7 +2156,6 @@
 77wanmei.com
 77xtv.com.tw
 77y8.com
-78.com
 785.microcycas.com
 785959.vip
 7864.com
@@ -2183,7 +2166,6 @@
 789box.com
 789hi.com
 78zph.com
-79.com
 7903dabd2b6.com
 7937.com
 7979la.com
@@ -2239,8 +2221,6 @@
 7zhan.com
 8-host.com
 8.jygnet.org
-80.com
-80.hk
 8003605.com
 800646.com
 8006tu.com
@@ -2300,16 +2280,13 @@
 839.tuoitrevn.es
 83edu.net
 83om.com
-84.com
 84.epac.to
-84.vc
 84491188.com
 84684.net
 849959.com
 84dwc.com
 84lm.com
 84lm.net
-85.com
 85.ddns.ms
 85.slyip.com
 853126.com
@@ -2319,7 +2296,6 @@
 85rvq.cn
 85tgw.com
 85wa.cn
-86.cc
 863my.com
 865211.com
 865ba.azurewebsites.net
@@ -2557,7 +2533,6 @@
 94rp.com
 94xsw.net
 94yiren.com
-95.com
 95060.com
 95081.com
 95158.com
@@ -3751,8 +3726,6 @@ apple-store.wang
 apple-usa.net
 apple.com.akadns.net
 apple.comscoreresearch.com
-apple.xn--czr694b
-apple.xn--fiqs8s
 apple4.us
 appleads-trk.com
 appleadstech.com
@@ -9004,7 +8977,6 @@ emjob.com
 emuban.com
 enbar.net
 enbowang.com
-endurablecrayon.comthird-party
 enfi.vip
 enfodesk.com
 enfogrowth.com
@@ -10516,7 +10488,6 @@ gscidc.net
 gsdlcn.com
 gsflcp.com
 gshhqy.com
-gshk.happy-host.com/test
 gshtrl.top
 gsi.com.ve
 gsjie.com
@@ -13385,7 +13356,6 @@ jsmen.com
 jsnol.com
 jsnywl.kfi8.com
 jspfa.org
-jsqmt.qq.c
 jsrcu.com
 jsrrcb.com
 jsrxjt.com
