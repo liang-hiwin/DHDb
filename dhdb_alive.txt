@@ -9090,7 +9090,6 @@
 999.jbi6689.com
 999.jbi9988.com
 999.no9988.net
-999.zb158.com
 999.zc555888.com
 9991.com
 999120.net
@@ -13255,7 +13254,6 @@ api.inwemo.com
 api.ip.sb
 api.iplay.163.com
 api.itaoxiaoshuo.com
-api.ketedata.com
 api.ktplay.com
 api.kwaizt.com
 api.leadbolt.net
@@ -31608,7 +31606,6 @@ e.qq.com
 e.qy869.cn
 e.rcaiu.com
 e.ricpt.com
-e.rkw29.cn
 e.sanitwealth.com
 e.sgltc.cn
 e.sogou.com
