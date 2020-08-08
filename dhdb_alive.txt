@@ -2864,7 +2864,6 @@
 22.dynssl.com
 22.eye.rs
 22.flnet.org
-22.gotgeeks.com
 22.jetos.com
 22.ly.rs
 22.suroot.com
@@ -6261,7 +6260,6 @@
 5dplay.net
 5ds.com
 5dydk.com
-5egk.com
 5eplay.com
 5esc.com
 5etv.com
@@ -14781,7 +14779,6 @@ azirevpn.net
 aznaz.com
 aznmovies.com
 azofreeware.com
-azonvo.com
 azooo.com
 azoyacdn.com
 azoyagroup.com
