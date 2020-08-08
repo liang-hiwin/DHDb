@@ -3877,7 +3877,6 @@ ata-test.net
 atacchina.com
 atax.gamermetrics.com
 atax.teamxbox.com
-atchinese.com
 atcpu.com
 atguigu.org
 atianqi.com
@@ -6708,7 +6707,6 @@ cs-air.com
 cs.ar.fartit.com
 cs.cc.st
 cs.cncn.eu.org
-cs12d.com
 cs2c.com
 cs2ccloud.com
 csabcp.abccp9.com
@@ -8394,7 +8392,6 @@ dx114118.com
 dx168.com
 dx1djqjpnvurw.cloudfront.net
 dx75vdl20lw12.cloudfront.net
-dxcssc.cn
 dxda.com
 dxias.com
 dxjs.com
@@ -9492,7 +9489,6 @@ find-apple.com
 findyou.xin
 finewe.ljqnbiogjp.com
 fingu.net
-finzfin.com
 fiphoenix.com
 fipipo.cn
 fips.uimserv.net
