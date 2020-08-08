@@ -3216,7 +3216,6 @@
 273u.com
 275st.com
 277.etowns.org
-277.gotgeeks.com
 2770014.com
 2770ff.com
 27723.com
@@ -3618,7 +3617,6 @@
 32.huanqiu.com
 32.mrface.com
 32.ns02.biz
-32.slyip.com
 32.slyip.net
 3200138.com
 320106.com
@@ -12480,7 +12478,6 @@ analytics.datahc.com
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.disneyinternational.com
-analytics.dol.gr
 analytics.dvidshub.net
 analytics.ecosia.org
 analytics.eip.telegraph.co.uk
@@ -15281,7 +15278,6 @@ baiye5.com
 baiyewang.com
 baiyi.link
 baiyi181.com
-baiyibuild.com
 baiyinggd.com
 baiyingtx.com
 baiyinjg.com
@@ -27228,7 +27224,6 @@ d2oa97wrxvxm7y.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2pass.com
 d2pxbld8wrqyrk.cloudfront.net
-d2pxvvqoon1wcs.cloudfront.net
 d2q52i8yx3j68p.cloudfront.net
 d2qz7ofajpstv5.cloudfront.net
 d2r3rw91i5z1w9.cloudfront.net
