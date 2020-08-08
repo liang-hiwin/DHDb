@@ -3174,7 +3174,6 @@ aifanr.net
 aifcdn.com
 aihala.com
 aihaoduo.cn
-aihuajia.com
 aihuo.cc
 aiimooc.com
 aijigeci.com
@@ -4898,7 +4897,6 @@ bsteel.net
 bstinfo.com
 bsyauqwerd.pa
 bt.aoeex.com
-bt.avbt123.com
 bt.careland.com.cn
 bt.dy20188.com
 bt.henbt.com
@@ -5418,7 +5416,6 @@ cdn.jquery-uim.download
 cdn.m.okdd.net
 cdn.mdotm.com
 cdn.millennialmedia.com
-cdn.moogos.com
 cdn.openxt.cn
 cdn.puata.info
 cdn.qutyan8848.com
@@ -11628,7 +11625,6 @@ huanleren.com
 huante.com
 huanyin.org
 huanyingzq.com
-huanzhigou.com
 huapiaoliang.com
 huapuzs.com
 huaqimen.com

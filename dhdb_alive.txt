@@ -2710,7 +2710,6 @@
 2018lu.com
 2018rp.com
 2018waipan.com
-2018zjjly.com
 201980.com
 2019ayaya.com
 2019cdac.com
@@ -20829,7 +20828,6 @@ cc.hacked.jp
 cc.kdmmm.cn
 cc.m.jd.com
 cc.moquanad.com
-cc.st123.info
 cc.swiftype.com
 cc.xiaodapei.com
 cc.xtgreat.com
@@ -29292,7 +29290,6 @@ dir001.com
 direct-events-collector.spot.im
 direct.wap.zol.com.cn
 directcreative.com
-directinfoseed.com
 directprimal.com
 directsupport.pt
 directui.com
