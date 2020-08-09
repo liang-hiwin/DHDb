@@ -18602,7 +18602,6 @@ bnr.playmagazines.com
 bnrmetal.com
 bnrsis.com
 bnsx.net
-bnsxkj.com
 bnupg.com
 bnwin.com
 bnxb.com
@@ -29113,7 +29112,6 @@ diff.smartadserver.com
 diff2.smartadserver.com
 diff3.smartadserver.com
 differeditas.club
-difnxm.cn
 dig.bdurl.net
 dig.qbao.com
 dig.zjurl.cn
