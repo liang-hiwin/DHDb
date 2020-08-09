@@ -5226,7 +5226,6 @@
 51php.com
 51piaozi.com
 51pigai.com
-51pintan.com
 51pinwei.com
 51pjmm.com
 51pla.com
@@ -16506,7 +16505,6 @@ beikeapp.com
 beikeba.com
 beikeit.com
 beikel.net
-beilamusi.com
 beileike.com
 beiliangshizi.com
 beimai.com
