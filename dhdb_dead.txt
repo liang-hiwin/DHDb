@@ -3644,7 +3644,6 @@ api.sumokoin.hashvault.pro
 api.szmhxx.cn
 api.tinyhoneybee.com
 api.vasb.cn
-api.wfxll.com
 api.xc17868.com
 api.xtyizilaijx.cn
 api.zenguard.biz
