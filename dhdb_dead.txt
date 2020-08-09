@@ -2310,7 +2310,6 @@
 88-z.com
 88.serveftp.com
 8800271.com.cn
-8800690.com
 8800695.com
 8800808.com
 880331.net
@@ -5790,7 +5789,6 @@ chinacoal.com
 chinacomix.com
 chinaconch.com
 chinaconsulatesf.org
-chinacpec.com
 chinacsf.com
 chinactc.net
 chinaculture.org
