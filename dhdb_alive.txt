@@ -10686,7 +10686,6 @@ adsatt.espn.starwave.com
 adsatt.familyfun.starwave.com
 adsatt.go.starwave.com
 adsatt.movies.starwave.com
-adsbang.top
 adsbro.com
 adsc.wasu.tv
 adscdn.baidu.com
