@@ -25853,7 +25853,6 @@ cprs31b.icu
 cps.yaoqing.com
 cps800.com
 cpsbeijing.org
-cpsct.com
 cpshwl.cn
 cpt.itv.com
 cptae.com
@@ -31032,7 +31031,6 @@ duxumpou.com
 duyao001.com
 duyaoss.com
 duyaossr.com
-duyidu.com
 duyidu.net
 duyixing.com
 duzelong.com
