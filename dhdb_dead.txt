@@ -660,7 +660,6 @@
 189qas.com
 189read.net
 189sec.com
-189share.com
 189smarthome.com
 189store.com
 189works.com
@@ -6437,7 +6436,6 @@ coiner.site
 coinhive.com
 coinhiver.com
 cointobe.com
-coleboats.com
 colipu.com
 collect.igodigital.com
 collect.log.ttpod.com
