@@ -2782,7 +2782,6 @@ a52.privatedns.org
 a6.bjdianyue.com
 a6.hn985.com
 a6.hujiang.com
-a6.wechatpu.com
 a6262.com
 a67.com
 a6s.chaojilamei.cn
@@ -9613,7 +9612,6 @@ free4u.com.ar
 free789.com
 freechinaradio.com
 freecls.com
-freecontent.com
 freecontent.download
 freecontent.live
 freecontent.review
@@ -13368,7 +13366,6 @@ juyouqian.com
 juyouquan.net
 juyuange.org
 juzhongjoy.com
-juziwl.com
 juziyinyue.com
 jvmai.com
 jvyigg.biquge.lu
