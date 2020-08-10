@@ -4606,7 +4606,6 @@ bjssmd.net
 bjsubway.cc
 bjsxljs.com
 bjsyqw.com
-bjszzzx.com
 bjtelecom.net
 bjtengda.cn
 bjtimes.net
@@ -6362,7 +6361,6 @@ cnsuv.com
 cnt.statistic.date
 cntapp.com
 cntheory.com
-cntumor.com
 cntv.wrating.com
 cnuninet.net
 cnvps.com
