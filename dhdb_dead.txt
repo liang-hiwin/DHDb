@@ -447,7 +447,6 @@
 133china.com
 133u.com
 133x394.gif
-135-139.com
 135-cdn.com
 135198.net
 135box.com
@@ -15967,7 +15966,6 @@ msg.mbm.cn.miaozhen.com
 msg.mobile.kglink.cn
 msgtjj.com
 mshengb.com
-msiyw.com
 msmartlife.com
 msn.qtmojo.com
 msocdn.com
@@ -24755,7 +24753,6 @@ xnghmc.com
 xnhdgame.com
 xnnpc.com
 xnpic.com
-xnrg.net
 xns315.com
 xnsdun.com
 xnxin.com
