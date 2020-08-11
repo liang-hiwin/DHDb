@@ -10374,7 +10374,6 @@ adimg.uimserv.net
 adimg.uve.weibo.com
 adimg1.chosun.com
 adimg3.search.naver.net
-adimgs.xici.net
 adimp.excite.co.jp
 adinall.com
 adinallcdn.com
@@ -14612,7 +14611,6 @@ awhoufob.com
 awjiaju.com
 awjkddtq.com
 awkjs.com
-awolau.com
 aword.net
 awoyun.com
 awqsaged.cn
