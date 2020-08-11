@@ -14761,7 +14761,6 @@ b.77shw.com
 b.admedia.com
 b.ads1.msn.com
 b.am15.net
-b.aowugame.com
 b.appjiagu.com
 b.babylon.com
 b.baiy.net
@@ -26257,7 +26256,6 @@ cshixi.com
 cshnkj.com
 cshwhy.cn
 cshxdc.com
-cshzw.com
 csi.gstatic.com
 csiaexpo.com
 csic-ljtech.com
