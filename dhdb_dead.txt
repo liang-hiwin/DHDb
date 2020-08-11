@@ -2192,7 +2192,6 @@
 7x3mh.cn
 7xsf3h.com1.z0.glb.clouddn.com
 7yueji.com
-7zgame.com
 7zhan.com
 8-host.com
 8.jygnet.org
@@ -6846,7 +6845,6 @@ czds.net
 czedu.com
 czfdc.com
 czjdu.com
-czkaichi.com
 czkingdee.com
 czpwm.com
 czqsyyey.com
@@ -10227,7 +10225,6 @@ go2.mercy.ga
 go2050.com
 go2hn.com
 go2tu.com
-go365.ml
 goa.minecraftnoob.com
 goa.spacetechnology.net
 goagentplus.com
@@ -15027,7 +15024,6 @@ m.psrkoce.cn
 m.ptcff666.com
 m.pwjhg.com
 m.pyerc.com
-m.q671e.cn
 m.qdeia.com
 m.qdiut.com
 m.qhout.com

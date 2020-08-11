@@ -27836,7 +27836,6 @@ data.queryly.com
 data.reactandshare.com
 data.studioapi.com
 data.studybreakmedia.com
-data.xici.net
 data.yd126.com
 data.younow.com
 data2.gosquared.com
