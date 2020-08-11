@@ -1600,7 +1600,6 @@
 51weidashi.com
 51wish.com
 51wj.com
-51xgjd.com
 51xianwan.com
 51xiaohua.com
 51xie.com
@@ -5588,7 +5587,6 @@ changantaihe.com
 changba-ktv.com
 changbaapi.com
 changbaimg.com
-changfon.com
 changhehengqi.com
 changhongit.com
 changjiangdata.com
@@ -8789,7 +8787,6 @@ ee.ou96i.cn
 ee.psrkoce.cn
 ee.qc.to
 ee.s69zl.cn
-ee.shixunwang.net
 ee.u0r9.cn
 ee.uh64b.cn
 ee.xfya3.cn
