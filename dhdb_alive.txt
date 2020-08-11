@@ -5589,7 +5589,6 @@
 52gvim.com
 52hardware.com
 52hibuy.com
-52homie.cn
 52hotel.net
 52hrtt.com
 52hrttpic.com
@@ -19060,7 +19059,6 @@ brisk.eu.org
 briticatederfd.site
 briticsvocabin.club
 brizzly.com
-brkmd.com
 brlinked.com
 bro.flyme.cn
 broad-ocean.com
@@ -23796,7 +23794,6 @@ client-stats.gclick.cn
 client.88tours.com
 client.show.qq.com
 client.sidesearch.lycos.com
-client.stats.yinyuetai.com
 client.tv.uc.cn
 client51.com
 clientanalysis.cmvideo.cn
