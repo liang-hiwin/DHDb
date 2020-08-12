@@ -16707,7 +16707,6 @@ mm.awrsx.cn
 mm.com
 mm.jgchq.com
 mm.tiansin.com
-mm131.com
 mm2hplan.com
 mm957.com
 mmae.qtmojo.com
@@ -18640,7 +18639,6 @@ proxy.com.de
 proxy.googlezip.net
 proxy.mytestminer.xyz
 proxy.yt
-proxy.zalmos.com
 proxybig.net
 proxybrowsing.com
 proxyfort.com
@@ -19645,7 +19643,6 @@ rsas.szzek.com
 rsjztz.com
 rsng.net
 rstatic.net
-rt-mart.net
 rtb.ad-stir.com
 rtb.eanalyzer.de
 rtbanalytics.com
@@ -24631,7 +24628,6 @@ www.bc248.com
 www.betezee.com
 www.bg0008.com
 www.bilifl.com
-www.bitasiaex.com
 www.bitcoiner.win
 www.biwei198.com
 www.bjorksta.men
