@@ -7459,7 +7459,6 @@ d.gz2010.cn
 d.hdd2.host
 d.kglink.cn
 d.ma.social-touch.com
-d.ns02.top
 d.ns22.ru
 d.pc22.pw
 d.sh22.us
@@ -10760,7 +10759,6 @@ gdtex.com
 gdtnio.com
 gdtrafficad.com
 gdwca.com
-gdwxmz.com
 gdxxb.com
 gdxy6.com
 gdyjs.com
