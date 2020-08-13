@@ -3921,7 +3921,6 @@ api.lwansc.cn
 api.mobads4app.com
 api.monero.hashvault.pro
 api.netflare.info
-api.no4book.com
 api.ppoi.org
 api.proxlet.com
 api.push.daoyoudao.com
@@ -8111,7 +8110,6 @@ dapdap.io
 dapeitang.com
 dappdiscover.com
 dapskja.cn
-dapuyu.com
 daqi.com
 daqiangolf.com
 daqids.com
@@ -10048,7 +10046,6 @@ fchio.com
 fclrc.218btt.com
 fcm.baidu.com
 fcsass.org.cn
-fcsjw.com
 fcyhw.com
 fd7c.com
 fda.gov.tw
@@ -18891,7 +18888,6 @@ qianchuanghr.com
 qiandu.com
 qianduan.com
 qianduanfan.com
-qianfang.biz
 qiang56.com
 qiangbe.com
 qianggen.com
@@ -22031,7 +22027,6 @@ tinglanstg.com
 tinglibaohuqi.com
 tingmall.com
 tingmimi.net
-tingmin.com.cn
 tinkad.net
 tinwong.cn
 tinygroup.org
