@@ -8140,6 +8140,7 @@
 88.etowns.org
 8800.org
 8800690.com
+8800695.com
 8801.net
 880114.com
 880735.com
@@ -10786,6 +10787,7 @@ admarvel.s3.amazonaws.com
 admarvel.top
 admaster.com
 admaster.com.cn
+admaster.mobi
 admclub.com
 admd.housefun.com.tw
 admd.yam.com
@@ -19035,6 +19037,7 @@ bm8.tv
 bm880.cc
 bm8885.com
 bm919.com
+bm969.com
 bmadx.com
 bmatch.tech
 bmcm.pw
@@ -30086,6 +30089,7 @@ deutsche-welle.de
 dev-deu-1.inf.nimiq.network
 dev-deu-2.inf.nimiq.network
 dev-gameservice-v2.firebaseio.com
+dev-tracker.nullrebel.com
 dev.atas.io
 dev.coinlab.biz
 dev.cryptobara.com
@@ -39207,6 +39211,7 @@ gashr.com
 gasolina.ml
 gasshow.com
 gastracker.io
+gasxf.com
 gaszx.com
 gate-project.com
 gate.io
@@ -41776,6 +41781,7 @@ guojj.com
 guojucloud.com
 guojusoft.com
 guokr.com
+guoku.com
 guolaiwanba.com
 guoli.com
 guolianglab.org
