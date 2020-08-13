@@ -1845,7 +1845,6 @@
 158aq.com
 158dy.net
 158jixie.com
-159.com
 15avav.xyz
 15cdn.com
 15cr.com
@@ -13740,7 +13739,6 @@ api.bz
 api.callget.cn
 api.citizenvpn.com
 api.cloudmobi.net
-api.cmt.mob.com
 api.coin-hive.com
 api.coinerra.com
 api.coolguang.com

@@ -3176,7 +3176,6 @@ adm.baidu.cn
 adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
-admaster.mobi
 admin.cpufan.club
 admin.edu.pl
 admin5.net
@@ -10681,7 +10680,6 @@ gaozhiip.com
 gaozhisheng.net
 gapsfartrely.best
 gasfw.com
-gasxf.com
 gate-dhgames.com
 gate.huang.cool
 gate.hws.ru
@@ -11275,7 +11273,6 @@ guohyx.com
 guojing-tech.com
 guokr.io
 guokr.net
-guoku.com
 guoluonews.com
 guolv.com
 guomii.com
