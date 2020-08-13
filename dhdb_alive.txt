@@ -32937,6 +32937,7 @@ e-ging.net
 e-ging.xyz
 e-gold.com
 e-growmarketing.net
+e-hentai.eu
 e-hentai.org
 e-hentaidb.com
 e-info.org.tw
@@ -49246,6 +49247,7 @@ ipuu.net
 ipuyuan.com
 ipv4.gdt.qq.com
 ipv4.tracker.harry.lu
+ipv6-publictracker.zooki.xyz
 ipv6.freebitco.in
 ipv6.la
 ipv6.tracker.btsync.gq
@@ -58655,6 +58657,7 @@ lzwifi.com
 lzxczs.com
 lzxdly.com
 lzxgo.com
+lzy-fred.com
 lzydjy.com
 lzytt.com
 lzyun.vip
