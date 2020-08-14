@@ -3060,7 +3060,6 @@ actions-semi.com
 activate.wip3.adobe.com
 actives.youku.com
 activity.frequency.com
-acv5e.cn
 acwgf.com
 acxiom-online.com
 acxiomapac.com
@@ -4456,7 +4455,6 @@ baiduspider1.cn
 baidustatie.com
 baidutt.com
 baiduvip.life
-baiduvip.space
 baiduwapjs1.chinaiiss.com
 baiduwebgame.com
 baiduyun.com
