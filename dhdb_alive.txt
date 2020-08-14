@@ -1313,6 +1313,7 @@
 112.b0ne.com
 112112.com
 11222.com
+112263.com
 1122dh.com
 1123095.com
 112345dfs.awzdx.cn
@@ -13804,6 +13805,7 @@ api.moneroocean.stream
 api.moogos.com
 api.mp.uc.cn
 api.newad.ifeng.com
+api.no4book.com
 api.nobeta.com.br
 api.oneaudience.com
 api.oneyuan.nagezan.net
@@ -21406,6 +21408,7 @@ calibre-ebook.com
 calibur.tv
 callda.com
 callersbane.com
+callhulu.com
 callmexo.club
 caloinfo.com
 calonye.com
@@ -29207,6 +29210,7 @@ dapinyin.com
 dapmax.com
 dapou.us
 dapu.com
+dapuyu.com
 daq0d0aotgq0f.cloudfront.net
 daqianduan.com
 daqiso.com
@@ -36434,6 +36438,7 @@ fcnes.com
 fcpiao.com
 fcrc114.com
 fcrdb.com
+fcsjw.com
 fcstsy.com
 fctsq.com
 fcuit.com
@@ -37027,6 +37032,7 @@ findshu.net
 findtubes.com
 findx2.info
 findxk.com
+findyourlimits.com
 findyoutube.com
 findyoutube.net
 findzd.com
@@ -37949,6 +37955,7 @@ freehk.live
 freehome25.net
 freehongkong.org
 freehostia.com
+freehulu.com
 freeibook.com
 freeidea.win
 freeilhamtohti.org
@@ -45065,6 +45072,9 @@ hookqq.com
 hoolai.com
 hoolaigames.com
 hoolo.tv
+hooloo.tv
+hoolu.com
+hoolu.tv
 hoolyfy.com
 hoop-archi.com
 hoop8.com
@@ -45715,6 +45725,7 @@ htzdj.com
 htzyw.com
 hu.25u.com
 hu188.net
+hu1u.com
 hua-lan.com
 hua-yong.com
 hua-yue.net
@@ -46230,12 +46241,36 @@ hulichicken.com
 hulinhong.com
 hulkdev.com
 hulkshare.com
+huloo.cc
+huloo.tv
 hulu.com
+hulu.tv
+huluaction.com
 huluad.com
+huluapp.com
+huluasks.com
 huluboshi.com
+hulucall.com
+hulufree.com
+hulugans.com
+hulugermany.com
+hulugo.com
+huluinstantmessenger.com
+huluitaly.com
+hulunet.com
+hulunetwork.com
 huluo.com
+huluplus.com
+hulupremium.com
+hulupurchase.com
 huluqa.com
+hulurussia.com
 hulusi.com
+huluspain.com
+hulusports.com
+huluteam.com
+hulutv.com
+huluusa.com
 huluwa365.com
 huluxia.com
 huluxia.net
@@ -51986,6 +52021,7 @@ join.gov.tw
 joinbbs.net
 joindata.net
 joiningss.com
+joinmaidez.com
 joinmastodon.org
 joinquant.com
 joinsen.com
@@ -63341,6 +63377,7 @@ musemagazine.it
 mushada.com
 mushapi.com
 mushroomchina.com
+mushymush.tv
 music-buy.com
 music.apple.com
 music163.com
@@ -63691,6 +63728,7 @@ myhpsupport.com
 myhuahuo.com
 myhug.cn
 myhuilv.com
+myhulu.com
 myhuoxingtan.com
 myicloud.vip
 myie.me
@@ -67212,6 +67250,7 @@ origin-mc.corel.com
 origin-tracking.trulia.com
 origin.chron.com
 origin.events.byton.com
+originalhulu.com
 originalkindergarten.com
 origincn.com
 originedreting.site
@@ -68127,6 +68166,7 @@ payeco.com
 payfun.io
 paygonline.com
 payhearts.com
+payhulu.com
 payloads.online
 paymax.cc
 paypal-community.com
@@ -71392,6 +71432,7 @@ qianduank.com
 qiandw.com
 qianfan123.com
 qianfan365.com
+qianfang.biz
 qianfangzy.com
 qianfanyun.com
 qianfuyin.com
@@ -73416,6 +73457,7 @@ regishome.com
 regislandery.club
 register.appsflyer.com
 register.moex.gov.tw
+registerhulu.com
 registration.presonus.com
 registry.google
 reglogo.net
@@ -83722,6 +83764,7 @@ thehindu.in
 thehitsusa.com
 thehollywoodgossip.com
 thehousenews.com
+thehulubraintrust.com
 thehun.net
 thehypermodern.com
 theiei.com
@@ -84349,6 +84392,7 @@ tingjiandan.com
 tingke8.com
 tinglian.com
 tingliku.com
+tingmin.com.cn
 tingroom.com
 tingshubao.com
 tingshuge.com
@@ -85523,6 +85567,7 @@ tracker.neon-images.com
 tracker.nitrix.me
 tracker.nitropay.com
 tracker.noobsubs.net
+tracker.nullrebel.com
 tracker.nyap2p.com
 tracker.open-internet.nl
 tracker.open-tracker.org
@@ -98590,6 +98635,7 @@ wwwer.net
 wwwfacebok.com
 wwwfacebook.com
 wwwhost.biz
+wwwhuluplus.com
 wwwimages.adobe.com
 wwwimages2.adobe.com
 wwwimg.86sjx.com
