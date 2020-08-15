@@ -24278,7 +24278,6 @@ chongchuang.biz
 chongdeedu.com
 chongdongshequ.com
 chongnuoji.com
-chongqing.la
 chongqingdongjin.com
 chongqinglug.org
 chongqishuichi.com
@@ -24677,7 +24676,6 @@ city8.com
 city9x.com
 cityads.ru
 cityclubcasino.com
-citydh.com
 citygf.com
 cityhui.com
 citylab.com
@@ -30081,7 +30079,6 @@ deutsche-welle.de
 dev-deu-1.inf.nimiq.network
 dev-deu-2.inf.nimiq.network
 dev-gameservice-v2.firebaseio.com
-dev-tracker.nullrebel.com
 dev.atas.io
 dev.coinlab.biz
 dev.cryptobara.com
