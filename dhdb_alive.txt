@@ -2004,7 +2004,6 @@
 16i.cc
 16k6.com
 16ker.com
-16kxsw.com
 16lao.com
 16lo.com
 16o8.com
@@ -9803,7 +9802,6 @@ aa2211.com
 aa228.net
 aa43z7.com
 aa65535.com
-aa6789.com
 aa757.net
 aa783.com
 aa835.net
@@ -25085,7 +25083,6 @@ cloud.codenow.cn
 cloud.com
 cloud.mail.ru
 cloud.webtype.com
-cloud.xdrig.com
 cloud.zyiis.net
 cloudacc-inc.com
 cloudajs.org
@@ -30265,7 +30262,6 @@ dgq2018.com
 dgqjj.com
 dgqzjx.com
 dgrbcj.com
-dgsbtjx.com
 dgsgly.com
 dgsme.org
 dgt-factory.com
