@@ -26544,7 +26544,6 @@ conf.funshion.com
 conf.hpplay.cn
 conf.international.baidu.com
 conf.vidown.cn
-conf.xdrig.com
 conf.xiniuz.com
 confiant-integrations.global.ssl.fastly.net
 config-ltvp.inmobi.com
