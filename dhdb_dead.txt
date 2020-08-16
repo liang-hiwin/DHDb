@@ -9663,7 +9663,6 @@ elfjs.com
 elgnet.com
 elgordo.com.ve
 elife.com
-elitejlb.com
 ellll.com
 elongstatic.com
 els-cdn.com
@@ -15816,7 +15815,6 @@ m.ajiuc.com
 m.assigned.cn
 m.autobedo.com.cn
 m.axsre.com
-m.b2fwnu.cn
 m.b5wx1.cn
 m.baidu.com.yiqisee.cn
 m.baiyangzs.com
@@ -16884,7 +16882,6 @@ moh7.com
 mohe6.com
 mohecm.com
 mohu.tw
-mohuanhua.com
 moimg.net
 mojicb.com
 mojicdn.com
