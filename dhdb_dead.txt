@@ -1419,7 +1419,6 @@
 42rca.cn
 42ye.com
 43110.cf
-43242.zh1144.com
 4336wang.cn
 437zhifu.com
 438vip.com
@@ -3939,7 +3938,6 @@ api.jsecoin.com
 api.jsfc8.cn
 api.koudaikj.com
 api.l33tsite.info
-api.lgsstyel.com
 api.linksalpha.com
 api.lwansc.cn
 api.mobads4app.com
@@ -6539,7 +6537,6 @@ chureng.com
 chushigangdrug.ch
 chushoushijian.cn
 chutangpu.cn
-chutaobalde.com.br
 chuxiangyi.com
 chuxingyouhui.com
 chuxinhudong.com
@@ -21502,7 +21499,6 @@ sxwbs.com
 sxwpyx.com
 sxwrsa.org
 sxxca.com
-sxxjdz.com
 sxybjjz.cn
 sxycrb.com
 sxympy.com
