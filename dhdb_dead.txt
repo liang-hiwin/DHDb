@@ -2395,6 +2395,7 @@
 84lm.net
 85.ddns.ms
 85.slyip.com
+85058s.com
 853126.com
 854.serveftp.com
 85655095.com
@@ -3285,6 +3286,7 @@ adsrv1.tapad.com
 adsrvmedia.adk2x.com
 adss.dotdo.net
 adstat.cp11.ott.cibntv.net
+adstellar.icu
 adstract.adk2x.com
 adthor.com
 adtmm.com
@@ -8607,6 +8609,7 @@ dl.client.baidu.com
 dl.g.youku.com
 dl.img80.net
 dl.jianshunrui.com
+dl.sybspools.com
 dl.xzqxzs.com
 dl1gkkomie22y.cloudfront.net
 dl1sw.baidu.com
@@ -12674,6 +12677,7 @@ i.9le.net
 i.dc.cig.com.cn
 i.domob.cn
 i.holalauncher.com
+i.hzblic.com
 i.jiajv.net
 i.jumptap.com
 i.luyongkang.top
@@ -15930,6 +15934,7 @@ m.huyulh.com
 m.hy10010.com.cn
 m.i05h.cn
 m.icoc2018.cn
+m.iduob.com
 m.inccnd.com
 m.inchangling.com
 m.infvb.com
@@ -17702,6 +17707,7 @@ nwbbs.com
 nwct.me
 nwejs.alcryp.com
 nwffx.xyz
+nwk6in.cn
 nwpu.net
 nwpuis.top
 nwxzs.com
@@ -19259,6 +19265,7 @@ quickleft.net
 quicksdk.net
 quicktask.xyz
 quipin.cn
+quite-bag-seed-catch.xyz
 qukan.cc
 qukanshu.com
 qukuai.com
