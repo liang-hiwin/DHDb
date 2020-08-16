@@ -544,6 +544,7 @@
 16.scr.ns01.biz
 160.com
 1605999.com
+160970.com
 160x300.gif
 160x600.gif
 160x600.htm
@@ -4650,6 +4651,7 @@ bbgsite.com
 bbgyy.net
 bbioo.com
 bbnfcfrvjs.com
+bboymp3.com
 bbs.alxx520.com
 bbs.hasi.wang
 bbs.jygnet.org
@@ -6131,6 +6133,7 @@ chajiaotong.com
 chajie.com
 chakuaizhao.com
 challenge-21c.com
+championmachinery-cn.com
 championshipseriesleague.com
 changanfunds.com
 changansuzuki.com
@@ -6825,6 +6828,7 @@ cn21edu.com
 cn314.com
 cn3v.net
 cn50hz.com
+cn68.com
 cn6szx.com
 cnaaa15.com
 cnaaa6.com
@@ -18779,6 +18783,7 @@ px1.papoto.com
 px2.papoto.com
 pxecn.com
 pxene.com
+pxjjqtg.cn
 pxstda.com
 pxtsc.com
 py-axa.com
