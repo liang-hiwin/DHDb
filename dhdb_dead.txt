@@ -2841,7 +2841,6 @@ a.aspnet.tech
 a.ayzhwl.com
 a.baidu.cn
 a.baike8.info
-a.baiy.net
 a.beilamusi.com
 a.bitmango.com
 a.bnaz.org
@@ -7354,7 +7353,6 @@ ctfo.com
 ctfriend.net
 ctfund.com
 ctiev.com
-ctijx.com
 ctlcdn.com
 ctmcdn.net
 ctobsnssdk.com
@@ -16139,7 +16137,6 @@ m.yjiaj.com
 m.yjkyj.cn
 m.youhuomeishi.com
 m.youweiprint.com
-m.ysgsq.cn
 m.yubomiaomu.cn
 m.yuyanbaojie.cn
 m.ywbwsm.com
@@ -17190,7 +17187,6 @@ mymoive.com
 myp2pch.net
 mypcqq.cc
 mypiao.com
-myproxies.org
 myqcloud.net
 myqinqinbaobei.com
 myscore.org
