@@ -1766,7 +1766,6 @@
 13ddd.com
 13fuwu.com
 13gm.com
-13wn.com
 13ww.net
 13xiaoshuoa.com
 13yg.cn
@@ -17258,7 +17257,6 @@ beihaiting.com
 beihangonline.com
 beihuasoft.com
 beiidc.com
-beijidy.com
 beijing-hmo.com
 beijing-hualian.com
 beijing-ip.com
