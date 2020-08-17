@@ -3760,6 +3760,7 @@ analytics.dol.gr
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics.go.com
+analytics.jabong.com
 analytics.ladmedia.fr
 analytics.performable.com
 analytics.piksel.com
@@ -4299,6 +4300,7 @@ awk.so
 awkvee.sytfsr.com
 awo14.com
 awotuan.com
+awsloft-stockholm.com
 awsstatic.com
 awtks.com
 awtvnrgwxletd.com
@@ -6055,6 +6057,7 @@ cezezo.top
 cezxda.com
 cf.overblog.com
 cf668.com
+cf7.com
 cf89.gold
 cfachina.org
 cfan.xyz
@@ -8998,6 +9001,7 @@ dubester.site
 dubester.space
 duckduckgo-owned-server.yahoo.net
 duckmovies.net
+dudumeijia.com
 dueu.0fwg.cn
 duev25b3a4sjl.cloudfront.net
 dugbvb.com
@@ -16972,6 +16976,7 @@ mrbluyee.com
 mrcat.bet
 mreod.cn
 mrsta.com
+mrycwz.com
 mrzs.net
 ms-studiosmedia.com
 ms.cmcm.com
