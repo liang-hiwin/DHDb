@@ -12992,7 +12992,6 @@ analytics.infobae.com
 analytics.inform.com
 analytics.iraiser.eu
 analytics.islamicfinder.org
-analytics.jabong.com
 analytics.jiuzhilan.com
 analytics.jst.ai
 analytics.kaggle.io
@@ -15368,7 +15367,6 @@ awseducate.com
 awseducate.net
 awseducate.org
 awsloft-johannesburg.com
-awsloft-stockholm.com
 awsok.com
 awspal.com
 awssecworkshops.com
