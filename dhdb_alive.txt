@@ -2465,7 +2465,6 @@
 1b23.com
 1bao.org
 1biaozhun.com
-1biqu.com
 1biquge.com
 1btbtt.com
 1btjia.com
@@ -10222,7 +10221,6 @@ acs4baichuan.m.taobao.com
 acs86.com
 acscdn.com
 acshoes.com
-acsrq.com
 act-telecom.com
 act.acotedemoi.com
 act.commercial.shouji.360.cn
@@ -22711,7 +22709,6 @@ cf.cdn.inmobi.com
 cf.gs
 cf.zaiyunli.cn
 cf027.com
-cf7.com
 cf865.com
 cf8d.stat.gw.youmi.net
 cfanclub.net
@@ -32378,7 +32375,6 @@ duduau.com
 dudubashi.com
 dududu.la
 dudug.cn
-dudumeijia.com
 dudupo.com
 duduyu.net
 dueapp.com
