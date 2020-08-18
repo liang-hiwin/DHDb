@@ -2003,6 +2003,7 @@
 63.wrating.com
 630337.com
 638.serveftp.com
+639311.com
 63pic.com
 64.wuwho.cn
 644446.com
@@ -3679,14 +3680,17 @@ aliyuncdn.com
 aliyunceng.com
 aliyuncss.com
 aliyunddos0020.com
+aliyunddos0030.com
 aliyunddos1001.com
 aliyunddos1002.com
 aliyunddos1005.com
 aliyunddos1009.com
+aliyunddos1011.com
 aliyunddos1012.com
 aliyunddos1015.com
 aliyunddos1022.com
 aliyunddos1025.com
+aliyunddos1026.com
 aliyunddos1028.com
 aliyunduncc.com
 aliyundunwaf.com
@@ -4662,6 +4666,7 @@ bbci.co
 bbcoe.cn
 bbdsdy.com
 bbebb648dd.com
+bbercn.com
 bbestmall.com
 bbeyay41026.cn
 bbfstore.com
@@ -6544,6 +6549,7 @@ chuangyunet.com
 chuanjiaoban.com
 chuanmeizy.com
 chuanye.com
+chubaodai.com
 chucaotang.net
 chuchuguwen.com
 chuchujie.com
@@ -8184,6 +8190,7 @@ daomengad.com
 daoqm.com
 daoyouz.com
 daozhongxing.org
+dapaizixun.com
 dapan.com
 dapdap.io
 dapeitang.com
@@ -8843,6 +8850,7 @@ dongqil.com
 dongshihao.com
 dongtaiwang.org
 dongxuyitai.com
+dongzhuoyao.com
 dontmovetochina.com
 dooreb.com
 dorapp.com
@@ -8901,6 +8909,7 @@ downpb.com
 dows.yuyudl.com
 doyoe.com
 dozer.cc
+dozview.com
 dp02chdsg9x39.cloudfront.net
 dpaxwwk0x1o6o.cloudfront.net
 dpc6.cn
@@ -9066,6 +9075,7 @@ duowanns.com
 duoxj.com
 duoyidd.com
 duoyit.com
+duoyun.info
 duoziwang.com
 dupola.com
 dushe.net
@@ -10076,6 +10086,7 @@ fansimg.com
 fansoon.com
 fantatech.com
 fantong.com
+fanyeda.com
 fanyi100.com.cn
 fanyu.com
 fanzhuang.net.cn
@@ -11129,6 +11140,7 @@ gold58.com
 goldbetsports.com
 golden-infor.com
 golden1.sohu.com
+goldendoc.org
 goldentom.com
 goldmarkrealestate.com
 goldnova.crypto.csgocpu.com
@@ -11304,6 +11316,7 @@ gtja.com
 gtjadev.com
 gtk2.com
 gtlrxt.com
+gtm-i1d6.com
 gtmsdd.alicdn.com
 gtn9.com
 gtshy.com
@@ -13945,6 +13958,7 @@ jjldbk.com
 jjnz.com
 jjoovma.cl
 jjrfw.com
+jjrjd.com
 jjsip.com
 jjtianshangi.com
 jjtonline.com
@@ -14268,6 +14282,7 @@ jupiter.appads.com
 jupiter1.appads.com
 jupiter2.appads.com
 jupiter3.appads.com
+jupiterscdn.com
 juren0.com
 jurtym.cf
 jusdq.com
@@ -15286,6 +15301,7 @@ lieqikankan.com
 lievr.cc
 life-mo.com
 lifecooktv.com
+lifetoy.org
 lifevccdn.com
 lifeweeker.com
 lifox.net
@@ -15715,6 +15731,7 @@ lvyoubaotech.com
 lw0703.com
 lw23.com
 lw85.com
+lwd3699.com
 lwgod.xyz
 lwgsw.com
 lwinfo.com
@@ -17557,6 +17574,7 @@ njx.1108mngewioiewncpoten.top
 njx.8888fsijizocnsfneuhmaspre.xyz
 njxsmaofa.com
 njyyk.com
+njzrxx.xyz
 nkeo.top
 nkjwmb.com
 nklrfqgz.com
@@ -19139,6 +19157,7 @@ qp991919.com
 qplus.com
 qpmue.xyz
 qpstar.com
+qpzq.net
 qq-xmail.com
 qq.guansenff.cn
 qq.m.cn.miaozhen.com
@@ -20124,6 +20143,7 @@ scrtf.com
 scsdns.com
 scsgk.com
 scsjnxh.org
+scsstjt.com
 sctbc.net
 sctcmai.com
 sctv.com
@@ -20336,6 +20356,7 @@ sg536.cn
 sg888.vip
 sg92.com
 sgbfjs.info
+sgcctop.com
 sgchinese.org
 sgcmoeu.cn
 sge.sh
@@ -20926,6 +20947,7 @@ smo-clinplus.com
 smovie168.com
 smrtgs.com
 smsksx.com
+smt-job.com
 smtcdns.com
 smtcdns.net
 smtcl.com
@@ -21014,6 +21036,7 @@ somode.net
 songboy.net
 songhengnet.com
 songqinedu.com
+songruhui.com
 songtaste.com
 songyanjiaye.com
 sonomoyo.com
@@ -21496,6 +21519,7 @@ sxljldh.top
 sxlyfood.com
 sxo50.com
 sxpdk.com
+sxpjp.com
 sxpta.com
 sxptfw.com
 sxrb.com
@@ -22942,6 +22966,7 @@ uptougu.com
 upush.res.meizu.com
 uqd1.net
 uqeegame.com
+uqite.com
 uqszvk.code.weddingeeos.com
 uqum.52shouyou.com.cn
 uqyqcuq.ml
@@ -23274,6 +23299,7 @@ viponlyedu.com
 vips100.com
 vipshoes2.com
 vipshopyao.com
+vipsmt.com
 vipstore.com
 viptcn.com
 vipvps.shop
@@ -25736,6 +25762,7 @@ xiangshu.net
 xiangtone.com
 xiangw.com
 xiangwangdesh.com
+xiangyukj.com
 xiangzhiren.com
 xianjichina.com
 xianjincard.com
