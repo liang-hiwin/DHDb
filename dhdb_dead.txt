@@ -2981,6 +2981,7 @@ aa.goodsblock.mgid.com
 aa.hxyzw.com
 aa.tianya999.com
 aa.xiangxiangmf.com
+aa059.com
 aa1.ifeng.com
 aa13.cloud
 aa7.org
@@ -3989,6 +3990,7 @@ apk.idate520.com
 apk.static.youmi.net
 apk.tv333.us
 apk.uk.ns02.us
+apk2.ga
 apk2.ml
 apkbus.com
 apkdo.com
