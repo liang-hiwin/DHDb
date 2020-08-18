@@ -7054,6 +7054,7 @@
 6acm.com
 6afcp.com
 6ahddutb1ucc3cp.ru
+6amgj.com
 6api.net
 6apt.com
 6b3b.com
@@ -19077,6 +19078,7 @@ blr335.com
 bls.gov
 blskye.com
 bltzsb.com
+blubrry.com
 blue-city.com
 blue-zero.com
 blue9.com.au
@@ -28963,6 +28965,7 @@ daf-rs.com
 dafa888-0.com
 dafa888.com
 dafabet.com
+dafacloud.com
 dafagood.com
 dafahao.com
 dafaji.com
@@ -30944,10 +30947,14 @@ dis.us.criteo.com
 disappenedy.site
 discoins.com
 disconnect.me
+discord.co
 discord.com
 discord.gg
+discord.gift
+discord.gifts
 discord.heihachi.pw
 discord.media
+discord.new
 discordapp.com
 discountbeatsbydre-us.com
 discountbeatsstore.com
@@ -47971,6 +47978,7 @@ ifval.com
 ifxtx.com
 ifzxs.cc
 ig.com
+ig.me
 igame007.com
 igamebuy.com
 igamesocial.net
@@ -57596,6 +57604,7 @@ lixiaolong.org
 lixiaomeng.net
 lixiaoskb.com
 lixiaoyun.com
+lixiaozhe.com
 lixin.co
 lixinger.com
 lixingguang.com
@@ -73900,6 +73909,7 @@ reddit.org
 redditbooru.com
 redditchadvertiser-gb.redditchadvertiser.co.uk
 redditlist.com
+redditmail.com
 redditmedia.com
 reddot-api.gclick.cn
 redewdit.pro
@@ -75339,6 +75349,7 @@ s.sqszs.top
 s.ssggba.top
 s.sufficient.cn
 s.syxsb.top
+s.team
 s.temaidi.com
 s.trafficjam.cn
 s.uidcn.top
@@ -91749,6 +91760,8 @@ webet88.com
 webevade.com
 webevader.com
 webevader.org
+webex.co.it
+webex.com
 webfalse.com
 webflow.com
 webfont.com
