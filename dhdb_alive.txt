@@ -2247,7 +2247,6 @@
 17win.com
 17xgame.com
 17xie.com
-17xlm.com
 17xsj.com
 17xtv.com
 17xtv.info
@@ -2708,7 +2707,6 @@
 2002000.xyz
 200218.com
 2003dns.com
-2004seo.cn
 20063365.com
 2006q.com
 20080088.com
@@ -8124,7 +8122,6 @@
 86junshi.com
 86kdy.com
 86kx.com
-86kyjob.com
 86lawyer.com
 86mai.com
 86mdo.com
@@ -8684,7 +8681,6 @@
 91jxtc.com
 91kami.com
 91kanju.com
-91kmj.com
 91kuzhan.com
 91ld.com
 91lda.com
@@ -18537,7 +18533,6 @@ bjjnzf.com
 bjjqzyy.com
 bjjssh.org
 bjjtat.com
-bjjyj2012.com
 bjjzzpt.com
 bjkaihua.com
 bjkaihua.net
@@ -20238,7 +20233,6 @@ btdb.eu
 btdigg.fyi
 btdigg.org
 btdog.com
-btdownvip.com
 btege.com
 btfan.com
 btfile.sdo.com
@@ -25315,7 +25309,6 @@ cloudservice27.kingsoft-office-service.com
 cloudsgis.com
 cloudsigma.com
 cloudsohu.net
-cloudstack-china.org
 cloudtopo.com
 cloudtrans.com
 cloudtui.com
@@ -28253,7 +28246,6 @@ cxwz.org
 cxxjs.com
 cxxwnews.com
 cxy7.com
-cxybl.com
 cxyl.org
 cxylfc.com
 cxymsg.com
@@ -29745,7 +29737,6 @@ dcms.1688.com
 dcontonalscho.info
 dcop4khjxsmg.com
 dcpackequip.com
-dcr-cd.beeppool.org
 dcrzz.com
 dcs-cleaning.com
 dcs-live.apis.anvato.net
