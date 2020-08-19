@@ -2539,7 +2539,6 @@
 910play.com
 910weixin.com
 912366.com
-912413.com
 91378.com
 913vr.com
 913you.com
@@ -8623,7 +8622,6 @@ divh5.com
 diwh6rhklifti.cloudfront.net
 dixiao.org
 diy.cc
-diyifangdai.com
 diyifanwen.net
 diyijuzi.com
 diyiredian.com
@@ -10198,7 +10196,6 @@ feedsky.com
 feelssh.com
 feemoo.vip
 feeyeah.com
-fefork.com
 fegine.com
 feichangzhuan.com
 feicuiwuyu.com
@@ -17015,7 +17012,6 @@ mozilla.net
 mp.sijiaopingtai.com
 mp.truth.gq
 mp3wifie.com
-mplife.com
 mpos.ren
 mpro.baidu.com
 mps.weekslw.com
