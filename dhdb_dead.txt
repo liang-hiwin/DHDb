@@ -672,6 +672,7 @@
 17wan7.com
 17wanba.com
 17ww.cc
+17xlm.com
 17yue.me
 17zhaole.com
 17zhidao.com
@@ -5045,6 +5046,7 @@ bjinternet.com
 bjjhcczgs.com
 bjjihui.com
 bjjubao.org
+bjjyj2012.com
 bjjzsc.com
 bjk30.com
 bjkrtwl.com
@@ -6776,6 +6778,7 @@ cloudserver01.com
 cloudservice28.kingsoft-office-service.com
 cloudsmobi.com
 cloudsoar.com
+cloudstack-china.org
 cloudtcp.net
 cloudtomicro.com
 cloudvdn.com
@@ -7470,6 +7473,7 @@ cxslchkb.cn
 cxta.com
 cxtxt.com
 cxuyuan.com
+cxybl.com
 cxyd.net
 cxzcz.ztxcwi.cn
 cxzudwk.com
@@ -8308,6 +8312,7 @@ dcloudlive.com
 dcloudstc.com
 dcm3cu7yundx2.cloudfront.net
 dcnqcql.cn
+dcr-cd.beeppool.org
 dcs.maxthon.com
 dcsdn.com
 dcuom.com
@@ -18087,6 +18092,7 @@ oxygenos.com
 oycode.com
 oycslia.xyz
 oycslib.xyz
+oycslic.xyz
 oyell.net
 oyoozo.com
 p-log.ykimg.com
