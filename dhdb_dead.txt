@@ -2601,6 +2601,7 @@
 91wangmeng.com
 91weimi.com
 91weiwang.com
+91xinche.com
 91xtv.com.tw
 91youban.com
 91ysa.com
@@ -3173,6 +3174,7 @@ adcoonfer.com
 add.bugun.com.tr
 add.freeimg8.com
 add.sina.com.cn
+addsd.com
 addthiscdn.com
 addthisedge.com
 adeq.hiidc.com.cn
@@ -3730,6 +3732,7 @@ alpha-star.org
 alpha.nimiqpool.com
 alpha.telemetry.microsoft.com
 alpha3.beeppool.org
+alpha5.beeppool.org
 alryo.cn
 als.baidu.cn
 alu1886.com
@@ -4142,6 +4145,7 @@ areachina.com
 arealx.com
 arena.taipei
 arenacdn.com
+argus.beeppool.org
 arhieason.com
 ariesmob.com
 arizona-miner.tk
@@ -4459,6 +4463,7 @@ babytreeimg.com
 back4.2giga.link
 backend.freecontent.win
 backend.wb888.net
+backupexplorer.beeppool.org
 bacocis.com
 badls.com
 badudns.cc
