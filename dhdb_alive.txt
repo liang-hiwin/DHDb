@@ -10246,7 +10246,6 @@ acl.stayfriends.de
 aclickads.com
 acloudvideos.com
 aclweb.org
-acm.beeppool.org
 acm.org
 acmcoder.com
 acmedia365.com
@@ -31761,7 +31760,6 @@ domolo.com
 domp4.com
 domusblog.org
 domyshop.com
-don.beeppool.org
 don00.com
 donaldseher.com
 doname.com
@@ -32018,7 +32016,6 @@ douya2.com
 douyapu.com
 douyar.com
 douyin.com
-douyingwang.com
 douyinvideo.net
 douyou100.com
 douyu.com
@@ -32330,7 +32327,6 @@ drlong.site88.net
 drlsf.com
 drm-x.com
 drm-x.net
-drm.beeppool.org
 drm.cmgame.com
 drmario-world.com
 drmfslx.cn
