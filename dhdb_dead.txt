@@ -1277,7 +1277,6 @@
 373house.com
 375vip.com
 376zf.com
-379941.com
 37cos.com
 37cu.com
 37dh.com
@@ -1783,7 +1782,6 @@
 52qumao.com
 52shouyou.com.cn
 52shouyu.com
-52ssr.cn
 52tansuo.net
 52tt.vip
 52tushuo.com
@@ -19301,7 +19299,6 @@ quancdn.cc
 quancee.top
 quandangdang.net
 quanfangtongvip.com
-quanji.cc
 quanji.com
 quankan.tv
 quanmeipai.com
@@ -19708,7 +19705,6 @@ romman.net
 romphone.net
 rongdingwl.cn
 rongechain.com
-rongnews.com
 rongquaner.com
 rongtongzc.com
 rongzhijia.com
