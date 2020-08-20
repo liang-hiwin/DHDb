@@ -14819,7 +14819,6 @@ ashvsash.net
 asia-cast.com
 asia-dns.com
 asia-east2-trans-filament-233005.cloudfunctions.net
-asia-mine.beeppool.org
 asia-northeast1-saluton.cloudfunctions.net
 asia.marketo.com
 asia.monerise.com
@@ -27277,7 +27276,6 @@ cpc.sohu.com
 cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net
 cpcccac.com
 cpcmart.com
-cpcontacts.beeppool.org
 cpcpcp222.com
 cpcpcp555.com
 cpcsad.com
