@@ -537,7 +537,6 @@
 153g.net
 154.adsina.allyes.com
 155.com
-155pu.com
 1560008.com
 157120.com
 158.zb158.com
@@ -11853,7 +11852,6 @@ hbky.com
 hblady.com
 hblanghun.cn
 hble6.com
-hbm360.com
 hbpictures.com
 hbqyj.org
 hbrbmedia.com
@@ -21348,7 +21346,6 @@ stats.766.com
 stats.cheddar.com
 stats.com.sg
 stats.ebay.com
-stats.mirror.co.uk
 stats.nimiq.network
 stats.paypal.com
 stats.unity3d.com
@@ -22850,7 +22847,6 @@ ucstat.baidu.cn
 ucstat.baidu.com
 ucvgg.com
 ucvqmvg.cn
-ucxgg.com
 ucxxii.com
 uczzd.com
 uczzd.com.cn
