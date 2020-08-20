@@ -3544,7 +3544,6 @@
 3001.net
 300113.com
 300400.net
-3007vip.com
 300avi.com
 300avs.com
 300hu.com
@@ -13742,7 +13741,6 @@ api-backup.viaxmr.com
 api-deal.kechenggezi.com
 api-ds.kkbox.com.tw
 api-es.doglobal.net
-api-etn.beeppool.org
 api-extractor.com
 api-flow.flyme.cn
 api-flow.meizu.com
