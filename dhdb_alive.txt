@@ -4198,6 +4198,7 @@
 37937.com
 379449.com
 379544.com
+379941.com
 379942.com
 37bjw.com
 37cs.com
@@ -5809,6 +5810,7 @@
 52solution.com
 52souji.net
 52souluo.com
+52ssr.cn
 52survey.com
 52svip.cc
 52svn.com
@@ -10661,6 +10663,7 @@ adcdownload.apple.com
 adcdownload.apple.com.akadns.net
 adcex.com
 adchina.com
+adchitu.net
 adcl.pchome.com.tw
 adclick.g.doublecklick.net
 adclick.g.doubleclick.net
@@ -29055,6 +29058,7 @@ daidage.com
 daidongxi.com
 daidostup.ru
 daijinquanaliyun.com
+daijun.com
 daikela.com
 daikuan.com
 daikuanfanli.com
@@ -73080,6 +73084,7 @@ quanduoduo.com
 quanfeng.tech
 quanguoban.com
 quanidc.com
+quanji.cc
 quanji.la
 quanji.net
 quanji360.com

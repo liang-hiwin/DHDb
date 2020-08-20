@@ -4198,6 +4198,7 @@ ashamparm.site
 ashma.info
 asia-api.yikyakapi.net
 asia-gaming.com
+asia-mine.beeppool.org
 asia.x11.beeppool.org
 asia1.cpufan.club
 asiacorp.net
@@ -7230,6 +7231,7 @@ cpc.9v.cn
 cpc.xioo.cn
 cpcc.xyz
 cpcni.net
+cpcontacts.beeppool.org
 cpcv.cc
 cpcwe.com
 cpecc.net
