@@ -285,6 +285,7 @@
 1.wps.cn
 1.xiaopin5.com
 1.xiaozhizhijia.com
+100.admin5.com
 100.adsina.allyes.com
 10000shequ.com
 10000tc.com
@@ -3104,6 +3105,7 @@ ad-data.starschina.com
 ad-gb.mgid.com
 ad-survey.com
 ad.17173.com
+ad.17zhaole.com
 ad.7simage.com
 ad.adhce.cn
 ad.adk2x.com
@@ -4233,6 +4235,7 @@ associates-amazon.com
 ast.mu722.com
 astbbs.com
 aster18cdn.nl
+aster18prx.nl
 astfc.com
 astoutiao.com
 astropol.ru
@@ -7376,6 +7379,7 @@ csrcsc.com
 csrda.com
 csrme.com
 csrpme.com
+css.juqingba.cn
 css.now-ip.net
 css.privatedns.org
 css22.ga
@@ -9441,6 +9445,7 @@ e.ui46g.cn
 e.uw45o.cn
 e.uwmoghx.cn
 e.v02u9.cn
+e.v48bna.cn
 e.vbaiu.com
 e.vbanm.com
 e.vkjnd.com
@@ -11115,6 +11120,7 @@ gm682.com
 gmbd.cn
 gmcc.net
 gmed.cc
+gmeng.625323.com
 gmgcongress.com
 gmi-gaming.com
 gmiddle.com
@@ -12755,6 +12761,7 @@ i.holalauncher.com
 i.hzblic.com
 i.jiajv.net
 i.jumptap.com
+i.ma.social-touch.com
 i.mengmob.com
 i.ssvpn.me
 i.tapit.com
@@ -13581,6 +13588,7 @@ j2.jygnet.org
 j200d3.cn
 j3.5525.eu.org
 j3.ovpn.im
+j520s.gzcl999.cn
 j66.net
 j7182.hfxcsl.cn
 j94.cc
@@ -14679,6 +14687,7 @@ kingst.org
 kinmen.org.tw
 kinokuniya.com
 kinval.com
+kippbeak.cf
 kir.jp
 kirin-tech.com
 kissyui.com
@@ -15835,6 +15844,7 @@ lzwla.top
 lzzht.googlespider1.cn
 m-finder.com
 m.027blzs.com
+m.06v2j.cn
 m.0898xlj.cn
 m.107279.com
 m.11bl.gold
@@ -16046,6 +16056,7 @@ m.lzytt.com
 m.m86jf.cn
 m.manparis.cn
 m.meizhuli365.cn
+m.mfufanj.cn
 m.mgsue.cn
 m.miiuv.com
 m.mqgpo.com
@@ -16095,6 +16106,7 @@ m.qneit.com
 m.qsove.com
 m.qu79j.cn
 m.qvxyz.com
+m.r507p.cn
 m.rdxhrd.com
 m.rkssxrh.cn
 m.rmuqvq.cn
@@ -23132,6 +23144,7 @@ v.sixiuwl.cn
 v.xiuzhenjewelry.cn
 v00087.com
 v02u9.cn
+v1.kwpewga.cn
 v1.t168.ml
 v1.truth.gq
 v1a.spacetechnology.net
@@ -23154,6 +23167,7 @@ v6ss.xyz
 v7.kawinhome.com
 v707070.com
 v7799.com
+v90327ux.beget.tech
 v9238.store
 v9366.com
 v952.ccdior.com
@@ -23690,6 +23704,7 @@ wasdj.com
 wasu.tv
 watchstor.com
 watercubeart.com
+waterserver.cn
 watertek.com
 watertu.com
 wauee.net
