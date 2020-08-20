@@ -33,6 +33,7 @@
 00time.fun
 01.bit.ddns.ms
 01.buyshouses.net
+0101shop.com
 010cns.com
 010jianzhan.com
 010lf.com
@@ -772,6 +773,7 @@
 1mushroom.com
 1mynews.asia
 1mynews.net
+1news.cc
 1o26.com
 1q2w3.fun
 1q8h.cn
@@ -4287,6 +4289,7 @@ aty.hd.sohu.com
 aty.sohu.com
 au.apk.umeng.com
 au.umeng.co
+au2.beeppool.org
 au5.beeppool.org
 aucheng.cc
 aucheng.vip
@@ -5040,6 +5043,7 @@ bizcn008.com
 bizhicool.com
 bizhimi.com
 bizmoto.com
+bj-bytsk.com
 bj-kpn.com
 bj-sea.com
 bj-shouqi.com
@@ -5061,6 +5065,7 @@ bjcu.u3.ucweb.com
 bjdongxin.com
 bjdt360.com
 bjdxsxy.com
+bjename.cn
 bjfz.cc
 bjgesainuo.com
 bjggk.com
@@ -6587,6 +6592,7 @@ chuanjiaoban.com
 chuanmeizy.com
 chuanye.com
 chubaodai.com
+chucaiyun.cn
 chucaotang.net
 chuchuguwen.com
 chuchujie.com
@@ -8433,6 +8439,7 @@ dejing.laobanfa.com
 del.yuxiangrc.com
 delaynomo.re
 dele222.com
+deleak.com
 deletemer.online
 delib2b.com
 delicious.com
@@ -9092,6 +9099,7 @@ dudumeijia.com
 dueu.0fwg.cn
 duev25b3a4sjl.cloudfront.net
 dugbvb.com
+dugu123.com
 duhao.net
 duihuan123.com
 duihuashijie.com
@@ -13922,6 +13930,7 @@ jinniu168.com
 jinniu89.com
 jinnong.cc
 jinqunla.com
+jinrichaoyang.com
 jinroukong.com
 jinruimedia.com
 jinrungroup.cn
