@@ -5347,6 +5347,7 @@ bqiapp.com
 bqimg.com
 bqruan.com
 br-tattoo.com
+braintreeps.com
 brainwallet.beeppool.org
 brakefluid.website
 brand.sogou.com
@@ -18317,7 +18318,19 @@ paulsimon-music.com
 paxgl.com
 pay838.com
 paympay.com
+paypal-communication.com
 paypal-corp.com
+paypal-engineering.com
+paypal-excelinvoicing.com
+paypal-integration.com
+paypal-japan.com
+paypal-labs.com
+paypal-photocard.com
+paypal-retail.com
+paypal-sptam.com
+paypal-support.com
+paypalcorp.com
+paypalinc.com
 payrao.com
 paytbf.com
 pazou.org
