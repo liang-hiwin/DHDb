@@ -22565,6 +22565,7 @@ cdn.vdopia.com
 cdn.viglink.com
 cdn.wuyou.ca
 cdn.xianliao.me
+cdn.zampda.net
 cdn.zampdsp.com
 cdn.zhuji5.com
 cdn.zyc888.top
@@ -27639,6 +27640,7 @@ crmeb.net
 crmgz.com
 crmip.com
 crmrj.net
+crnds.com
 crocopop.com
 crocotube.com
 crohuiyi.com
