@@ -1476,6 +1476,7 @@
 456juhd.com
 457.serveftp.com
 458.serveftp.com
+4593xx.com
 45app.com
 45io.com
 45le.cn
@@ -1658,6 +1659,7 @@
 51golife.com
 51gongjijin.com
 51gpb.com
+51gpt.com
 51gran.com
 51hangkong.com
 51hcb.com
@@ -2030,6 +2032,7 @@
 639311.com
 6396.com
 63pic.com
+63ys.com
 64.wuwho.cn
 644446.com
 64538.net
@@ -8795,6 +8798,7 @@ dmbjjp7n9kgns.cloudfront.net
 dmeg88.com
 dmeng.net
 dmg.crypto.csgocpu.com
+dmg857.com
 dmiug.com
 dmkp4o0o0bc6a.cloudfront.net
 dmmds.com
