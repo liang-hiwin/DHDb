@@ -8311,6 +8311,7 @@
 88qem.com
 88qnt.com
 88shu.cn
+88tang.com
 88tnd.com
 88tph.com
 88ty96.com
@@ -12480,6 +12481,7 @@ aliyundaiwei.com
 aliyunedu.net
 aliyunfuwuqi.com
 aliyunhn.com
+aliyunlive.com
 aliyunmeng.com
 aliyunqifu.com
 aliyunxin.com
@@ -14000,6 +14002,7 @@ apkjam.com
 apkmirror.com
 apkmodmirror.com
 apkmonk.com
+apkol.com
 apkplug.com
 apkplz.com
 apkplz.net
@@ -20401,6 +20404,7 @@ buglethemfouls.casa
 bugly.qq.com
 bugnull.com
 bugreportv2.qq.com
+bugsec.org
 bugtags.com
 bugutime.com
 bugv.net
@@ -42340,6 +42344,7 @@ gyfcat.com
 gyfmc.com
 gygdmy.com
 gygpumps.com
+gyguohua.com
 gyhj.org
 gyhzr.com
 gylyj.com
@@ -43992,6 +43997,7 @@ helijia.com
 helingqi.com
 heliopods.com
 helishi.net
+heliweb.net
 helixcommunity.org
 helixstudios.com
 helixstudios.net
@@ -79391,6 +79397,7 @@ sitezj.com
 sithc.com
 sitiaoyu.com
 sitirkbit.com
+sitlet.com
 sitongedu.org
 sitongzixun.com
 situskita.net
