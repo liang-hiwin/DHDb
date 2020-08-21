@@ -6026,7 +6026,6 @@ cdn.ttkx22n.com
 cdn.whysoserius.club
 cdn.wwwpromoter.com
 cdn.yimg.com
-cdn.zampda.net
 cdn1-okzy.com
 cdn1.njjlg.com
 cdn1218.com
@@ -7375,7 +7374,6 @@ crmdynint-gcc.com
 crmdynint.com
 crmg-ms.com
 crmicro.com
-crnds.com
 croissed.info
 crosschannel.com
 crossthewall.net
