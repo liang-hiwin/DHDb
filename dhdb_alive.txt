@@ -20,7 +20,6 @@
 001133.app
 0013.cc
 001455.com
-001717.com
 001bank.com
 001cndc.com
 001daima.com
@@ -4593,7 +4592,6 @@
 407wan.com
 4080dyy.com
 4084.cc
-40net.net
 40ya.com
 41188.com
 411au.com
@@ -4628,8 +4626,6 @@
 426g.com
 4275.yzc622.com
 427tbezplqv5.com
-42842805.com
-42842806.com
 42842808.com
 42842809.com
 42842812.com
@@ -5000,7 +4996,6 @@
 5151ad.com
 5151doc.com
 5151sc.com
-51529.com
 5153.com
 5154.18qmm.com
 51555.net
@@ -6198,7 +6193,6 @@
 585998d.com
 5866.com
 58749.admaster.com.cn
-58756.com
 5875879.com
 587c51.com
 58801hn.com
@@ -8351,7 +8345,6 @@
 8961zx.com
 896691.com
 8969.org
-8973.cc
 8977.cc
 8977.com
 8977222.vip
@@ -8973,7 +8966,6 @@
 9596yy.com
 95990007.cc
 9599001.net
-95991100.com
 95991144.com
 95992222b.com
 95992222nn.com
@@ -20522,7 +20514,6 @@ butashasp.site
 buu-cn.com
 buxiugangban.net
 buy-hk.org
-buy.beeppool.org
 buy.yahoo.com.tw
 buy360.vip
 buyaapl.com
@@ -22557,7 +22548,6 @@ cdn.samsung.com
 cdn.scdng.com
 cdn.seatguru.com
 cdn.segment.com
-cdn.sf5115.com
 cdn.shanghai.nyu.edu
 cdn.sp.rizhao9.com
 cdn.spotscenered.info
@@ -27355,7 +27345,6 @@ cpplay.com
 cpplive.com
 cpppc.org
 cpppf.org
-cpps.cdn-discuz.com
 cpro.baidu.com
 cpro.baidustatic.com
 cpro.cr173.com
