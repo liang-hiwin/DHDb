@@ -16772,7 +16772,6 @@ mimiteng.com
 mimo51.com
 mimoe.cc
 min.imageflux.cf
-min1319.com
 mincache.com
 mindmanagerchina.com
 mindopu.com
@@ -20354,7 +20353,6 @@ seed-fra-5.inf.nimiq.network
 seed-fra-6.inf.nimiq.network
 seed-gbr-3.inf.nimiq.network
 seed-gbr-4.inf.nimiq.network
-seed.nimiqpool.com
 seed1.nimiq-network.com
 seed1.nimiqtest.net
 seed1.sushipool.com
@@ -21192,7 +21190,6 @@ spdiy.net
 spdydns.com
 spe.atdmt.com
 specialtyheadphones.com
-spectram.pro
 speedcdns.com
 speedws.info
 speedws.org
@@ -21225,7 +21222,6 @@ sqd.jstdjq.com
 sqext.com
 sqiming.com
 sqlsec.com
-sqph.org
 sqrc.net
 sqreader.com
 sqrtthree.com
@@ -24808,7 +24804,6 @@ www.barus.cc
 www.bbjinbaobei.com
 www.bc248.com
 www.betezee.com
-www.bg0008.com
 www.bilifl.com
 www.bitcoiner.win
 www.biwei198.com
