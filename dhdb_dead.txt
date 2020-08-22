@@ -752,7 +752,6 @@
 1e100.net
 1eightyeightbet.com
 1fan.asia
-1fangmtv.com
 1ff2d.azurewebsites.net
 1fv3b.cn
 1g1g.com
@@ -1525,7 +1524,6 @@
 49lkc.cn
 49wanwan.com
 4a3zf.cn
-4amgj.com
 4b9d824b273.com
 4cbd1.azurewebsites.net
 4cun.com
@@ -2632,7 +2630,6 @@
 91wangmeng.com
 91weimi.com
 91weiwang.com
-91xinche.com
 91xtv.com.tw
 91youban.com
 91yuandian.com
@@ -8744,7 +8741,6 @@ dkmkksg4qabm2.cloudfront.net
 dkmnn.top
 dkqapp.cn
 dkqodo9uwue0p.cloudfront.net
-dktime.org
 dkx996pbduw6l.cloudfront.net
 dky.cc
 dkybpc.com
@@ -17318,7 +17314,6 @@ myp2pch.net
 mypcqq.cc
 mypiao.com
 myqcloud.net
-myqinqinbaobei.com
 myscore.org
 mysixue.com
 myspacecdn.com
@@ -20747,7 +20742,6 @@ shtrhospital.com
 shu-ju.net
 shu4.com
 shu8.cc
-shuadanfu.com
 shuai.so
 shuaiming.com
 shuaishouzhuang.com
@@ -21433,7 +21427,6 @@ streamingdisney.net
 strikinglycdn.com
 studa.net
 studentboss.com
-studyfr.net
 studyinhk.net
 studylinux.net
 studyofnet.com
