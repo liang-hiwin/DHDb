@@ -13710,6 +13710,7 @@ apgblogs.com
 apgoview.com
 aphicbouncil.club
 aphidic.com
+api-access.pangolin-sdk-toutiao.com
 api-ad.kajicam.com
 api-analytics-bootstrap.metaps.com
 api-analytics-cn.huami.com
@@ -32136,6 +32137,7 @@ dpvcimg.qqyy.com
 dpwl.net
 dpxian.me
 dpxq.com
+dq.baomihua.com
 dq123.com
 dq18.com
 dq247.com
@@ -34036,6 +34038,7 @@ efapiao.com
 efashionchina.com
 efcc.org.hk
 efe.cc
+efe25.t7wl8.cn
 efengji.org
 eff-soft.com
 eff.inte.sogou.com
@@ -34063,6 +34066,7 @@ eflydns.net
 efmac.org
 efmoe.club
 efmoe.com
+efo25978.eeo1h1.cn
 eforeantheirma.info
 efotile.com
 efount.com
@@ -34697,6 +34701,7 @@ eo.cymn296.top
 eo.cyrc793.top
 eo.dybx992.top
 eo.dymr697.top
+eo.eeo1h1.cn
 eo.gjpod.xyz
 eo.h7t2f.xyz
 eo.hdschw.cn
@@ -34714,6 +34719,7 @@ eo.syrki.xyz
 eo.trpsm.xyz
 eo.un060y.cn
 eo.wamcjfg.cn
+eo.xnwuf.xyz
 eo.ysny4f.cn
 eo.zvygzatj.cn
 eo.zzbya.xyz
@@ -42565,6 +42571,7 @@ h.shop.tm
 h.sora.yoyi.com.cn
 h.txt2017.com
 h.v.gp
+h.zmohe.xyz
 h00t.ca
 h01.hotrank.com.tw
 h01.hxsame.hexun.com
@@ -48194,6 +48201,7 @@ ihx.cc
 ihxlife.com
 ihzzy.com
 ii.cc
+ii.ntped.xyz
 ii.u1e9.cn
 ii3g.com
 ii63.net
@@ -61607,6 +61615,7 @@ mf.atm.youku.com
 mf01.zybang.com
 mf02.zybang.com
 mf100.org
+mf35.t7wl8.cn
 mf8.biz
 mf910.com
 mfan.iclick.com.cn
@@ -62090,6 +62099,7 @@ mimpiphy.net
 mimtao.com
 mimvp.com
 min-xin.com
+min1319.com
 minanjiaoyu.com
 minapp.com
 mincdn.com
@@ -62882,6 +62892,7 @@ mo.cyrc793.top
 mo.dfnbyn.top
 mo.dybx992.top
 mo.dymr697.top
+mo.eeo1h1.cn
 mo.gjpod.xyz
 mo.h7t2f.xyz
 mo.haloapps.cn
@@ -62913,6 +62924,7 @@ mo.un060y.cn
 mo.wamcjfg.cn
 mo.xk218.cn
 mo.xm223.cn
+mo.xnwuf.xyz
 mo.ysny4f.cn
 mo.zdceaa.cn
 mo.zk43i.xyz
@@ -70886,6 +70898,7 @@ pp-soc.com
 pp-sp.com
 pp.cc
 pp.greensolutions.ro
+pp.lbsjrw.cn
 pp.wayqq.com
 pp00.com
 pp100.com
@@ -76855,6 +76868,7 @@ sdjyjszb.com
 sdk-ab-config.aiclk.com
 sdk-globalconfig.aiclk.com
 sdk-orion.appboy.com
+sdk.adtiming.com
 sdk.api.gamex.mobile.youku.com
 sdk.api.oaid.wocloud.cn
 sdk.appadhoc.com
@@ -77240,6 +77254,7 @@ seed-pol-1.inf.nimiq.network
 seed-pol-2.inf.nimiq.network
 seed-pol-3.inf.nimiq.network
 seed-pol-4.inf.nimiq.network
+seed.nimiqpool.com
 seed4.beeppool.org
 seed4.me
 seedasdan.org
@@ -79955,6 +79970,7 @@ so-t.net
 so-w.com
 so.auto999.cn
 so.com
+so.tsscnw.cn
 so147.com
 so369.net
 so5566.com
@@ -80723,6 +80739,7 @@ specifican.club
 specimense.club
 specimensspittleentrepreneur.com
 specreport01.jigsy.com
+spectram.pro
 spectrum.cl
 specularpro.site
 specxinzl.jigsy.com
@@ -82829,6 +82846,7 @@ sy.ameblo.jp
 sy.brand.sogou.com
 sy.code.mytanwan.com
 sy.flash.mytanwan.com
+sy.shongcheng.com
 sy.sxjxhg.com
 sy123888.com
 sy25.com
@@ -89488,6 +89506,7 @@ v-tea.com
 v-xunlei.com
 v.1k978y.cn
 v.4pl1gr.cn
+v.510vud.cn
 v.6dvip.com
 v.9y88.com
 v.admaster.com.cn
