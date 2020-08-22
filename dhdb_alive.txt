@@ -560,6 +560,7 @@
 055110.com
 055178.com
 0551fangchan.com
+0551hybdf.com
 0551zgz.com
 0552jie.com
 05532.com
@@ -9468,6 +9469,7 @@
 9quan.net
 9rmb.com
 9s6q.cn
+9show.com
 9sky.com
 9stor.com
 9subi.com
@@ -22300,6 +22302,7 @@ ccxjd.com
 ccxsc.com
 ccya.tw
 ccycenter.ning.com
+ccymf.com
 ccyts.com
 ccyyls.com
 ccz0.com
@@ -22417,6 +22420,7 @@ cdn-cn4.apple-mapkit.com
 cdn-code.host
 cdn-cvprhkn01m01.streaming.mediaservices.windows.net
 cdn-cvprsg101m01.streaming.mediaservices.windows.net
+cdn-discuz.com
 cdn-gcs.outfit7.com
 cdn-html.adsfactor.net
 cdn-images.mailchimp.com
@@ -30862,6 +30866,7 @@ dingviewjeep.info
 dingxi88.com
 dingxiang-inc.com
 dingxin66.com
+dingxin99.com
 dingxinhui.com
 dingxuewen.com
 dingyiba.com
@@ -45837,6 +45842,7 @@ hqys.net
 hqytgyh.com
 hqyun.com
 hqz.com
+hqzbcn.com
 hr-mp.com
 hr135.com
 hr2003.com
@@ -65967,6 +65973,7 @@ niubb.com
 niubi114.com
 niubiba.com
 niubilai.com
+niuboli.com
 niucdn.com
 niuche.com
 niucodata.com
@@ -73902,6 +73909,7 @@ ranwenxs.com
 ranxiang.com
 ranyi.net
 ranyunfei.com
+ranzhi.net
 ranzhi.org
 raoke.net
 raorao.com
@@ -84690,6 +84698,7 @@ tfsu.tw
 tftxw.com
 tfvip33.com
 tfvip88.com
+tfxgt.com
 tfy.sswip.cn
 tfyou.com
 tfysw.com
