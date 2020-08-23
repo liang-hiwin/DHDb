@@ -3850,7 +3850,6 @@ andfx.net
 andpeng.qushuba.com
 android-sdk31.transpera.com
 android.xylwkm.cn
-android100.org
 androidgo.duapp.com
 androidmi.com
 androidonlines.com
@@ -19484,7 +19483,6 @@ qzyb.com
 qzyiming.cn
 qzylyp.com
 qzzswl.com
-r.5207470.com
 r.admob.com
 r.hunnur.com
 r.qiyou.com
