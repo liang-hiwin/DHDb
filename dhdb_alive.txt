@@ -15065,6 +15065,7 @@ atplay.cn
 atproxy.net
 atrace.chelaile.net.cn
 atrack-asia-e2.120181311.xyz
+atrack-asia-s1.114913.xyz
 atrack-asia-s1.120181311.xyz
 atrack-eu-w1.120181311.xyz
 atrack-sa-e1.120181311.xyz
@@ -20203,6 +20204,7 @@ btbtav.com
 btbtt77.com
 btbuluo.com
 btby-pump.com
+btc-q.com
 btc0771.com
 btc100.com
 btc114.com
