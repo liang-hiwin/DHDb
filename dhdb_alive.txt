@@ -3526,7 +3526,6 @@
 3.dd.dnsrd.com
 3.iscrv.com
 3.ssqzj.com
-3.tracker.eu.org
 3.up.qingdaonews.com
 30.etowns.org
 3000.com
@@ -7659,7 +7658,6 @@
 7kzwj.kangshouhuanbao.com
 7lbd4.armandthiery.fr
 7le8.com
-7lg.net
 7lizhi.com
 7lk.com
 7lw.com
@@ -22583,7 +22581,6 @@ cdn11.contentabc.com
 cdn2.071811.cc
 cdn2.apple-mapkit.com
 cdn2.crispadvertising.com
-cdn2.igsttech.com
 cdn2.inwemo.com
 cdn2.moji002.com
 cdn3.apple-mapkit.com
