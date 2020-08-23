@@ -3525,6 +3525,7 @@
 3.dd.dnsrd.com
 3.iscrv.com
 3.ssqzj.com
+3.tracker.eu.org
 3.up.qingdaonews.com
 30.etowns.org
 3000.com
@@ -8337,6 +8338,7 @@
 8977.cc
 8977.com
 8977222.vip
+8977444.app
 8977444.vip
 8977567.com
 8977888.app
