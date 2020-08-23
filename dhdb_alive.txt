@@ -9837,7 +9837,6 @@ aa1.pub.funshion.com
 aa1801.webnode.tw
 aa1802.com
 aa1884.com
-aa2211.com
 aa228.net
 aa43z7.com
 aa65535.com
@@ -30906,7 +30905,6 @@ direcpath.net
 direct-events-collector.spot.im
 direct.wap.zol.com.cn
 directcreative.com
-directinfoseed.com
 directprimal.com
 directsupport.pt
 directtv-deals.tv
