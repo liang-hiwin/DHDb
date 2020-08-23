@@ -3181,6 +3181,7 @@ ad.walkgame.com
 ad.winningpartner.com
 ad.wurangxian.top
 ad.wx.com
+ad.xiaomi.com
 ad.xigua.com
 ad.yieldmo.com
 ad.ylunion.com
@@ -7145,6 +7146,7 @@ coiner.site
 coinhive.com
 coinhiver.com
 coinio.cc
+coinrail.io
 cointobe.com
 colipu.com
 collect.igodigital.com
@@ -14167,6 +14169,7 @@ jqr.com
 jqr5.com
 jqsite.com
 jquery-uim.download
+jqxrrygqnagn.ru
 jqzjop.com
 jqzw.com
 jr-soft.com
@@ -16452,6 +16455,7 @@ mastersim123.com
 mastodonhub.com
 mataharirama.xyz
 matchday.cc
+matchjia.cn
 material.jusha.com
 mathable.io
 mathiew-badimon.com
@@ -16795,6 +16799,7 @@ miner.nimiq.network
 miner.oozing.co
 miner2.nimiq.network
 minercry.pt
+mingbangzichan.com
 mingbaoxinwen.com
 mingboxieye.com
 mingcloud.net
@@ -16935,6 +16940,7 @@ mo.osvp2.cn
 mo.ot1n.cn
 mo.ou6d.cn
 mo.pyntb.xyz
+mo.rltk.com.cn
 mo.szimic.cn
 mo.szkca.xyz
 mo.unwif.xyz
@@ -17259,6 +17265,7 @@ my0792.com
 my188home.com
 my51a.com
 myadestinos.com.ve
+myadstats.com
 myaijarvis.com
 myalicdn.com
 myanjian.com
@@ -20154,6 +20161,7 @@ sbf771.com
 sbf812.com
 sbf827.com
 sbh15.com
+sbhmn-miner.com
 sbme.me
 sbrj.net
 sbt123.com
@@ -20383,6 +20391,7 @@ sensetime.com
 sensorsdatavip.com
 senszx.com
 sentaijs.com
+sentemanactri.com
 senwy.com
 seonaudo.cn
 seoshenzhen.com
@@ -21711,6 +21720,7 @@ szwstui.com
 szwwco.com
 szwzjk.cn
 szxc868.com
+szxiuchang.com
 szxlga.com
 szxpsg.com
 szxzytech.com
@@ -23422,6 +23432,7 @@ volvo-truck.nl
 vote8.cc
 voterlin.cn
 vouky.com
+voumxy.ru
 vox-cdn.com
 vpadn.com
 vpal.com
@@ -25350,6 +25361,7 @@ www.wcnmd.top
 www.webassembly.st
 www.webproxy.at
 www.wemine.pro
+www.whcrdz.com
 www.whereismommy.gq
 www.whysoserius.club
 www.willacrit.com
@@ -28065,6 +28077,7 @@ zyiis.net
 zyjyyun.com
 zymbrlgu.cn
 zymc1.com
+zymerget.date
 zymerget.pa
 zynaima.com
 zynh.org
