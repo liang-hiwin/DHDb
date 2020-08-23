@@ -1906,6 +1906,7 @@
 58mingtian.cn
 58scx.com
 58xmgys.com
+58xszz.com
 58xuechewang.com
 58yiji.com
 591master.com
@@ -4103,6 +4104,7 @@ apple-usa.net
 apple.com.akadns.net
 apple.comscoreresearch.com
 apple4.us
+apple90.com
 appleads-trk.com
 appleadstech.com
 appleappstore.tv
@@ -4378,6 +4380,7 @@ awaker.hk
 awaker.net
 awbang.com
 awcloud.com
+awds.cdn-discuz.com
 aweasdzw.com
 awk.so
 awkvee.sytfsr.com
