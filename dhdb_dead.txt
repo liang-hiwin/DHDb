@@ -476,6 +476,7 @@
 133china.com
 133u.com
 133x394.gif
+135-139.com
 135-cdn.com
 135198.net
 135box.com
@@ -4017,6 +4018,7 @@ api.koudaikj.com
 api.l33tsite.info
 api.linksalpha.com
 api.lwansc.cn
+api.miner.beeppool.org
 api.mobads4app.com
 api.monero.hashvault.pro
 api.netflare.info
@@ -4890,6 +4892,7 @@ beidouxin.com
 beifabook.com
 beifuni.com
 beigedi.com
+beihangonline.com
 beijidy.com
 beijingjuyuan.com
 beijingoperacats.com
@@ -5476,6 +5479,7 @@ bt.wiiyi.com
 bt.xxx-tracker.com
 bt2.careland.com.cn
 btbalex.cn
+btc-q.com
 btc.cpufan.club
 btcbl.com
 btdb.io
@@ -5900,6 +5904,7 @@ cc11bh.com
 cc123.com
 cc383.net
 cc8.cc
+cc95666666.com
 ccai.cc
 ccarting.com
 ccaudi.com
@@ -11171,6 +11176,7 @@ gjxh.org
 gjyys.com
 gk027.com
 gktianshanjd.com
+gktwhpd.cn
 gkxd.com
 glab2018.com
 glanceguide.com
@@ -13511,6 +13517,7 @@ istudyinchina.org
 isvjcloud.com
 iszpy.com
 it.bnaz.org
+it028.net.cn
 it5566.net
 it707.com
 it736.com
