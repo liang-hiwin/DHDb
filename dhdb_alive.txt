@@ -11849,7 +11849,6 @@ aigtek.com
 aigupiao.com
 aihaisi.com
 aihami.com
-aihandu.com
 aihanfu.com
 aihanfu.net
 aihangtian.com
@@ -31203,7 +31202,6 @@ dko.vente-unique.nl
 dkr.com
 dkrecttv.com
 dksgo.com
-dktime.org
 dkyp75kj7ldlr.cloudfront.net
 dkys.org
 dl-canary.discordapp.net
