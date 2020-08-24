@@ -1205,7 +1205,6 @@
 102998.com
 102cw.com
 102no.com
-102pay.com
 103.com
 103.hk
 1030567.com
@@ -18255,7 +18254,6 @@ bitbank.cc
 bitbank.com
 bitbucket.org
 bitbug.net
-bitc.bme.emory.edu
 bitcellulose.com
 bitchute.com
 bitcoin-pay.eu
@@ -20769,7 +20767,6 @@ bybbs.org
 bybeatsdre.com
 bybieyang.com
 bybutter.com
-byc168.com
 bycontext.com
 bycxsh.com
 bydit.com
@@ -20803,7 +20800,6 @@ bypass.pw
 bypasscensorship.org
 bypasskey.com
 bypbwm.cn
-byqok.com
 byr-navi.com
 byr.cc
 byr.wiki
