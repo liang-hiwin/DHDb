@@ -126,7 +126,6 @@
 00yyyy.com
 01-123.com
 01-cf.com
-01.beeppool.org
 01.gxso.net
 010.loan
 0101122.com
@@ -13568,7 +13567,6 @@ anzhen.org
 anzhi.com
 anzhixun.com
 anzhouinvest.com
-anzhuo.bdhuh.club
 anzhuo2.com
 anzhuocpm.com
 anzhuoshangdian.com
@@ -20480,7 +20478,6 @@ bushome.net
 busigua.com
 business-humanrights.org
 business-standard.com
-business.92wy.com
 business.inveno.com
 business.nikkeibp.co.jp
 businesscatalyst.com
@@ -21144,7 +21141,6 @@ c6c.com
 c6n708.ren
 c7.etowns.org
 c7.statcounter.com
-c72.microfog.me
 c73.microfog.me
 c73160.com
 c753738.r38.cf2.rackcdn.com
