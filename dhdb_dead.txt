@@ -1697,7 +1697,6 @@
 51opone.com
 51pantone.com
 51ping.com
-51pintan.com
 51pjys.com
 51posj.cn
 51pt.cc
@@ -2182,7 +2181,6 @@
 6zu.com
 7-wx.com
 7.ddns.ms
-7.wzlim.com
 700static.com
 700store.com
 700x200.gif
@@ -6635,7 +6633,6 @@ chojemmy.com
 chongbaoge.com
 chongdiantou.com
 chonghi.com
-chpanshi.net
 chrice.net
 chris-tina.com
 christusrex.org
@@ -12186,7 +12183,6 @@ hiao.com
 hic.cloud
 hicdma.com
 hichina.com
-hichinaimg.com
 hidemyipaddress.org
 hidemytraxproxy.ca
 hienshi.com
