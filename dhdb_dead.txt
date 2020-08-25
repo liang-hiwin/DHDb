@@ -20050,7 +20050,6 @@ s3.myregeneaf.com
 s3.play.estream.nu
 s3.play.estream.xyz
 s3.play.tainiesonline.pw
-s3.rongnews.com
 s3.thersprens.com
 s3.video.estream.nu
 s3.wm.yololike.space
@@ -24062,7 +24061,6 @@ whptc.org
 whpxy.com
 whqiansou027.com
 whrazf.com
-whrhkj.com
 whsbpw.cn
 whsmk.com
 whsrc.com
