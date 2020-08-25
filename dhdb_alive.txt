@@ -5334,6 +5334,7 @@
 51php.com
 51piaozi.com
 51pigai.com
+51pintan.com
 51pinwei.com
 51pjmm.com
 51pla.com
@@ -9558,6 +9559,7 @@ a.5ykj.com
 a.77shw.com
 a.80982.org
 a.90370.com
+a.91nets.cn
 a.91zhongkao.com
 a.ad7.com
 a.adroll.com
@@ -20958,6 +20960,7 @@ c.j782e.cn
 c.jinliaoyang.com
 c.jjkk.org
 c.k429fma.com
+c.kbf365.cn
 c.kuwo.cn
 c.l.qq.com
 c.l0yjow.cn
@@ -24476,6 +24479,7 @@ chouti.cc
 chouti.com
 chouzakeil.com.ar
 chowyunfatfans.com
+chpanshi.net
 chplayer.com
 chprf.com
 chrdnet.com
@@ -44508,6 +44512,7 @@ hicc.me
 hiceon.com
 hichannel.hinet.net
 hichao.com
+hichinaimg.com
 hicling.com
 hicloud.com
 hiconics-dl.com
@@ -76057,6 +76062,7 @@ s3.play.estream.to
 s3.play.vidzi.tv
 s3.play1.videos.videos.vidto.me
 s3.play1.videos.vidto.me
+s3.rongnews.com
 s3.tercabilis.info
 s3.us-east-2.amazonaws.com
 s3.video2.stream.vidzi.tv
@@ -85616,6 +85622,7 @@ timtales.com
 tinc-vpn.org
 tinder.com
 tine.pagekite.me
+tineprepair.club
 tiney.com
 tineye.com
 tinfinite.com
@@ -93421,6 +93428,7 @@ whreadsoft.com
 whrenai.com
 whrenrenhui.com
 whres.net
+whrhkj.com
 whrl.net
 whrles.com
 whrsip.com
