@@ -1943,6 +1943,7 @@
 5eln.cn
 5eyz.flzee.com
 5gsu.com
+5gzm.net
 5icool.org
 5idream.net
 5ip.cc
@@ -8922,6 +8923,7 @@ dnsv5.com
 dnsv8.net
 dnsvcache.com
 dnsvhost.com
+dnsvisa.com
 dnswa.com
 dnsweb.xyz
 dnswhk.com
@@ -9658,6 +9660,7 @@ ebaycdn.net
 ebayimg.com
 ebayrtm.com
 ebaystatic.com
+ebaystore.com
 ebchina.com
 ebfcn.com
 ebookforipad.com
@@ -12386,6 +12389,7 @@ home0668.com
 home178.com
 homebehind.com
 homecdn.com
+homedepot-static.com
 homeinmists.com
 homejiang.com
 homekingcdn.com
@@ -16722,6 +16726,7 @@ mhaoma.com
 mhdns.com
 mhdnspro.com
 mhimg.com
+mhshosting.com
 mhuos.com
 mhxzhkl.com
 mhyv888.com
@@ -20713,7 +20718,9 @@ shop-headphones.net
 shop.nimiq-network.com
 shop123.com
 shopbop.ink
+shopifycdn.com
 shopifysvc.com
+shoping.com
 shopnc.net
 shopping-days.net
 shoppingpartners2.futurenet.com
@@ -23098,6 +23105,7 @@ usdxz1.com
 usdxz1.net
 user1.game.qq.com
 userapi.nytlog.com
+usercontent.dev
 userfly.com
 userhostting.com
 usermessage.net
@@ -23423,6 +23431,7 @@ vivituii.com
 viweitui.com
 vj0.42422277.com
 vjiat.com
+vkcache.com
 vkehu.com
 vkeke.com
 vl8c4g7tmo.me
