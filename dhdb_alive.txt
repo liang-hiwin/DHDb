@@ -195,7 +195,6 @@
 01tao.com
 01teacher.com
 01tingshu.com
-01ue.com
 01w.com
 01w47q.cn
 01water.com
@@ -9951,7 +9950,6 @@ abc.hkepc.net
 abc.if.qidian.com
 abc.net.au
 abc.pema.cl
-abc.pp.ru
 abc.xyz
 abc.yjbys.com
 abc12345.net
@@ -27350,7 +27348,6 @@ cp3.gg137.com
 cp52-4.trixbox.com
 cp7gyw5w94c7.com
 cp929.com
-cp98.com
 cpajia.com
 cpan.org
 cpass.com
@@ -30644,7 +30641,6 @@ diananjia.com
 dianapp.com
 dianbo.me
 dianbo.org
-dianbobao.com
 dianbook.cc
 dianbucuo.com
 dianchacha.com
