@@ -6542,6 +6542,7 @@
 5u3d.com
 5u588.com
 5u5u5u5u.com
+5ucc.com
 5uks.com
 5upm.com
 5uproxy.net
@@ -8962,6 +8963,7 @@
 95990007.cc
 9599001.net
 95991100.com
+95991144.com
 95992222b.com
 95992222nn.com
 95992266.com
@@ -11980,6 +11982,7 @@ air-level.com
 air-matters.com
 air-nike-shoes.com
 air-quality.com
+air-watch.com
 air.1688.com
 air.cc
 air.mnd.gov.tw
@@ -12030,6 +12033,7 @@ airtunes.com
 airtunes.info
 airtunes.net
 airvpn.org
+airwatchexpress.com
 airwh.com
 airwick.at
 airwick.be
@@ -12458,6 +12462,15 @@ alitx963.com
 aliunicorn.com
 aliuv.com
 alivecdn.com
+aliveipc.com
+aliveitsm.com
+aliveprofiler.com
+alivercm.com
+aliverewind.com
+alivertsm.com
+alivevm.com
+alivevmax.com
+alivevue.com
 alivl.com
 alivv.net
 aliway.com
@@ -15401,6 +15414,7 @@ avicsec.com
 avicui.com
 avidemux.org
 avilab.com.mx
+avinetworks.com
 avivaqueen.com
 avivasign.com
 avl.box.com
@@ -15852,6 +15866,7 @@ bacon.section.io
 bad.maienyanjing.cn
 bad.mn
 bad1.51gxqm.com
+badaas.com
 badad.googleplex.com
 badao37.net
 badding.oss-ap-southeast-1.aliyuncs.com
@@ -18323,6 +18338,8 @@ bitmap.cc
 bitmap3d.com
 bitmex.com
 bitmingw.com
+bitnami.com
+bitnamistudio.com
 bitol.net
 bitqiu.com
 bitquick.co
@@ -20186,6 +20203,7 @@ bspeizi.com
 bspia.com
 bsrv.qq.com
 bss.pandora.xiaomi.com
+bssmm.com
 bst24.com
 bstatic.1kejian.com
 bstatic.com
@@ -22914,6 +22932,7 @@ cf027.com
 cf865.com
 cf8d.stat.gw.youmi.net
 cfanclub.net
+cfblob.com
 cfbond.com
 cfboo.com
 cfc365.com
@@ -25323,10 +25342,12 @@ cloudcdn.gdn
 cloudcdn.yousee.com
 cloudcdns.com
 cloudcdns.net
+cloudchoose.com
 cloudcone.com
 cloudcone.net
 cloudconvert.com
 cloudcraze.com
+cloudcredibility.com
 cloudcross.com
 clouddream.net
 cloudflare-dns.com
@@ -25345,11 +25366,13 @@ cloudgap.net
 cloudgfw.com
 cloudgfw.net
 cloudgoing.com
+cloudhealthtech.com
 cloudhua.com
 cloudhvacr.com
 cloudinsights.com
 cloudiplc.com
 cloudkirin.com
+cloudlive.com
 cloudlock.com
 cloudmade.com
 cloudmagic.com
@@ -25384,6 +25407,7 @@ cloudtv.bz
 cloudup.com
 cloudvast.com
 cloudvogue.com
+cloudvolumes.com
 cloudwise.com
 cloudxns.com
 cloudxns.net
@@ -25549,6 +25573,7 @@ cmp.techadvisor.co.uk
 cmp.techconnect.com
 cmp.techhive.com
 cmp288.com
+cmpaas.com
 cmpassport.com
 cmpay.com
 cmpp.gentags.net
@@ -27351,6 +27376,7 @@ cpcpcp555.com
 cpcsad.com
 cpcw.com
 cpdaily.com
+cpedge.com
 cpeol.net
 cperformmedia-a.akamaihd.net
 cpgo.avatacar.com
@@ -31707,6 +31733,7 @@ docker.com
 docker.io
 dockerc.com
 dockerinfo.net
+dockerizer.com
 dockerone.com
 dockerpool.com
 dockone.io
@@ -35765,6 +35792,7 @@ expbl2ro.xbox.com
 expecthim.com
 expekt.com
 experiandirect.com
+experience-vmware.com
 experience.contextly.com
 experiencebillmelater.com
 expertise.co.il
@@ -40122,6 +40150,7 @@ gelonghui.com
 gelu.me
 gemchina.com
 gemenwan.com
+gemfire.net
 gemgsx.com
 gemii.cc
 gemini-galaxy.com
@@ -40191,6 +40220,7 @@ geobar.ziffdavisinternational.com
 geobeacon.ign.com
 geocities.com
 geodestricy.site
+geodesummit.com
 geogsci.com
 geohey.com
 geoidc.com
@@ -40271,6 +40301,7 @@ get.webxmr.com
 get233.com
 getastrill.com
 getbootstrap.com
+getboxer.com
 getbraintree.com
 getbtc.org
 getbumptop.com
@@ -40338,6 +40369,8 @@ getukvpn.com
 getulab.com
 getuploader.com
 getweloop.com
+getws1.com
+getwsone.com
 getyii.com
 getyoutube.com
 gevek.com
@@ -40660,6 +40693,8 @@ gitos.net
 gitpw.com
 gitsea.com
 gitshell.com
+gitstar.com
+gitstar.net
 gittigidiyor.com
 gittigidiyor.net
 gittigidiyorsikayet.com
@@ -41604,6 +41639,8 @@ gopetition.com
 gopherchina.org
 gophone.com.tw
 gopiaowu.com
+gopivotal.com
+gopivotal.net
 goplaycn.com
 goplayervideo.com
 gopojie.net
@@ -41873,6 +41910,7 @@ greenocktelegraph-gb.greenocktelegraph.co.uk
 greenparty.org.tw
 greenpeace.com.tw
 greenpeace.org
+greenplum.net
 greenproxy.net
 greenreadings.com
 greenspot.cc
@@ -44411,6 +44449,7 @@ hepalink.com
 hepan.com
 hepawang.com
 hepost.com
+heptio.com
 heqinglian.net
 hequentsevent.club
 hequnshebei.com
@@ -47153,6 +47192,7 @@ hwlpz.com
 hwq66.com
 hwrecruit.com
 hwsem.com
+hwslabs.com
 hwstats.unity3d.com
 hwtang.com
 hwtime.6te.net
@@ -49057,6 +49097,7 @@ immassets.s3.amazonaws.com
 immedlinkum.info
 immi.cc
 immi520.com
+immidio.com
 immiexpo.com
 immob.cn
 immomo.com
@@ -50438,6 +50479,7 @@ itfav.com
 itfeed.com
 itfinden.net
 itfly.net
+itfromtheinside.com
 itfw5.com
 itgeeker.net
 itgege.com
@@ -55664,6 +55706,8 @@ kuanyu.host56.com
 kuark.com
 kuashou.com
 kubao555.com
+kubeacademy.com
+kubeapps.com
 kubernetes.io
 kubey.cc
 kubicode.me
@@ -56412,6 +56456,7 @@ lasvegasbmw.com
 lasvegaschinesedailynews.com
 lasy.site
 latampartneruniversity.com
+latamvmwareforum.com
 latelee.org
 latelinenews.com
 latencytop.com
@@ -67268,6 +67313,7 @@ nyaa.si
 nyaa.tracker.wf
 nyaatorrents.info
 nyahentai.com
+nyansa.com
 nyasama.com
 nyato.com
 nybai.com
@@ -70488,6 +70534,7 @@ pistyll.bleacherreport.com
 pisx.com
 piti.bplaced.net
 pittpatt.com
+pivotalinitiative.com
 piwik.filecrypt.cc
 piworker.com
 pix.eads.com
@@ -80411,6 +80458,7 @@ snapcraft.io
 snapsed.club
 snapshot.beeppool.org
 snapstore.io
+snapvolumes.com
 snasn.com
 snat.goguardian.com
 snatchly.com
@@ -90392,6 +90440,7 @@ vbuluo99.com
 vc33.tk
 vc800.com
 vcaif.com
+vcanedge.com
 vcard.ameba.jp
 vcb-s.com
 vcbn65.xyz
@@ -90410,6 +90459,7 @@ vchome.net
 vcinchina.com
 vckai.com
 vckbase.com
+vcloudair.net
 vclusters.com
 vcmrlwcafliaa.com
 vcomic.com
@@ -90516,6 +90566,7 @@ velkaepocha.sk
 velocaps.com
 velocecdn.com
 velocitycdn.com
+velocloud.com
 velostrata.com
 veloxinter.net
 vemvm.com
@@ -90638,6 +90689,7 @@ vevo.com
 vewas.net
 vex.flnet.org
 vf-ideas.com
+vfabric.net
 vfcsz.com
 vfd2dyn.vodafone.de
 vfe.cc
@@ -90830,6 +90882,7 @@ videozhishi.com
 vidfile.net
 vidinfo.org
 vidmax.com
+vidmpreview.com
 vido.ws
 vidoadsplus.xyz
 vidol.tv
@@ -91017,6 +91070,8 @@ virginia.edu
 virginmobileusa.com
 viria.com.au
 virscan.org
+virsto.com
+virsto.net
 virtual-browser.com
 virtual.uniacc.cl
 virtualearth.net
@@ -91282,10 +91337,12 @@ vmfor.com
 vmframe.com
 vmfsrl.com
 vmgirls.com
+vmglobal.net
 vmicloud.com
 vmindhls.tc.qq.com
 vmixcore.com
 vmjjzk.cn
+vmmark.com
 vmonkey.mobi
 vmovier.cc
 vmovier.com
@@ -91293,7 +91350,34 @@ vmoviercdn.com
 vmpsoft.com
 vmsky.com
 vmstats.varrando.com
+vmtestdrive.com
 vmvps.com
+vmw.com
+vmware-cloudmanagement.com
+vmware-techcenter.com
+vmware20mosaic.com
+vmwareausnews.com
+vmwarecertificationvideos.com
+vmwarecloud.com
+vmwaredemandcenter.com
+vmwareemeablog.com
+vmwaregrid.com
+vmwareidentity.com
+vmwarelearning.com
+vmwarelearningplatform.com
+vmwarestuff.com
+vmwareusergroupstore.com
+vmwareviewpoint.com
+vmwgcomms.com
+vmwhorizonair.com
+vmwidm-ads.com
+vmwidm.com
+vmwlabconnect.com
+vmwlearningplatform.com
+vmworld.com
+vmworld2010.com
+vmworld2013.com
+vmwsalesrewards.com
 vmzqwz.cn
 vn.hao123.com
 vn0765.com
@@ -91323,6 +91407,7 @@ vns800600.net
 vnsiubvgs.com
 vnsr6788.com
 vnvshen.com
+vnware.net
 vnym7369.site
 vnzmi.com
 voa-11.akacast.akamaistream.net
@@ -91803,6 +91888,8 @@ vsochina.com
 vsocloud.com
 vsohu.admaster.com.cn
 vspace.ro
+vsphere.com
+vsphere.net
 vspk.com
 vsppt.com
 vspsa.com
@@ -93659,7 +93746,9 @@ whataburger.com
 whatblocked.com
 whatbrowser.org
 whathyx.com
+whatisairwatch.com
 whatisscientology.org
+whatisworkspaceone.com
 whatsapp-plus.info
 whatsapp-plus.me
 whatsapp-plus.net
@@ -93968,6 +94057,9 @@ whxyqb.com
 whxysz.net
 why123.org
 whybh2015.com
+whychoosehorizon.com
+whychooseview.com
+whychoosevmwareeuc.com
 whyec.com
 whyenjoy.com
 whyestar.com
@@ -94245,6 +94337,7 @@ windowsmarketplace.com
 windowsphone-int.com
 windowsphone.com
 windowssearch.com
+windowsuem.com
 windowsxi.com
 windowszj.com
 windowszj.net
@@ -94822,6 +94915,8 @@ workplaceusecases.com
 works.iks-design.net
 workshirty.club
 workshop.idv.tw
+workspaceair.com
+workspaceone.com
 workstations.tv
 worktile.com
 worktilemail.com
@@ -102708,6 +102803,7 @@ xlrocket.com
 xls.go.sohu.com
 xlsdoors.com
 xlshou.com
+xlstudio.com
 xltkwj.com
 xltrip.com
 xltzgy.com

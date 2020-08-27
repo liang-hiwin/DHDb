@@ -3558,6 +3558,7 @@ airchinajet.com
 airdropin.com
 airmay.com
 airproxyboat.in
+airwatchqa.com
 aisbeijing.com
 aishang.bid
 aishangcan.com
@@ -5083,6 +5084,7 @@ bitdata.pro
 biteabc.com
 bitfish8.com
 bithosts.net
+bitnamiapp.com
 bitscat.org
 bitscn.com
 bitscn.net
@@ -7422,6 +7424,7 @@ crfly.com
 crfsdi.com
 cric2009.com
 crispstata.com
+crit-staging.com
 crjidi.com
 crlg.com
 crmch.com
@@ -13913,6 +13916,7 @@ jiclip.com
 jidao.ren
 jidekan.com
 jidexiang.net
+jidiaose.com
 jie.wangcunpan.cn
 jiebohui.com
 jiecaojingxuan.com
@@ -17731,6 +17735,7 @@ nnmutong.com
 nnsc6.com
 nnsky.com
 nntlj.com
+nnweding.com
 nnwm.com
 nnylf168.com
 nnzsxblaw.com
@@ -21292,6 +21297,7 @@ sscefsol.com.cn
 sscity.org
 ssd5.cf
 ssdaili.com
+ssdevrd.com
 ssfree.ml
 ssggg.com
 ssh-termurah.com
@@ -23430,6 +23436,10 @@ vmate.in
 vmeti.com
 vmiua.com
 vmoiver.com
+vmwarehorizon.com
+vmwarevmc.com
+vmwdemo.com
+vmwservices.com
 vnanf.com
 vnet.mobi
 vnoke.com
