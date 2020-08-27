@@ -5483,7 +5483,6 @@ bssdlbig.kugou.com
 bsshw.net
 bssrvdns.com
 bstatic.diyifanwen.com
-bsteel.net
 bstinfo.com
 bsyauqwerd.pa
 bt.aoeex.com
@@ -19236,7 +19235,6 @@ qizheplay.com
 qjimage.com
 qjjtc.com
 qjkc.net
-qjvpn.com.cn
 qjxszp.cn
 qjyzj.cn
 qk365.com
@@ -19917,7 +19915,6 @@ rzdedao.com
 rzjrfw.com
 rzlqyj.com
 rznsl.com
-rzrjjm.com
 rzwzg.com
 rzxdjy.com
 rzxlszy.vip
@@ -23572,7 +23569,6 @@ w.1lib.cn
 w.3big.net
 w.banlaa.com
 w.domob.cn
-w.freecontent.com
 w.hdd2.host
 w.homes.yahoo.net
 w.jscsd.cn

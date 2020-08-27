@@ -975,7 +975,6 @@
 1.iqeq.com.cn
 1.isanxia.com
 1.jiqie.cn
-1.kk.sqfuwu.cn
 1.kuaidiwo.cn
 1.lvshi567.com
 1.mgff.com
@@ -1364,7 +1363,6 @@
 114jia.net
 114la.com
 114la.work
-114ljc.com
 114my.net
 114oc.com
 114photo.com
@@ -7939,7 +7937,6 @@
 828360.com
 828681.com
 828689.com
-828968.com
 828g.com
 829.flnet.org
 829882.com
@@ -18962,7 +18959,6 @@ blog.sogoo.org
 blog.soylent.com
 blog.sufeng.org
 blog.superliufa.com
-blog.syx86.cn
 blog.syx86.com
 blog.taragana.com
 blog.tianshan.co
