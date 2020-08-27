@@ -18293,7 +18293,6 @@ bitbank.cc
 bitbank.com
 bitbucket.org
 bitbug.net
-bitc.bme.emory.edu
 bitcellulose.com
 bitchute.com
 bitcoin-pay.eu
@@ -21553,7 +21552,6 @@ caiteesh.net
 caitou.net
 caitun.com
 caiu8.com
-caiwanhui.top
 caiwu51.com
 caiwuchina.com
 caixin.adsame.com
