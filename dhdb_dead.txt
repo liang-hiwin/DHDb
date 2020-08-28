@@ -4759,6 +4759,7 @@ bbestmall.com
 bbfstore.com
 bbgsite.com
 bbgyy.net
+bbhub.io
 bbioo.com
 bbnfcfrvjs.com
 bboymp3.com
@@ -5446,6 +5447,7 @@ bridgestonesyb.com
 briefdream.com
 briewell.com
 bright.bncnt.com
+brightcove.services
 brightcovecdn.com
 brightdairy.com
 brighttj.com
@@ -5917,7 +5919,14 @@ cbndata.org
 cbnmall.com
 cbos3d.com
 cbqyw.net
+cbsi.video
+cbsig.net
+cbsimg.net
+cbsistatic.com
+cbsivideo.com
 cbsrb.com
+cbsstatic.com
+cbssvideo.com
 cbtimer.com
 cby521.cn
 cc-1.com
@@ -8578,6 +8587,7 @@ deskt.cn
 detaliczny.com
 deuxje7t39utb.cloudfront.net
 dev-dh.com
+dev-guardianapis.com
 dev-push.m.youku.com
 dev-tracker.nullrebel.com
 dev.dc.letv.com
@@ -9052,6 +9062,8 @@ douzi.com
 douzihuyu.com
 dowebok.com
 dowei.com
+dowjones.io
+dowjoneson.com
 down.360safe.cn
 down.dashendown.com
 down.houxingfu.com
@@ -10549,6 +10561,7 @@ foodzhan.net
 foolfood.net
 footwiball.com
 forbeschina.com
+forbesimg.com
 fordgo.com
 foreseamall.com
 forevercd007.com
@@ -10900,6 +10913,7 @@ ganhuoche.com
 ganhuodaquan.com
 ganjistatic1.com
 ganjistatic2.com
+gannett-cdn.com
 ganqi.com
 ganso.net
 gansupost.com
@@ -11482,6 +11496,7 @@ gtshy.com
 gttof2020.com
 gttxidc.com
 gtzyb.com
+gu-web.net
 gu.qlogo.cn
 guaguass.org
 guaihou.com
@@ -11502,6 +11517,7 @@ guanqinjie.cn
 guanshangsq.com
 guantaicn.com
 guanzhu.mobi
+guardianapis.com
 guardui.net
 guazhuan.com
 guazixs.com
@@ -13393,6 +13409,7 @@ inovance-automotive.com
 inplayable.com
 inpower.cc
 inside.baidu.com
+insider-intelligence.com
 inspurpower.com
 install2.kugou.com
 instituteofwar.org
@@ -19932,6 +19949,7 @@ s-dragon.org
 s-microsoft.com
 s-mob.com
 s-msn.com
+s-nbcnews.com
 s-reader.com
 s-yoolk-banner-assets.yoolk.com
 s-yoolk-billboard-assets.yoolk.com
@@ -20991,6 +21009,7 @@ skwl.org
 sky-connect.adinfuse.com
 sky.adinfuse.com
 skyaicdn.com
+skyassets.com
 skydust.net
 skyking.net-tv.tw
 skylerzhang.com
@@ -22072,6 +22091,7 @@ thedns.work
 thefatherofsalmon.com
 thefifthera.com
 thefrontier.hk
+theguardiandns.com
 thehots.info
 theinstagramhack.com
 thejesperbay.com
@@ -23097,6 +23117,7 @@ usa-idc.com
 usakongjian.net
 usalastnews.pro
 usan.dps1.cn
+usatodaynetworkservice.com
 usb3.gq
 usdxz1.com
 usdxz1.net

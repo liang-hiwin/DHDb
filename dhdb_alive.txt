@@ -749,6 +749,7 @@
 0771bc.com
 0771mail.com
 0771pm.com
+0771rc.com
 0771td.com
 0772job.com
 0775code.com
@@ -16444,6 +16445,7 @@ barodainfo.com
 baron-bj.com
 barouarges.ro
 barretlee.com
+barrons.com
 barryanddistrictnews-gb.barryanddistrictnews.co.uk
 barstowcollege.net
 bartelhall.com
@@ -16682,6 +16684,7 @@ bbsmo.com
 bbsone.com
 bbsxp.com
 bbtcaster.com
+bbthat.com
 bbtoystore.com
 bbtree.com
 bbtt9.com
@@ -19104,19 +19107,35 @@ bloomberg.de
 bloomberg.fr
 bloomberg.it
 bloomberg.net
+bloombergapps.com
+bloombergarcade.com
+bloombergbeta.com
 bloombergbriefs.com
 bloombergbusiness.com
+bloombergchina.com
 bloombergindexes.com
+bloombergindustry.com
+bloomberglabs.com
+bloomberglaw.com
+bloomberglive.com
+bloomberglp.com
+bloombergmedia.com
 bloombergpolitics.com
+bloombergradio.com
 bloombergsef.com
+bloombergspace.com
+bloombergtax.com
 bloombergtradebook.com
 bloombergview.com
 bloomgamer.com
 bloomingdales.com
 blorks.com
 blox.minexmr.com
+blpcareers.com
+blpevents.com
 blpink.xyz
 blpprofessional.cloud.com
+blpprofessional.com
 blqx.com
 blqy.com
 blr1933.com
@@ -19197,6 +19216,7 @@ bmeol.com
 bmfsm.com
 bmgan.com
 bmh001.com
+bmia.org
 bmijs.com
 bmkz57b79pxk.com
 bml.info
@@ -19567,6 +19587,7 @@ bnapp.com
 bnbcamp.com
 bnc66.com
 bnchina.com
+bnef.com
 bnet.163.com
 bnet.com
 bnetds.cn
@@ -20533,6 +20554,7 @@ businessreviewglobal-cdn.com
 businesssource.bokf.com
 businesstoday.com.tw
 businessweek.com
+businessweekmag.com
 busingleni.club
 busnc.com
 busracik.tk
@@ -22056,12 +22078,19 @@ cbnweek.com
 cboad.com
 cbpjw.net
 cbrex.com
+cbs.com
 cbs.ntu.edu.tw
 cbs.wondershare.com
+cbscorporation.com
+cbsi.com
 cbsi.demdex.net
+cbsiam.com
+cbsinteractive.com
 cbskc.com
 cbsnews.com
+cbspressexpress.com
 cbsrc.com
+cbssports.com
 cbtc.org.hk
 cbvac.com
 cbvjddh.23txt.com
@@ -30358,6 +30387,7 @@ deutsche-welle.de
 dev-deu-1.inf.nimiq.network
 dev-deu-2.inf.nimiq.network
 dev-gameservice-v2.firebaseio.com
+dev-theguardian.com
 dev.atas.io
 dev.coinlab.biz
 dev.cryptobara.com
@@ -32346,6 +32376,7 @@ dreamsz.net
 dreamteamfc.com
 dreamtoplay.com
 dreamwaybbs.com
+dreamworks.com
 dreamxt.net
 dreawer.com
 drebeats-australia.com
@@ -38122,6 +38153,7 @@ for512.com
 for68.com
 fora.pl
 forad1.weimeicun.com
+forbes.com
 forbetty.com
 forbugs.net
 forbuyers.com
@@ -38287,6 +38319,7 @@ foxneo.com
 foxnews.com
 foxphp.com
 foxplus.com
+foxsports.com
 foxsports.com.au
 foxsub.com
 foxtable.com
@@ -38747,6 +38780,7 @@ fsoptronics.com
 fspcdn.com
 fsq3626.com
 fsr.lenovomm.com
+fssta.com
 fsswrl.com
 fst360.com
 fstopimages.com
@@ -39646,6 +39680,8 @@ gank-studio.com
 gankh5.com
 ganlv.org
 ganlvji.com
+gannett.com
+gannettdigital.com
 ganniu.com
 ganon.yahoo.com
 ganqi.net
@@ -49522,7 +49558,9 @@ inside.bitcomet.com
 inside.rtbasia.com
 insidefilms.com
 insidemacintosh.com
+insider.com
 insiderdevtour.com
+insiderintelligence.com
 insidevoa.com
 insight.fonecta.fi
 insight.ucweb.com
@@ -58646,6 +58684,7 @@ london9999.com
 londonchinese.ca
 londonchinese.com
 londonermacao.com
+londonmithraeum.com
 londonprivaterentals.standard.co.uk
 lonelystar.org
 lonery.com
@@ -64238,6 +64277,7 @@ msmbjp.com
 msn.com
 msn.com.tw
 msnapk.com
+msnbc.com
 msneg.com
 msnewskids.com
 msnewskids.net
@@ -65359,6 +65399,7 @@ nbazww.com
 nbb6666.com
 nbbeer.com
 nbbiao.com
+nbc.co
 nbc.com
 nbc.hk
 nbcnews.com
@@ -65366,8 +65407,10 @@ nbcnews.to
 nbcolympics.com
 nbcredit.net
 nbcsgo.com
+nbcsports.com
 nbcudigitaladops.com
 nbcuni.com
+nbcuniversal.com
 nbcyl.com
 nbdeli.com
 nbdpx.com
@@ -65752,7 +65795,9 @@ newdu.com
 newdun.com
 newdun.net
 newdur.com
+neweconomyforum.com
 newedge.cc
+newenergyfinance.com
 newer2001.com
 newerannews.com
 newestbeatsbydre.com
@@ -65859,6 +65904,7 @@ newsccn.com
 newscctv.net
 newschinacomment.org
 newscn.org
+newscorp.com
 newsdao.com
 newsdetox.ca
 newsdh.com
@@ -69220,6 +69266,7 @@ paragon.com
 parallels.com
 parallelsras.com
 paramitadirect.com
+paramount.com
 paranormal88.fr
 parapentemanquehue.cl
 parariradioweb.com
@@ -69711,6 +69758,7 @@ peacehall.com
 peaceticket.com
 peachy18.com
 peachyforum.com
+peacocktv.com
 peak-labs.com
 peakconsulting.com.au
 peanutads.com
@@ -75840,6 +75888,7 @@ rt-mart.net
 rt-thread.org
 rt.applovin.com
 rt.applvn.com
+rt.com
 rt.flix360.com
 rt.funshion.net
 rt.gsspat.jp
@@ -80145,6 +80194,7 @@ skwo.net
 sky-deep.com
 sky-fire.com
 sky-planning.net
+sky.com
 sky003.com
 sky1shop.com
 skyallhere.com
@@ -80178,6 +80228,8 @@ skymoons.com
 skymoons.net
 skymz.cc
 skynet.be
+skyoceanrescue.com
+skyoceanrescue.it
 skype-china.net
 skype.com
 skype.net
@@ -80187,6 +80239,9 @@ skyrivers.org
 skyrj.com
 skysea.com
 skysgame.com
+skysports.com
+skysportsonline.com
+skysportsracing.com
 skysrt.com
 skystar.com
 skytorrents.lol
@@ -84950,6 +85005,7 @@ techain.baidu.com
 techanghui.com
 techantong.net
 techarena.in
+techatbloomberg.com
 techblog.netflix.com
 techbrood.com
 techcrunch.com
@@ -87828,6 +87884,7 @@ trustutn.org
 trustwave.com
 truth-out.org
 truth.atspace.eu
+truthontour.org
 truthortrust.com
 truveo.com
 trwl.net
@@ -89515,6 +89572,10 @@ unity3d.com
 unity3d8.com
 unityads.unity3d.com
 uniuo365.com
+universalorlando.com
+universalpictures.com
+universalpicturesinternational.com
+universalstudioshollywood.com
 universeandart.com
 universitypressscholarship.com
 uniworldart.com
@@ -89833,6 +89894,7 @@ usamassgeneral.com
 usao.77gog.com
 usaobb.com
 usashopcn.com
+usatoday.com
 usawebproxy.com
 usawebproxy.net
 usbabyada.com
@@ -90799,6 +90861,10 @@ vi586.com
 via-cert.com
 via.com.tw
 viabtc.com
+viacbs.com
+viacom.com
+viacomcbs.com
+viacomcbspressexpress.com
 vial.cc
 viapp.net
 viatech.com
@@ -91347,6 +91413,7 @@ vlive.qqvideo.tc.qq.com
 vllcs.org
 vlog.xuite.net
 vlong.tv
+vlongbiz.com
 vlwoo.com
 vlzp.com
 vm.aty.sohu.com
@@ -93579,6 +93646,7 @@ wenxuem.com
 wenxuemi.com
 wenxuemi6.com
 wenxuemm.com
+wenxuetiandi.com
 wenyi001.com
 wenyifan.net
 wenyijcc.com
