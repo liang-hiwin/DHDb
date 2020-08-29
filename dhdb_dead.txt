@@ -33,6 +33,7 @@
 01.beeppool.org
 01.bit.ddns.ms
 01.buyshouses.net
+010123456.com
 0101shop.com
 010cns.com
 010jianzhan.com
@@ -461,6 +462,7 @@
 1278721.com
 1280eda098.com
 129w.com
+12df3.com
 12gf.gold
 12go.com.br
 12jn.com
@@ -1890,6 +1892,7 @@
 56fba.cn
 56gk.com
 56img.net
+56kad.com
 56ml.com
 56uo.com
 56vob.cn
@@ -2686,6 +2689,7 @@
 92jn.com
 92lm.com
 92ni.com
+92python.com
 92sales.com
 92to.com
 92u93e.com
@@ -3760,6 +3764,7 @@ aliyuncdn.com
 aliyunceng.com
 aliyuncss.com
 aliyunddos0020.com
+aliyunddos0026.com
 aliyunddos0030.com
 aliyunddos1001.com
 aliyunddos1002.com
@@ -5911,6 +5916,7 @@ casic.com
 casic304.com
 casicyber.com
 casinohacksforyou.com
+casql.com
 casting.openv.com
 castplatform.com
 cat.sh.cn.criteo.com
@@ -7258,6 +7264,7 @@ com-v-sohu.com
 com-v-tudou.com
 com-youku.com
 com-youku.net
+com.fi
 com.google
 comac.cc
 comberry.cn
@@ -8421,6 +8428,7 @@ dataprajna.net
 dataservices.download
 dataunion.net
 datazt.com
+datia-inspect.com
 dating2cloud.org
 datjm7i8cdphw.cloudfront.net
 datouniao.com
@@ -8932,6 +8940,7 @@ dnnskin.net
 dns-vip.net
 dns.cctvqueretaro.com
 dns100.net
+dns102.com
 dns11.beeppool.org
 dns123456789.com
 dns1861.com
@@ -9050,6 +9059,7 @@ donglizhixin.com
 dongmiban.com
 dongputech.com
 dongqil.com
+dongqiniqin.com
 dongshihao.com
 dongtaiwang.org
 dongxuyitai.com
@@ -11636,6 +11646,7 @@ gxkyl.com
 gxmlyjy.com
 gxnotes.com
 gxny.imanchu.cn
+gxrwc.xyz
 gxssjz.com
 gxunj.com
 gxwlzz.baiduspider1.cn
@@ -11805,6 +11816,7 @@ haitaoj.com
 haitianhome.com
 haitou360.com
 haitundr.com
+haitunshenghuo.com
 haiwai-ic.ksosoft.com
 haiwanli.com
 haiwengji.net
@@ -13235,6 +13247,7 @@ im.mn.ctags.cn
 im020.com
 im1.56zzw.com
 im170.com
+im5.org
 im577.com
 ima.xcyjzs.net
 image.qj175.com
@@ -14468,6 +14481,7 @@ jupiter1.appads.com
 jupiter2.appads.com
 jupiter3.appads.com
 jupiterscdn.com
+juqyxa.com
 juren0.com
 jurtym.cf
 jusdq.com
@@ -15183,6 +15197,7 @@ lamost.org
 lamwatch.com
 lamyu.com
 lan-car.com
+lancn.net
 lanconvey.com
 landa-solenoid.com
 landongpage.com
@@ -18072,6 +18087,7 @@ olmvkq.cn
 olmy8.com
 olnx.vip
 olxt.top
+omacloud.com
 omd99.com
 omega.yikyakapi.net
 omega7o.com
@@ -22361,6 +22377,7 @@ tongdoutown.com
 tongfangpc.com
 tonghuiqiye.com
 tongji.114com.cc
+tongji.com
 tongji.qidian.com
 tongji.zhidao.baidu.com
 tongjiwo.com
@@ -23853,6 +23870,7 @@ wdjky.com
 wdjl.net
 wdjsg.com
 wdm.map24.com
+wdmuz.com
 wdptj.com
 wdstory.com
 wdtcp.com
@@ -27378,6 +27396,7 @@ yzh.jyjhkz.com
 yzjlsb.com
 yzmiao03.com
 yzqww.com
+yzrcfw.com
 yzskj.com
 yzsqxx.com
 yzssc.net
