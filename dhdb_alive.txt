@@ -16682,7 +16682,6 @@ bbs.south-plus.org
 bbs.tianshi2.com
 bbs.totoxtv.com
 bbs.youzu.com
-bbs169.com
 bbs1x.net
 bbs4.2djgame.net
 bbsaso.com
@@ -19220,7 +19219,6 @@ bm8.tv
 bm880.cc
 bm8885.com
 bm919.com
-bm969.com
 bmadx.com
 bmatch.tech
 bmcm.pw
