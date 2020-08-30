@@ -10539,7 +10539,6 @@ ad.where.com
 ad.winrar.com.cn
 ad.wretch.cc
 ad.wsod.com
-ad.wurangxian.top
 ad.ximalaya.com
 ad.xmovies8.ru
 ad.xxguan.cn
@@ -17536,7 +17535,6 @@ benhu.com
 benhu01.com
 beniao.com
 benihunik.com
-benkua.com
 benlai.com
 benlailife.com
 benmi.com
@@ -23000,7 +22998,6 @@ cfg.imtt.qq.com
 cfhpc.org
 cfido.com
 cfiec.net
-cfimages.jssg013.com
 cfjs.cc
 cfjsol.com
 cfkd.net
