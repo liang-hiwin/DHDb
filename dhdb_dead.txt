@@ -2959,6 +2959,7 @@ a.market.xiaomi.com
 a.mb2.host
 a.mianbao99.com
 a.mjlnbx.cn
+a.nanhuwang.com
 a.oyksoft.com
 a.psxxw.cn
 a.qiao024.com
@@ -8258,6 +8259,7 @@ d7rme1d99gjjk.cloudfront.net
 d8.la
 d81pam37egi8w.cloudfront.net
 d82kg0g43e1bu.cloudfront.net
+d8ekco.com
 d8sgdg9sdzglz.cloudfront.net
 d8vp5mbry9zys.cloudfront.net
 d92hdf7ptxcml.cloudfront.net
