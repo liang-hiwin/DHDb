@@ -1306,7 +1306,6 @@
 11160066.com
 1116yl.com
 1117797.com
-1119702.com
 111cn.net
 111g.yiqig.cn
 111hyk.com
@@ -31337,7 +31336,6 @@ dko.vente-unique.nl
 dkr.com
 dkrecttv.com
 dksgo.com
-dktime.org
 dkyp75kj7ldlr.cloudfront.net
 dkys.org
 dl-canary.discordapp.net
