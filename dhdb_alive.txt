@@ -11649,6 +11649,7 @@ adlabs-sync.rutarget.ru
 adlandpro.com
 adlatch.com
 adlaunch.moji.com
+adlaunch.qingting.fm
 adlayer.net
 adlefee.com
 adlegend.com
@@ -38014,6 +38015,7 @@ ee.h2tywo.cn
 ee.hx623.cn
 ee.k2d98mi.cn
 ee.m19ud.cn
+ee.mfufanj.cn
 ee.shixunwang.net
 ee.wh723.cn
 ee.wz382.cn
@@ -55653,6 +55655,7 @@ ipchaxun.com
 ipcheck.blogsys.jp
 ipcheck.tmgrup.com.tr
 ipchina.com
+ipchinatelecom.com
 ipclife.net
 ipcmen.com
 ipconceal.com
@@ -76256,6 +76259,9 @@ otracking.com
 otri.ujaen.es
 otrwaram.com
 otsurvedchange.info
+ott.da.mgtv.com
+ott2.da.mgtv.com
+ott3.da.mgtv.com
 ott4china.com
 ottcn.help
 otto.de
@@ -92344,6 +92350,7 @@ stexv.com
 stfhq.com
 stfile.com
 stg-data-collector.playbuzz.com
+stg-data.ads.heytapmobi.com
 stg8.com
 stgairasia.com
 stgloballink.com
@@ -117729,6 +117736,7 @@ yndkt.com
 yndlrl.com
 yndtjj.com
 yneit.com
+ynet.da.mgtv.com
 ynfabu.com
 ynfzxh.com
 yngd016.com
