@@ -7229,6 +7229,7 @@
 66diqiu.com
 66ds.net
 66dt.com
+66dz.net
 66fuzhuang.com
 66house.com
 66hyk.cc
@@ -11538,6 +11539,8 @@ adgreed.com
 adgroups.com
 adgrx.com
 adguanggao.eee114.com
+adguard-vpn.com
+adguard.com
 adhdsb.cn
 adhealers.com
 adhei.com
@@ -18574,6 +18577,7 @@ bbdservice.com
 bbelements.com
 bbeyay41026.cn
 bbg.gov
+bbgevent.com
 bbgstatic.com
 bbgwatch.com
 bbhou.com
@@ -21307,22 +21311,38 @@ bloomberg.net
 bloombergapps.com
 bloombergarcade.com
 bloombergbeta.com
+bloombergbna.com
+bloombergbreakaway.com
 bloombergbriefs.com
 bloombergbusiness.com
 bloombergchina.com
+bloombergenvironment.com
+bloombergforeducation.com
+bloomberggovernment.com
 bloombergindexes.com
+bloombergindices.com
 bloombergindustry.com
 bloomberglabs.com
 bloomberglaw.com
 bloomberglive.com
 bloomberglp.com
 bloombergmedia.com
+bloombergnext.com
+bloombergpolarlake.com
 bloombergpolitics.com
+bloombergprep.com
+bloombergquint.com
 bloombergradio.com
 bloombergsef.com
 bloombergspace.com
+bloombergstatus.com
+bloombergsurvey.com
 bloombergtax.com
+bloombergtax1.com
+bloombergtaxtech.com
 bloombergtradebook.com
+bloombergtradingchallenge.com
+bloombergvault.com
 bloombergview.com
 bloomgamer.com
 bloomingdales.com
@@ -25182,6 +25202,7 @@ cdn.mobicow.com
 cdn.mobileread.com
 cdn.moji.com
 cdn.moji002.com
+cdn.moogos.com
 cdn.mxpnl.com
 cdn.nablabee.com
 cdn.ndapp.com
@@ -31123,6 +31144,7 @@ cshxdc.com
 cshzw.com
 csi.gstatic.com
 csiaexpo.com
+csic-ljtech.com
 csic612.com
 csic6801.com
 csic76.com
@@ -43475,6 +43497,7 @@ fulibl.net
 fulibl.org
 fulibl.xyz
 fulibus.net
+fulichao.com
 fuligirls.me
 fuligirls.net
 fulihome.blog.fc2blog.us
@@ -45071,6 +45094,7 @@ get.vip
 get.webxmr.com
 get233.com
 get8bit.com
+getadblock.com
 getaim.info
 getambassador.com
 getastrill.com
@@ -51706,6 +51730,7 @@ htinfor.com
 htinns.com
 htintpa.tech
 htjs.net
+htjsk.com
 htjsq.com
 htkaoyan.com
 htkou.net
@@ -58789,6 +58814,7 @@ josueunhuit.com
 jotchept.com
 jotform.com
 jotop.net
+jotrening.com
 jotrin.com
 jouav.com
 journalchretien.net
@@ -74340,6 +74366,7 @@ nowe.com
 nowec.com
 nowepekao24.com
 nowinteract.com
+nowledged.club
 nowlooking.net
 nownews.com
 nowo.com
@@ -86478,7 +86505,10 @@ scounter.rambler.ru
 scout.us2.salesloft.com
 scoutle.com
 scp-social.s-msn.com
+scp-wiki.net
+scpdb.org
 scplt.com
+scpwiki.com
 scqajt.cn
 scramble.io
 scrap.me
@@ -98238,6 +98268,8 @@ transfun.net
 translate.googleapis.com
 translate.googleusercontent.com
 translatetheweb.com
+translatewiki.net
+translatewiki.org
 translation-dictionary.net
 translationchina.com
 transmissionzero.co.uk
@@ -104093,6 +104125,7 @@ wddream.com
 wddsnxn.org
 wdeie.com
 wdf5.com
+wdfiles.com
 wdfok.com
 wdfxw.net
 wdh518.com
@@ -105658,6 +105691,7 @@ wikia.nocookie.net
 wikia.org
 wikibooks.org
 wikidata.org
+wikidot.com
 wikielife.com
 wikigifth.com
 wikihow.com
@@ -118923,6 +118957,7 @@ yunfandns.com
 yunfangtan.com
 yunfannet.com
 yunfei89.com
+yunfeilon.com
 yunfengdie.com
 yunforum.net
 yunfutech.com
