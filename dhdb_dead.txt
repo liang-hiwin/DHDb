@@ -3577,7 +3577,6 @@ adrsp.net
 ads-4u.com
 ads-api.videojj.com
 ads-pixiv.net
-ads-sdk-cn.upltv.com
 ads-twitter.com
 ads-west-colo.adsymptotic.com
 ads.adhce.cn
@@ -5569,7 +5568,6 @@ bestmephoto.com
 bestpeng.com
 bestroc.org
 bestsign.tech
-bestsrc.com
 besttechblogforyou.blogspot.in
 besttoneh.com
 bestvapp.com
@@ -13072,7 +13070,6 @@ golivetv.tv
 gomegj.com
 gondzizo.com
 gongchengshi.org
-gongfanglong.cn
 gongguan96.com
 gongjianglaile.com
 gongmeng.info
@@ -23960,7 +23957,6 @@ sanjinma.com
 sankezhi.cn
 sankgo.com
 sankuai.com
-sanmaofafa.com
 sannxx.com
 sanpowergroup.com
 sanqindaily.com
@@ -31594,7 +31590,6 @@ yandexcloud.net
 yandui.com
 yangbing.club
 yangfawen.net
-yanghua.net
 yangjian.me
 yangkun.net
 yanglajiao.com
@@ -31605,7 +31600,6 @@ yangqimanhua.com
 yangqq.com
 yangsheng.com
 yangshengzhu.com
-yangtop.com
 yangxiaojia.me
 yangxinlife.com
 yangyi08.com
