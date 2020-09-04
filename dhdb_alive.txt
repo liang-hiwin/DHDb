@@ -23567,7 +23567,6 @@ c11.statcounter.com
 c114.net
 c12.statcounter.com
 c13.statcounter.com
-c1313.f28014.cn
 c14.statcounter.com
 c15.statcounter.com
 c16.statcounter.com
@@ -25127,7 +25126,6 @@ cdn.adrunnr.com
 cdn.adsfactor.net
 cdn.adsk2.co
 cdn.adstract.com
-cdn.aegins.com
 cdn.aiclicash.com
 cdn.aiclk.com
 cdn.akubebas.com
