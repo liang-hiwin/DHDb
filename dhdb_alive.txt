@@ -10137,6 +10137,7 @@ a.pomf.se
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
 a.pub.network
+a.qchannel03.cn
 a.qinghua5.com
 a.qncye.net
 a.qsjiajiao.com
@@ -12327,6 +12328,7 @@ adstarget.net
 adstargeting.com
 adstat.4u.pl
 adstatic.com
+adstats.tencentmusic.com
 adsterra.com
 adstextview.qq.com
 adstil.indiatimes.com
@@ -15434,6 +15436,7 @@ api.doumob.com
 api.dropboxapi.com
 api.dsp.yhd.com
 api.e-cg.cn
+api.e.kuaishou.com
 api.e.mi.com
 api.ero-advertising.com
 api.ettoday.net
@@ -15553,6 +15556,7 @@ api1.sspcdn.cn
 api1.tuisong.baidu.com
 api2.analysys.cn
 api2.dating.com
+api2.e.kuaishou.com
 api2.play.cn
 api2.poperblocker.com
 api2.tuisong.baidu.com
@@ -15796,6 +15800,7 @@ appdynamics.info
 appdynamics.org
 appeasou.com
 appendad.com
+apperr.log.mgtv.com
 appexchange.com
 appfh.com
 appgame.com
@@ -31724,6 +31729,7 @@ cylex.de
 cylink.pro
 cylong.com
 cyltcnl.com
+cymichaire.club
 cymmltm.com
 cyneburg-yam.com
 cynical.us
@@ -35443,6 +35449,7 @@ dollarsponsor.com
 dollf.com
 dolohen.com
 dolphin-browser.com
+dolphin-center.adsame.com
 dolphin.com
 dolphin.deliver.ifeng.com
 dolphin.ftimg.net
@@ -35545,6 +35552,7 @@ dongsport.com
 dongtaijt.com
 dongtaiwang.com
 dongtaiwang.net
+dongtaiwang.org
 dongting.com
 dongtu.com
 dongua.com
@@ -44823,6 +44831,7 @@ gecidao.com
 gecilrc.com
 gecimi.com
 geciwang.net
+gecko-hl.snssdk.com
 gecomindia.com
 gedcompani.fun
 gedeyi.com
@@ -47898,6 +47907,7 @@ gzmiyuan.com
 gzmri.com
 gzmtr.com
 gzmxol.com
+gzmxybg.com
 gzncstudios.com
 gznemo.com
 gzngn.com
@@ -74332,6 +74342,7 @@ nord-cn.net
 nord-cn.org
 nord-for-apps.com
 nord-in-china.org
+nord-raum.com
 nord4china.com
 nordicresearch.com
 nordicways.com
@@ -81317,6 +81328,7 @@ qcsj.com
 qcstudy.com
 qcsyt.com
 qctsw.com
+qcupup.com
 qcvf.ifeng.com
 qcwhw.com
 qcwlpay.com
@@ -94407,6 +94419,7 @@ t56.net
 t56jy.net
 t5a9.com
 t6.51maiwanju.com
+t6.a.market.xiaomi.com
 t66y.com
 t68.ph
 t69y.com
@@ -99980,6 +99993,7 @@ ucsmqq.site
 ucstatic.cn
 uctrac.com
 uctxt.com
+ucumbholi.club
 ucus.ucweb.com
 ucuuc.com
 ucvrtwfh.com
@@ -104017,6 +104031,7 @@ wap.88xiaoshuo.com
 wap.bytdzsw.com
 wap.cmgame.com
 wap.koudaitong.com
+wap.martinwang.top
 wap.moad.cn
 wap.mpush.qq.com
 wap.mygeneclub.com
@@ -122410,6 +122425,7 @@ zwzyzx.com
 zx-casting.com
 zx-jsp.com
 zx-tour.com
+zx.da.mgtv.com
 zx.docin.com
 zx0093.com
 zx017.com
