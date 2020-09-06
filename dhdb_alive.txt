@@ -21,7 +21,6 @@
 001133.app
 0013.cc
 001455.com
-001717.com
 001bank.com
 001cndc.com
 001daima.com
