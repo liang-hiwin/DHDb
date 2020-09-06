@@ -3730,6 +3730,7 @@ aegins-dns.com
 aegins-dns.net
 aegins-network.net
 aegins.cc
+aegins.com
 aegins.net
 aehdgzigy.com
 aencx.net
@@ -4585,6 +4586,7 @@ app.roximity.com
 app.tv333.us
 app.xixiashengdian.com
 app.xyjqy.com
+app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
 app2.tk
 app253.com
