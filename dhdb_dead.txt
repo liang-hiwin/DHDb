@@ -370,6 +370,7 @@
 1100.adsina.allyes.com
 1100gf.com
 110160.com
+110monitor.com
 1111.com
 111111111.com
 11111111234567.com
@@ -5958,6 +5959,7 @@ blogimg.jp
 bloglegal.com
 blogpatrol.com
 blogranking.net
+blogs.libraryinformationtechnology.com
 blogs.tampabay.com
 blogsmithmedia.com
 blogspot.cat
@@ -9289,6 +9291,7 @@ d824d7f5cbcb0e00.com
 d82kg0g43e1bu.cloudfront.net
 d869381a42af33b.com
 d8ekco.com
+d8rk54i4mohrb.cloudfront.net
 d8sgdg9sdzglz.cloudfront.net
 d8vp5mbry9zys.cloudfront.net
 d9.mobaders.com
@@ -18033,6 +18036,7 @@ liba.com
 liberland.com.ve
 libertarios.org.ve
 libertycdn.com
+libili.com
 libivan.com
 libnav.com
 libsou.com
@@ -24727,6 +24731,7 @@ shuihougongzi.com
 shuijingcn.com
 shuilv2014.com
 shuimujiaju.com
+shuixyh.com
 shujupie.com
 shujutang.com
 shukeba.com
@@ -31102,6 +31107,7 @@ xjtsnews.com
 xjtudlc.com
 xjuzpixunwzckm.com
 xjxbx.com
+xjzdjx.com
 xjzkzx.com
 xjzlyy.com
 xk.domain888.pw
@@ -31502,6 +31508,7 @@ xyd.sxmdxy.com
 xydxcloud.com
 xygjx.com
 xyhc.com
+xyhqsh.com
 xyjrw.com
 xyjt.org
 xylmdm.top
@@ -32953,6 +32960,7 @@ zhonglun.com
 zhongruigang.com
 zhongshucan.com
 zhongwangmy.cn
+zhongwcs.com
 zhongwenhexinqikan.com
 zhongxing9hao.net.cn
 zhongyegongkao.com
