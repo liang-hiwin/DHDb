@@ -10454,6 +10454,7 @@ aax-us-iad.amazon.com
 aax-us-west.amazon-adsystem.com
 aax.amazon-adsystem.com
 aaxdetect.com
+aaxtuhit.com
 aaxxr.com
 aazao.com
 aazwugtom.com
@@ -26426,6 +26427,7 @@ china-coc.org
 china-cold.com
 china-csdz.com
 china-csm.org
+china-customs.com
 china-cw.com
 china-d.com
 china-def.com
@@ -69449,6 +69451,7 @@ mightseers.club
 mignoops.net
 migroom.com
 migucloud.com
+migudy.com
 miguelsuarez.cl
 migufun.com
 miguyu.com
@@ -76274,6 +76277,7 @@ opxincai.com
 opython.com
 opzoon.com
 oq78.com
+oqhrlphoecl.com
 oqss.com
 or-sun.com
 oracle.com
@@ -78800,6 +78804,7 @@ pipii.tv
 pipimp3.com
 pipipan.com
 pipix.com
+piposay.com
 pippio.com
 pippity.com
 pipsol.net
