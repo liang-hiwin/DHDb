@@ -12231,6 +12231,7 @@ adshmmsg.qq.com
 adshoppeevents.com
 adshopping.com
 adshost2.com
+adshostnet.com
 adshot.de
 adshow.58.com
 adshow.it168.com
@@ -12684,6 +12685,7 @@ aeesy.com
 aegcar.com
 aeghae5y.com
 aegins.org
+aegis.qq.com
 aegzjowko.com
 aehyok.com
 aeimqu.yhqjqc.cn
@@ -16090,6 +16092,7 @@ appsupport.stargame.com
 apptao.com
 apptap.com
 apptentive.com
+apptornado.com
 apptv.w.inmobi.com
 appubang.com
 appublisher.com
@@ -16439,6 +16442,7 @@ as.payback.it
 as.sinahk.net
 as.sogo.eu.org
 as.trklinklog.com
+as.weixin.qq.com
 as.yomonda.de
 as07d698u9.com
 as1.m.hao123.com
@@ -27933,6 +27937,7 @@ click.dangdang.com
 click.dtiserv2.com
 click.engage.xbox.com
 click.eyk.net
+click.fanyi.baidu.com
 click.gamersky.com
 click.ganji.com
 click.gridsumdissector.com
@@ -28097,6 +28102,7 @@ client-stats.gclick.cn
 client.88tours.com
 client.show.qq.com
 client.sidesearch.lycos.com
+client.stats.yinyuetai.com
 client.tahono.com
 client.tv.uc.cn
 client.video.ucweb.com
@@ -65905,6 +65911,7 @@ luochenzhimu.com
 luochunhui.com
 luocs.com
 luodian.com
+luodiye01.cn
 luodiying.net
 luodw.cc
 luofan.net
@@ -69474,6 +69481,7 @@ miidol.com
 miiee.com
 miijqghk1.dtd999.com
 miinaa.com
+miit-icdc.org
 miit.cc
 miitip.org
 miitomo.com
@@ -78632,6 +78640,7 @@ ping-jia.net
 ping-traffic.info
 ping.acc.sogou.com
 ping.chartbeat.net
+ping.cloud.tencent.com
 ping.dozuki.com
 ping.fm
 ping.hellobar.com
@@ -78655,6 +78664,7 @@ pingcoo.com
 pingfandeshijie.net
 pingfangx.com
 pingfenbang.com
+pingfore.qq.com
 pinggu.com
 pinggu.org
 pingguobaoxiu.com
@@ -87566,6 +87576,7 @@ sensible-ads.com
 sensic.net
 sensolnet.com
 sensor.org.ua
+sensors.cloud.tencent.com
 sensorsdata.ruguoapp.com
 sensorshome.com
 sensortower-china.com
@@ -90640,6 +90651,7 @@ sodocloud.com
 sodocs.net
 sodoit.com
 sody123.com
+sodyy.com
 soeasysdk.com
 sofabiao.com
 sofang.com
@@ -94131,6 +94143,7 @@ szchi.net
 szcompare.com
 szcsot.com
 szcssx.com
+szcsw.com
 szcua.org
 szcud.com
 szcwdz.com
@@ -99352,6 +99365,7 @@ tuodanyy.com
 tuohuangzu.com
 tuoluocaijing.com
 tuoniaox.com
+tuos.kyouad.com
 tuotuozu.com
 tuoweisi.com
 tuoyundan.com
@@ -106775,6 +106789,7 @@ woolyss.com
 wooolab.com
 woopie.jp
 woopie.tv
+woopra-ns.com
 wooqx.com
 woordee.com
 wooshoes.com
@@ -115216,6 +115231,7 @@ xmlvbarcode.com
 xmlwizard.com
 xmmade.com
 xmmama.com
+xmndrx.cn
 xmninetown.com
 xmonecode.com
 xmovies.com
@@ -116147,6 +116163,7 @@ xy-asia.com
 xy-log2.tagtic.cn
 xy.com
 xy.nullrefexcep.com
+xy.shijialianzuishuai.com
 xy00030.com
 xy1758.com
 xy178.com
