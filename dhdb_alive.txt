@@ -4144,6 +4144,7 @@
 360kxr.com
 360laoshi.com
 360lj.com
+360longyan.com
 360lvyouwang.com
 360midi.com
 360os.com
@@ -5395,6 +5396,7 @@
 51daiwei.com
 51dangpu.com
 51daquan.com
+51datakey.com
 51daxueedu.com
 51dayday.com
 51dc.com
@@ -10377,6 +10379,7 @@ aa1.pub.funshion.com
 aa1801.webnode.tw
 aa1802.com
 aa1884.com
+aa2211.com
 aa228.net
 aa43z7.com
 aa53df329975c325.com
@@ -86663,6 +86666,7 @@ scholarpedia.org
 scholarsatrisk.org
 scholarsglobe.com
 scholat.com
+schoolcms.org
 schoolgater.com
 schooltunnel.net
 schoolyeargo.com
@@ -86881,6 +86885,7 @@ sdb.amazonaws.com
 sdbao.com
 sdbear.com
 sdbeta.com
+sdbthk.com
 sdbykqn.com
 sdca119.com
 sdchem.net
@@ -103261,6 +103266,7 @@ vpn.com
 vpn.flying-datacenter.de
 vpn.ht
 vpn.net
+vpn.onemore.com.hk
 vpn.sv.cmu.edu
 vpn001.jimdo.com
 vpn2.beeppool.org
