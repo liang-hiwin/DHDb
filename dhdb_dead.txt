@@ -943,7 +943,6 @@
 21xsk.com
 21znw.com
 22-dns.com
-22-qp.com
 22.3.wwwhost.biz
 22.ddos.im
 22.dhcp.biz
@@ -6454,7 +6453,6 @@ byqcxy.com
 byqok.com
 byspotify.com
 bysxfz.com
-byt707.com
 bytb996.top
 byte2100.com
 bytecdn.com
@@ -7476,7 +7474,6 @@ chinaningbo.com
 chinaoct.com
 chinaopen.com
 chinaopticsvalley.com
-chinaott.net
 chinaowps.com
 chinapastel.com
 chinapay.com
@@ -7825,7 +7822,6 @@ clicktrkservices.com
 clickvalue.cn
 clickwifi.net
 client-api.matchinguu.com
-client.stats.yinyuetai.com
 client.tenddata.com
 clientgear.com
 clientlog.portal.office.com
@@ -8762,7 +8758,6 @@ czgmlnhz.com
 czjdu.com
 czkaichi.com
 czkingdee.com
-czodb.com
 czpwm.com
 czqsyyey.com
 czrgyb.net
@@ -26971,7 +26966,6 @@ tuo8.space
 tuoens.cn
 tuoguang1111.com
 tuopabyjje.com
-tuos.kyouad.com
 tuoxintrade.cn
 tuozhan028.com
 tupian1234.com
@@ -31181,7 +31175,6 @@ xmltym2.cn
 xmlure.com
 xmm115.com
 xmmtoys.com
-xmndrx.cn
 xmnjdwx.com
 xmnmeu.cn
 xmnovel.com
