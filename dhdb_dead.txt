@@ -9100,6 +9100,7 @@ d2q7xz8xn8azab.cloudfront.net
 d2qkpebv23oowx.cloudfront.net
 d2qze7ou8n69d0.cloudfront.net
 d2r33j4rn8i3g5.cloudfront.net
+d2r7bmv6l6bnd1.cloudfront.net
 d2rdpw23tn7qg8.cloudfront.net
 d2s7jtuv2mt6lv.cloudfront.net
 d2s8qxo7hs115t.cloudfront.net
