@@ -512,6 +512,7 @@
 135box.com
 135edu.com
 135fa.com
+136.com
 136.microcycas.com
 1360.com.cn
 13647121919.com
@@ -530,6 +531,7 @@
 1388110.com
 138rra.com
 138rrc.com
+139.cm
 1391.com
 139135.com
 1398.org
@@ -598,6 +600,7 @@
 160x6001.jpg
 161.adsina.allyes.com
 1618.com
+162.com
 163958.com
 163data.net
 163k.cc
@@ -6786,6 +6789,7 @@ cbminfo.com
 cbn.me
 cbndata.org
 cbos3d.com
+cbpsdvozwsbf.com
 cbqyw.net
 cbsi.video
 cbsig.net
@@ -12741,6 +12745,7 @@ gd.cnhange.cn
 gd.jqgc.com
 gd.mm2004.com
 gd.vodtw.com
+gd2000.net
 gd2000.org
 gd8023.com
 gdadjs.com
@@ -17024,6 +17029,7 @@ kaishigo.com
 kaishilou.com
 kaishuhezi.com
 kaixin10fen.com
+kaixindou.net
 kaixinjiehun.com
 kaixinly.com
 kaixintang.com
@@ -28368,6 +28374,7 @@ wandarealm.com
 wandavista.com
 wandouip.com
 wanfangdata.com
+wanfangtech.com
 wanfcc.com
 wanfem.com
 wanfukang.cc
@@ -32736,6 +32743,7 @@ zgczjw.com
 zgdls.com
 zgdtro.com
 zgdxhbkf.com
+zgdykeji.com
 zgeuzenogpy.com
 zgg.com
 zgghw.org
