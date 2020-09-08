@@ -4569,7 +4569,6 @@ apk.idate520.com
 apk.static.youmi.net
 apk.tv333.us
 apk.uk.ns02.us
-apk2.ga
 apk2.ml
 apkdo.com
 apkhooker.com
@@ -6479,7 +6478,6 @@ bzcjy.cn
 bzdao.com
 bzewjpivglj.com
 bzgijyfjo.com
-bzjw.com
 bzm456.me
 bznx.net
 bzrb.net
@@ -16897,7 +16895,6 @@ jxjia.net
 jxjyzy.com
 jxjyzy.net
 jxkp.com
-jxkybegp.com
 jxnrfx.com
 jxnxs.com
 jxrencai.com
@@ -22913,7 +22910,6 @@ qndown.com
 qnemxzckwx.com
 qneowzuyfzyfs.com
 qngslb.com
-qnkiueuflzdold.com
 qnl1.com
 qnnawbvdyuql.com
 qnpov.cn
@@ -23581,7 +23577,6 @@ rnpwxssirmgflk.com
 rnvotosfzq.com
 rnxffkxddyobny.com
 roadcomponentsdb.com
-roading.org
 roadjava.com
 roaroqt.bar
 rock-chips.com
@@ -29845,7 +29840,6 @@ www.gbr-eri-c1-s2.inf.nimiq.network
 www.gbr-eri-c2-s1.inf.nimiq.network
 www.gbr-eri-c2-s2.inf.nimiq.network
 www.gdlbdzkj.com
-www.gdot.me
 www.gdzf.org
 www.geindex.com
 www.getsome.nimiq.com
