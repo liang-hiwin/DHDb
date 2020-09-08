@@ -167,7 +167,6 @@
 0579com.com
 0591101.com
 0591jiajiao.com.cn
-0593info.com
 0595job.com
 0598job.com
 0598rc.com
@@ -1536,7 +1535,6 @@
 4135.com
 41478.com
 41717.net
-418999.com
 41game.com
 41gw.com
 41msl.cn
@@ -30674,7 +30672,6 @@ xedaojia.net
 xeflnvycs.com
 xehedu.com
 xeirmdgphdl.com
-xeiwcnwmlv.com
 xemean.net
 xen0n.name
 xenddwrxygjcbq.com
@@ -32329,7 +32326,6 @@ yueyat.net
 yueyuelao.cn
 yueyuez.com
 yufengyangfan.com
-yug8.com
 yuggcd.com
 yujyjms.cn
 yukhj.com
