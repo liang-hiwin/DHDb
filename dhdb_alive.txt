@@ -29781,6 +29781,7 @@ conf.vidown.cn
 conf.xdrig.com
 conf.xiniuz.com
 confiant-integrations.global.ssl.fastly.net
+confiant.msn.com
 config-ltvp.inmobi.com
 config.adview.cn
 config.baofeng.net
@@ -53803,6 +53804,7 @@ ido321.com
 ido512.com
 idoacg.com
 idoall.org
+idoc58.com
 idocbank.com
 idocg.com
 idocoffice.com
@@ -55708,6 +55710,7 @@ ioio.in
 ioio.pw
 ioiox.com
 ioiylgyf.com
+iojpbletb.com
 iok.la
 iol8.com
 iolam.it
@@ -71724,6 +71727,7 @@ munero.me
 munfan.com
 mungaryn.club
 muniao.com
+municalcurit.club
 munitedoploko.site
 munpprwlhric.com
 munroadaz.site
@@ -72316,6 +72320,7 @@ myscoop-tracking.googlecode.com
 mysdn.com
 mysdn.info
 mysdn.net
+mysearch-online.com
 mysecondarydns.com
 myselfjanitor.com
 mysemlife.com
@@ -72463,6 +72468,7 @@ mzjmedia.com
 mzkjzhang.freeiz.com
 mzlit.com
 mzmjapp.com
+mzmnrczlsqtlya.com
 mznzltgotp.com
 mzol7lbm.com
 mzone.site
@@ -77790,6 +77796,7 @@ pccppc.com
 pccv.com
 pcd.autohome.com.cn
 pcdasm.flnet.org
+pcdjvinnlhysg.com
 pcdrv.com
 pcdvd.com.tw
 pceggs.com
@@ -86676,6 +86683,7 @@ scache1.vzw.com
 scache2.vzw.com
 scacm.com
 scaffi.com
+scahqyriepu.com
 scala-lang.org
 scala-sbt.org
 scalaproject.io
@@ -95921,6 +95929,7 @@ text-link-ads.com
 textlink.simba.taobao.com
 textnow.me
 textonlyads.com
+textsrv.com
 texttobuy.org
 texture.com
 tezhongzhuangbei.com
@@ -116910,6 +116919,7 @@ yasishuo.com
 yasiyasi.com
 yasn.com
 yasni.co.uk
+yassociallya.club
 yast.rutube.ru
 yastatic.net
 yasuotu.com
