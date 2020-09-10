@@ -3,7 +3,6 @@
 0.r.msn.com
 0.up.qingdaonews.com
 0.ww3.workers.dev
-00.mercax.com
 000.0x1f4b0.com
 0000002.com
 00000wg.com
@@ -3423,7 +3422,6 @@
 282l1.cn
 283.laobanfa.com
 2834762.jigsy.com
-2843.sbfa99.com
 28493.com
 285680.com
 2858567.com
@@ -6662,7 +6660,6 @@
 5dplay.net
 5ds.com
 5dydk.com
-5e1fcb75b6d662d.com
 5edb123fa3329.com
 5egk.com
 5eplay.com
@@ -7247,7 +7244,6 @@
 676z.com
 677.etowns.org
 67712a.com
-67785az.com
 677dy.com
 678266.com
 67856789.com
