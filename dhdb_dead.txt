@@ -4,6 +4,7 @@
 0006266.com
 0006999.com
 0007.net
+0008887.com
 000dn.com
 000e.com
 001.100du.us
@@ -1289,6 +1290,7 @@
 360kaixin.com
 360kan.com.cn
 360kuaixue.com
+360laoshi.com
 360mkt.com
 360qd.com
 360qhcdn.com
@@ -3201,6 +3203,7 @@ a2.huanqiumil.com
 a2.huiqituan.com
 a2299.com
 a2af4f04914ed298.com
+a2ba3784cb354807d.com
 a2c653c4d145fa5f96a.com
 a2f52ef3b52.top
 a2gw.com
@@ -18409,6 +18412,7 @@ logoshejishi.com
 logs-qos.tf1.fr
 logs.cnfol.com
 logs.datadoghq.com
+logs.datadoghq.eu
 logs.insight.rapid7.com
 logtec88.com
 lohappbnrpgypu.com
