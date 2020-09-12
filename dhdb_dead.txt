@@ -8638,7 +8638,6 @@ ct.hf01il.com
 ct0091.com
 ct1985.com
 ctasnet.com
-ctcdns.com
 ctcefive.com
 ctcnpa.com
 ctcontents.com
@@ -9987,7 +9986,6 @@ dimnhsinmkdwq.cloudfront.net
 dinclinx.com
 dingchin.com.tw
 dingding2014.com
-dingge.cc
 dingip.com
 dingon.com.cn
 dingsheng.com
@@ -21031,7 +21029,6 @@ nvshuyun.com
 nvtbspcwhb.com
 nvwojk.com
 nw175.com
-nw5.jkjjkj.top
 nw808.com
 nwbbs.com
 nwct.me
