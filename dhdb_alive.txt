@@ -9850,7 +9850,6 @@
 9chun.com
 9clive.com
 9content.com
-9cow.cn
 9cp.cn
 9cp1.com
 9cp2p.com
@@ -12336,7 +12335,6 @@ adsys.sinovision.net
 adsyst.biz
 adsystem.wasu.tv
 adszs.com
-adszui.com
 adt.xdrig.com
 adt100.com
 adtag.cc
@@ -26319,7 +26317,6 @@ cherrysave.com
 cherrytips.com
 chersc.com
 chersoat.com
-cherytso.com
 cheshi-img.com
 cheshi.com
 cheshirex.com
