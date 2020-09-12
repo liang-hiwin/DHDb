@@ -56,7 +56,6 @@
 006.0x1f4b0.com
 0061.com.au
 006163.com
-00625.cc
 0065js.com
 006a039c957c142bb.com
 007.0x1f4b0.com
@@ -2795,7 +2794,6 @@
 2002000.xyz
 200218.com
 2003dns.com
-2004seo.cn
 2005net.net
 20063365.com
 2006q.com
@@ -5736,7 +5734,6 @@
 51wzg.com
 51wzxz.com
 51xapp.com
-51xbl.com
 51xbx.com
 51xcname.com
 51xcrc.com
