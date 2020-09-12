@@ -3834,6 +3834,7 @@ affportal-lb.bevomedia.com
 afftb388.com
 afjam.tom
 aflrm.com
+afminer.com
 afoux.com
 afp.chinanews.com
 afp.com
@@ -14090,6 +14091,7 @@ hermesguanwang.com
 herokucdn.com
 herokussl.com
 herordearhem.info
+herphemiste.com
 hertzhu.com
 heshebei.com
 hetaocdn.com
@@ -24229,6 +24231,7 @@ sdlc6.com
 sdlldj.com
 sdlzlib.com
 sdlzmm.cn
+sdn.gongkao.hn.cn
 sdn.scset.com.cn
 sdnfv.org
 sdnxs.com
