@@ -11685,7 +11685,6 @@ admarvel.s3.amazonaws.com
 admarvel.top
 admaster.com
 admaster.com.cn
-admaster.net
 admatrix.jp
 admaxim.com
 admaya.in
@@ -13632,7 +13631,6 @@ ajuhd.com
 ajwang.com
 ajweishequ.com
 ajxlx.com
-ajzby.com
 ak.imgaft.com
 ak.sascdn.com
 ak.staticimgfarm.com
@@ -20192,7 +20190,6 @@ billionconnect.com
 billionfocus.com
 billionpops.com
 billionseo.com
-billionss.com
 billmelater.com
 billmelater.info
 billmelater.net
@@ -25238,7 +25235,6 @@ cdn.trafficforce.com
 cdn.tranquilli.org
 cdn.turn.com
 cdn.u9377w.com
-cdn.ub8.com
 cdn.ub8go.com
 cdn.vdopia.com
 cdn.viglink.com
