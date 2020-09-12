@@ -1029,6 +1029,7 @@
 1.ufc123.com
 1.up.qingdaonews.com
 1.v-x.com.cn
+1.vsimg.com
 1.wenzhangba.cn
 1.win7sky.com
 1.www.s81c.com
@@ -4481,6 +4482,7 @@
 39xh.com
 39yst.com
 3a5a.com
+3ac901bf5793b0fccff.com
 3agw.com
 3amall.cn
 3amgj.com
@@ -8412,6 +8414,7 @@
 85.flnet.org
 8505038.com
 8505040.com
+850a54dbd2398a2.com
 8518.com
 851889.tk
 8521.org
@@ -29902,6 +29905,7 @@ content-cooperation.com
 content.ad
 content.adriver.ru
 content.livesportmedia.eu
+content.liveuniverse.com
 content.nike.com
 content.s8bbs.com
 content.secondspace.com
@@ -32364,6 +32368,7 @@ da3uf5ucdz00u.cloudfront.net
 da5202.com
 da550.com
 da60995df247712.com
+da6fda11b2b0ba.com
 daa.shuzilm.cn
 daanbar.com
 daba.com
@@ -115706,6 +115711,7 @@ xn--7hv285el2dtof.com
 xn--7hv594h.com
 xn--8tw.com
 xn--90wwvt03e.com
+xn--9kq745jwng.work
 xn--9kr7l.com
 xn--9trs65b.com
 xn--b5typv4ibsa.hk
