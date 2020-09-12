@@ -299,7 +299,6 @@
 1.qtmojo.cn
 1.qtmojo.com
 1.track.ga
-1.vsimg.com
 1.wosoni.com
 1.wps.cn
 1.xiaopin5.com
@@ -1434,7 +1433,6 @@
 3a4b5c.com
 3a8c9b0ca405b5.com
 3abcc69ab8c.com
-3ac901bf5793b0fccff.com
 3alian.net
 3b2o.com
 3bu.com
@@ -2640,7 +2638,6 @@
 85.ddns.ms
 85.slyip.com
 85058s.com
-850a54dbd2398a2.com
 853126.com
 854.serveftp.com
 85655095.com
@@ -2800,7 +2797,6 @@
 915art.com
 917.microcycas.com
 917k.la
-917rcw.com
 91860.com
 9188.com
 918jx.com
@@ -8335,7 +8331,6 @@ connect.summit.co.uk
 contadordevisitas.es
 content-recommendation.net
 content-square.net
-content.liveuniverse.com
 content.wuala.com
 contentsquare.net
 contexual.media.net
@@ -9406,7 +9401,6 @@ da-fan-shu.com
 da-quan.net
 da.hunantv.com
 da.virginmedia.com
-da6fda11b2b0ba.com
 da88.net
 daai99.com
 daamjzrlon.com
@@ -9439,7 +9433,6 @@ dagongnet.com
 dahanghaiol.com
 dahangzhou.com
 daheapp.com
-dahengit.com
 dahuitu.net
 daibi.com
 daichuqu.com
