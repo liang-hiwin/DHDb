@@ -1567,7 +1567,6 @@
 123456.la
 123456789.tv
 123456789se.com
-1234567g.com
 12345good.com
 12345good.net
 12345proxy.com
@@ -9466,7 +9465,6 @@
 9685777.app
 9685f.com
 9685y.com
-9688333.com
 968pk.com
 969009.com
 9696e.com
@@ -18613,7 +18611,6 @@ bbs.imoutolove.me
 bbs.junglobal.net
 bbs.kanshifang.com
 bbs.kimy.com.tw
-bbs.lxty8.com
 bbs.mf8.com.cn
 bbs.mikocon.com
 bbs.morbell.com
@@ -25371,7 +25368,6 @@ cdshangceng.com
 cdshijue.com
 cdshusen.cn
 cdsiannet.com
-cdsjjy.com
 cdslsxh.com
 cdsme.com
 cdsns.com
