@@ -1108,7 +1108,6 @@
 100ask.net
 100ask.org
 100audio.com
-100ayrc.com
 100b.cc
 100beatscheap.com
 100ben.net
@@ -1723,7 +1722,6 @@
 12kanshu.com
 12ky.com
 12l22.net
-12lou.org
 12mnkys.com
 12pk.com
 12place.com
