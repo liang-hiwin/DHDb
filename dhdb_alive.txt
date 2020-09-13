@@ -33262,6 +33262,7 @@ dc9966.com
 dcad.watersoul.com
 dcads.sina.com.cn
 dcaij.com
+dcapi.365kqzs.cn
 dcapps.disney.go.com
 dcard.tw
 dcba.popcash.net
@@ -85832,6 +85833,7 @@ rvkqt.com
 rvmcu.com
 rvnc72k.com
 rvnpytnhxppkzv.com
+rvqnahkwdhird.com
 rvswxrjkmjou.com
 rvv.emol.com
 rwfqhbwkxpewc.com
@@ -89886,6 +89888,7 @@ silverlight.dlservice.microsoft.com
 silverlighter.net
 silverpop.com
 silverpush.co
+silwm.com
 sim-solar.ro
 sim.djicdn.com
 simaba.m.taobao.com
@@ -92104,6 +92107,7 @@ ss.phncdn.com
 ss.pythonic.life
 ss.swagger1.com
 ss.symav.cn
+ss.sysad.cn
 ss.ting55.com
 ss.wuw.red
 ss.zhen-chen.xyz
@@ -105810,6 +105814,7 @@ werbe-sponsor.de
 werewolf.mobi
 werewolf.online
 werpig.com
+wervp.com
 wes.df.telemetry.microsoft.com
 wesai.com
 wesane.com
