@@ -3027,6 +3027,7 @@
 998ps.net
 999.2shoushi.com
 999.321833.com
+999.3333jz.com
 999.5555jz.com
 999.897jc.com
 999.abccp9.com
@@ -3156,6 +3157,7 @@ a.collective-media.net
 a.company-target.com
 a.d100.net
 a.domob.cn
+a.dounanhuahui.com
 a.e7009.com
 a.fhxcy.com
 a.fwsir.com
@@ -6016,6 +6018,7 @@ bjyikao.org
 bjzcha.com
 bjznnt.com
 bjzqyd.com
+bjzylh.com
 bjzyrxgs.com
 bjzzlx.com
 bkbok.com
@@ -8179,6 +8182,7 @@ cnnerv.com
 cnnlabs.com
 cnns.net
 cnossxqkdoupxw.com
+cnpelco.com
 cnpharm.com
 cnplugins.com
 cnpowdertech.com
