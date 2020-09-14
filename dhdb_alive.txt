@@ -1119,7 +1119,6 @@
 100dangong.com
 100data.com
 100dnrc.com
-100dyrc.com
 100e.com
 100ehui.com
 100eshu.com
@@ -15071,7 +15070,6 @@ antutu.com
 antutu.net
 antvoice.com
 antzk.com
-anura.io
 anw.red
 anw8.com
 anweishi.com
