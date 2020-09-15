@@ -644,6 +644,7 @@
 168zwm.com
 169.com
 169bj.cn
+169gold.com
 169gold.net
 169t.com
 16fenqi.com
@@ -824,6 +825,7 @@
 1kj.tv
 1kmb.cn
 1ky.biz
+1l1.cc
 1look.tv
 1m3d.com
 1mall.com
@@ -4080,6 +4082,7 @@ ajs17.com
 ajszcymkv.com
 ajtalk.com
 ajtctiiiaz.com
+ajuhd.com
 ajyg.com
 ak.cdn-jquery.host
 ak1.net
@@ -6054,6 +6057,7 @@ blockbreaker.io
 blockchain.jsecoin.com
 blockchained.party
 blockcn.com
+blockob.com
 blockplus.xyz
 blog-o-rama.de
 blog.beeppool.org
@@ -7050,6 +7054,7 @@ cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.cpsoft86.com
 cdn.danmu.56.com
+cdn.dragonstatic.com
 cdn.jiuzhilan.com
 cdn.jllstudio.com
 cdn.jquery-uim.do
