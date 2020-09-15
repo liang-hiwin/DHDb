@@ -13641,6 +13641,7 @@ ak47.cooguo.com
 ak633.com
 aka-cdn-ns.adtechus.com
 aka-cdn.adtechus.com
+aka.ms
 akademiye.org
 akaedu.org
 akahoshitakuya.com
@@ -15747,6 +15748,7 @@ appcast.io
 appccc.com
 appcdn.wapx.cn
 appcdn.wapx.com
+appcenter.ms
 appcgn.com
 appchannel.html5.qq.com
 appchina.com
@@ -16269,6 +16271,7 @@ arfeservation.info
 arfttojxv.com
 argos.citruserve.com
 arhacqxm.com
+aria.ms
 aria2.org
 ariane.abtasty.com
 arianelab.com
@@ -25774,6 +25777,7 @@ ch3s.com
 ch5.cc
 ch510.com
 ch615.wx.11h5.com
+ch9.ms
 ch933.com
 ch999.com
 ch999img.com
@@ -34354,6 +34358,7 @@ dichan.com
 dichanlao.com
 dicionar.io
 dictall.com
+dictate.ms
 dictatorwatch.org
 dicthub.com
 dictionary.goo.ne.jp
@@ -52652,6 +52657,7 @@ humblebundle.com
 humengdao.com
 humengyun.com
 humensec.com
+hummingbird.ms
 humparsi.com
 humsoolt.net
 humtaid.com
@@ -60168,6 +60174,7 @@ jwplayer.space
 jwpltx.com
 jwpsrv.com
 jwshy.com
+jwt.ms
 jwvwak1a.com
 jwwey.com
 jwx365.com
@@ -90654,6 +90661,7 @@ sm-epsilon.com
 sm-miracle.com
 sm.domob.cn
 sm.domobcdn.com
+sm.ms
 sm.pcmag.com
 sm.slyip.net
 sm.sppoc.com
@@ -92444,6 +92452,7 @@ stadia.dev
 stadig.ifeng.com
 stadig0.ifeng.com
 stadsvc.com
+staffhub.ms
 stage.18luck.tech
 stage.3gmimo.com
 stage.beeppool.org
@@ -94746,6 +94755,7 @@ szsfxs.com
 szshouzhai.com
 szsing.com
 szsjtjj.com
+szskwn88.com
 szsky.com
 szsn.pro
 szsolar.org
@@ -95969,6 +95979,7 @@ techenergize.com
 techgastronomy.com
 techgogogo.com
 techhome-js.github.io
+techhub.ms
 techieliang.com
 techkedu.com
 techkey.com.cn
@@ -103128,6 +103139,7 @@ visa.com.kn
 visa.com.kz
 visa.com.lc
 visa.com.lk
+visa.com.ms
 visa.com.mx
 visa.com.my
 visa.com.ng
@@ -104935,6 +104947,7 @@ wbangdan.com
 wbapp.mobile.sina.cn
 wbapp.uve.weibo.com
 wbclick.mobile.sina.cn
+wbd.ms
 wbdacdn.com
 wbdcrmn.cn
 wbdds.allocine.fr
