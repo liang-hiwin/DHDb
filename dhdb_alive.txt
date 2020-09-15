@@ -1130,7 +1130,6 @@
 100font.com
 100ftv.com
 100gcrc.com
-100gxrc.com
 100gyx.com
 100hcrc.com
 100hdy.com
@@ -3344,7 +3343,6 @@
 265.com
 265660.com
 265g.com
-265tv.com
 265vip.com
 266.etowns.org
 266555c.com
@@ -7233,7 +7231,6 @@
 66xue.com
 66you.com
 66ys.org
-66ys.tv
 66zhang.com
 66zhizu.com
 66zhuang.com
@@ -10353,7 +10350,6 @@ aa1.pub.funshion.com
 aa1801.webnode.tw
 aa1802.com
 aa1884.com
-aa2211.com
 aa228.net
 aa24h.com
 aa43z7.com
