@@ -102,7 +102,6 @@
 009.com
 00934.com
 009858.com
-00990168.com
 00991901.com
 0099524.com
 00997708.com
@@ -10344,7 +10343,6 @@ aa.jiankang.com
 aa.ninze.com
 aa.scw0.com
 aa.sdo.com
-aa.shgansheng.cn
 aa.slyip.net
 aa.voice2page.com
 aa.zldh123.com
@@ -17265,7 +17263,6 @@ aweprotostatic.com
 aweprt.com
 awept.com
 awesome-bruce.me
-awesome-harmonyos.com
 awesomelytics.com
 awestatic.com
 awetv.com
@@ -18378,7 +18375,6 @@ baozy.com
 baping.com
 bapkt.com
 bapres.cn
-baptisttop1000.com
 baqima.com
 baqiu.com
 baquge.cc
@@ -21860,7 +21856,6 @@ bnzxc.xyz
 bo-videos.s3.amazonaws.com
 bo-yi.com
 bo.adcash.com
-bo123g.com
 bo56.com
 bo92.ga
 bo92.ml
