@@ -7035,7 +7035,6 @@
 63hh.net
 63i.com
 63ii.net
-63jj.net
 63kc.com
 63kk.net
 63oo.net
@@ -24761,7 +24760,6 @@ ccen.net
 ccenter.cl
 ccepc.com
 cces2006.org
-ccesedu.com
 ccexperimentsstatic.oracleoutsourcing.com
 ccfei.com
 ccflow.org
