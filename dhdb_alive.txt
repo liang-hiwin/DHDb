@@ -7700,6 +7700,7 @@
 7631.com
 764100.com
 7651d44da06c.com
+7652.com
 7654.com
 7659.com
 765i.com
@@ -11340,6 +11341,7 @@ adccoo.cn
 adcde.com
 adcdn.goo.ne.jp
 adcdn.hpplay.cn
+adcdn.tencentmusic.com
 adcdnx.com
 adcdownload.apple.com
 adcdownload.apple.com.akadns.net
@@ -11443,6 +11445,7 @@ adexchangeguru.com
 adexchangemachine.com
 adexchangeprediction.com
 adexchangetracker.com
+adexpo.tencentmusic.com
 adexprt.com
 adexprts.com
 adextra.51wnl-cq.com
@@ -12515,6 +12518,7 @@ advertnative.com
 advertnetworks.com
 advertom.com
 advertone.ru
+advertpay-vip-ssl.xunlei.com
 advertpay.net
 advertpay.vip.xunlei.com
 advertrtb.com
@@ -15179,6 +15183,7 @@ aoch.com
 aochunsy.com
 aoclanguedoc.com
 aocular.com
+aod-image.baidu.com
 aodabo.tech
 aodaliyaqianzheng.com
 aoddoll.com
@@ -15331,6 +15336,7 @@ api-flow.meizu.com
 api-login.kkbox.com.tw
 api-lp1.znc.srv.nintendo.net
 api-luckycoinsdk.doglobal.net
+api-mcp.adsp.xunlei.com
 api-push.meizu.com
 api-secure.recaptcha.net
 api-secure.solvemedia.com
@@ -15409,6 +15415,7 @@ api.danmu.tv.sohu.com
 api.dating.com
 api.developer.xiaomi.com
 api.dewmobile.net
+api.df.mob.com
 api.dianru.com
 api.dmc.nico
 api.domob.cn
@@ -17457,6 +17464,7 @@ azz.net
 b-chem.com
 b-eurochina.com
 b-fairy.com
+b-gi.getui.com
 b-m.xyz
 b-ok.as
 b-ok.asia
@@ -17858,6 +17866,7 @@ baidubaidubaidu.net
 baidubce.com
 baiduc.com
 baiduccdn1.com
+baiducdncmn-gd.inter.iqiyi.com
 baiducdncmn.inter.iqiyi.com
 baiducom.bj.bcebos.com
 baiducontent.com
@@ -18849,6 +18858,7 @@ bdasd.wmxa.cn
 bdash-cloud.com
 bdatu.com
 bdc-rays.com
+bdcdncmn-gd.inter.71edge.com
 bdcm.kandianla.com
 bdcode.2345.com
 bdcode.qinglm.com
@@ -23493,6 +23503,7 @@ c.jinliaoyang.com
 c.jjkk.org
 c.k429fma.com
 c.kbf365.cn
+c.kuaiduizuoye.com
 c.kuwo.cn
 c.l.qq.com
 c.l0yjow.cn
@@ -29839,6 +29850,7 @@ conf.xiniuz.com
 confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
 config-ltvp.inmobi.com
+config-vvs.glomex.com
 config.adview.cn
 config.baofeng.net
 config.cocounion.com
@@ -38113,6 +38125,7 @@ edsionte.com
 edson.net.br
 edspay.com
 edspicuousind.site
+edspoiletkni.club
 edsufferen.club
 edsurrowin.club
 edt02.net
@@ -39542,6 +39555,7 @@ essaycoupons.com
 essaystar.com
 essca.com
 essdc.com
+essdistryord.club
 esshortleda.info
 ession.com
 essionprobl.space
@@ -46445,6 +46459,7 @@ goldlvshi.com
 goldmail.etsu.edu
 goldmantis.com
 goldnikeclub.com
+goldoffer.online
 goldporntube.com
 golds.lp.mydas.mobi
 goldspot.us
@@ -53573,6 +53588,7 @@ iasrv.com
 iaudienc.com
 iav19.com
 iav99.com
+iavfta8090.com
 iaviva.com
 iavnight.com
 iaxure.com
@@ -54607,6 +54623,7 @@ ilanluo.com
 ilanni.com
 ilaw66.com
 ilazycat.com
+ilce.alicdn.com
 ileehoo.com
 ilego.club
 ilemonrain.com
@@ -61281,6 +61298,7 @@ kexuezixunzzs.com
 key-4ever.com
 keyade.com
 keyboardancer.com
+keybut.com
 keycdn.com
 keycom-ip.com
 keydatas.com
@@ -64249,6 +64267,7 @@ license.uat.widevine.com
 license2.bluesoleil.com
 licensebuttons.net
 licensing.bitmovin.com
+licentchamom.club
 licestopogeegre.info
 lichangtai.com
 lichangtao.com
@@ -66902,6 +66921,7 @@ m.csypspcs.cn
 m.cudaojia.com
 m.d6s2pn5t.cn
 m.d8qu.com
+m.da.mgtv.com
 m.dailiq.cn
 m.dante2007.com
 m.data.mob.com
@@ -68580,6 +68600,7 @@ mazey.net
 mazhuang.org
 mazida.com
 mazu.3g.qq.com
+mazu.m.qq.com
 mb-srv.com
 mb.hockeybuzz.com
 mb.marathonbet.com
@@ -70390,6 +70411,7 @@ minneapolisbmw.net
 minniansoft.com
 minologyhesia.site
 minor-tech.com
+minorshort.weixin.qq.com
 minquan8.com
 minr.nullrefexcep.com
 minr.pw
@@ -72040,6 +72062,7 @@ mtrfoods.com
 mts-ws.rueducommerce.fr
 mts.mansion.com
 mts.tvbit.co
+mtt.eve.mdt.qq.com
 mtt.org
 mtty.com
 mtv0.com
@@ -81530,6 +81553,7 @@ push.m.youku.com
 push.maribacaberita.com
 push.mobile.kugou.com
 push.neko-san.fr
+push.pgl.qq.com
 push.qq.com
 push.res.meizu.com
 push.rollout.io
@@ -86350,6 +86374,7 @@ s1.ei16h.cn
 s1.godli.cn
 s1.hiapk.com
 s1.hualaoye.com
+s1.irs03.com
 s1.kuaibaopay.com
 s1.leshi123.cc
 s1.longs1.vip
@@ -96512,6 +96537,7 @@ test-explorer.beeppool.org
 test-ipv6.com
 test-wiki-01.site88.net
 test.ad.xiaomi.com
+test.adsp.xunlei.com
 test.api.xlmc.sandai.net
 test.ark.letv.com
 test.cloudfunctions.net
@@ -104244,6 +104270,7 @@ vrsmash.com
 vrstage.com
 vrtzads.com
 vry9.destinia.com
+vs.biz.weibo.com
 vs.com
 vs.funshion.com
 vs.target.com
@@ -105123,6 +105150,7 @@ watanabe-mayu.com
 wataru.moe
 watch-ebay.org
 watch-life.net
+watch.advertising.speed.cdn.vip.xunlei.com
 watch8x.com
 watchbabeshows.com
 watchdisneyfe.com
