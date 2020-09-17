@@ -3100,7 +3100,6 @@
 9ihs.com
 9imobi.com
 9inx.com
-9iyes.com
 9k9ms.com
 9le8.com
 9liuda.com
@@ -4671,7 +4670,6 @@ app.xixiashengdian.com
 app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
-app2.tk
 app253.com
 app2xp.com
 app3.tk
@@ -5740,7 +5738,6 @@ bfezsiok.com
 bffzb.com
 bfimg.com
 bfjwdxeakfifak.com
-bfqh.com
 bfr.chinaweian.com
 bfsu-artery.net
 bfttiao.com
@@ -8657,7 +8654,6 @@ csgocpu.com
 csgtfruit.com
 csharpkit.com
 cshkgktv.com
-cshlgg.com
 cshtjn.com
 cshu360.com
 cshwhy.cn
@@ -17338,7 +17334,6 @@ kj1d.com
 kjcad.net
 kjcdn.com
 kjcity.com
-kjdw.com.cn
 kjegyqtqazui.com
 kjfhe.com
 kjfoqi.cn
@@ -18043,7 +18038,6 @@ lfhgumhsrjjgrt.com
 lfidc.net
 lflucky.com
 lfmsj.com
-lfmwrbcfbji.com
 lfoo.cc
 lfork.com
 lfouz.com
@@ -20326,7 +20320,6 @@ my.gz2010.cn
 my.now-ip.net
 my.shadowsocksr.vip
 my0513.com
-my0792.com
 my188home.com
 my51a.com
 myadestinos.com.ve
@@ -23832,7 +23825,6 @@ s.mini.kuaibo.com
 s.mobclix.com
 s.mt145.com
 s.mxmrt.com
-s.ndtzx.com
 s.np176.com
 s.nxrxt.com
 s.okmgy.cn
@@ -26760,7 +26752,6 @@ ts168.net
 ts2a1s.com
 ts95.com
 tsaqimvbfiv.com
-tsastrmq.com
 tsbluebox.com
 tscmjt.com
 tsdlp.com
@@ -27284,7 +27275,6 @@ uirbd.com
 uislkdxx.com
 uisnetwork.com
 uiste.com
-uizhcjow.com
 ujesnwjqowcru.com
 ujifu.com
 ujikdd041o.cn
@@ -28283,7 +28273,6 @@ wallornot.org
 wallpapercasa.com
 wallstcn.com
 wallstrads.com
-wallstreetcn.com
 walmart-content.com
 walmartimages.com
 walprater.com
