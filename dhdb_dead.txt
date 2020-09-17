@@ -4668,6 +4668,7 @@ app.xixiashengdian.com
 app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
+app2.tk
 app253.com
 app2xp.com
 app3.tk
