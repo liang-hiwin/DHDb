@@ -2748,6 +2748,7 @@
 8cname.com
 8da.com
 8dn.com
+8dou.com
 8du.in
 8fiv9a.cn
 8hdp.cn
@@ -3369,6 +3370,7 @@ ablen01.tk
 ablen02.tk
 ablen03.tk
 ablen04.tk
+ablen06.tk
 ablen07.tk
 ablen09.tk
 ablen10.tk
@@ -4165,6 +4167,7 @@ alai.net
 alanhou.com
 alapsblu.com
 alatibk.com
+aldobutano.com
 alealebag.site
 aleapeact.club
 alemoney.xyz
@@ -7507,6 +7510,7 @@ china-stvc.org
 china-tattoos.com
 china-up.com
 china-vision.org
+china-vpay.com
 china-wanlin.com
 china-ws.org
 china-zibo.com
