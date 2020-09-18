@@ -15599,7 +15599,6 @@ api.youtu.qq.com
 api.youxiaoad.com
 api.youzu.com
 api.yuedu.iqiyi.com
-api.zdqp11.com
 api.zol.com
 api0.dating.com
 api0.tuisong.baidu.com
@@ -16047,7 +16046,6 @@ applepaysupplies.com
 applepaysupplies.info
 applepaysupplies.net
 applepencil.net
-applepig.idv.tw
 applepodcasts.com
 applequan.com
 applereach.com
@@ -18202,7 +18200,6 @@ bandisoft.com
 bandoristation.com
 bandpage.com
 bandwagonhost.com
-bandwidth.tw
 banerator.net
 banesnorttat.cam
 banfubbs.com
@@ -23480,7 +23477,6 @@ bzdtph.icu
 bzdww.com
 bzfwq.com
 bzfxw.com
-bzgame.cc
 bzgd.com
 bzgxqj.com
 bzjw.com
@@ -23691,7 +23687,6 @@ c1.xcy8.com
 c10.statcounter.com
 c1008.com
 c100tibet.org
-c1042.com
 c10ed2b8b417880.com
 c11.statcounter.com
 c114.net
@@ -28175,7 +28170,6 @@ clickaider.com
 clickaine.com
 clickalyzer.com
 clickansave.net
-clickathere.com
 clickbet88.com
 clickbigo.com
 clickbooth.com
@@ -29448,7 +29442,6 @@ cochina.co
 cochina.org
 cocimg.com
 cocoa.zonble.net
-cocoachina.com
 cocoafortunately.com
 cocoapods.org
 cocoawu.b0.upaiyun.com
