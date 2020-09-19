@@ -3245,7 +3245,6 @@
 24beta.com
 24businessnews.com
 24counter.com
-24ftx.cn
 24haitao.net
 24haowan.com
 24hmb.com
@@ -27514,7 +27513,6 @@ chuangyepu.com
 chuangyezhu.com
 chuangyijisu.com
 chuangyixi.com
-chuangyouqi.com
 chuangzaoshi.com
 chuanjunpr.com
 chuanke.com
