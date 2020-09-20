@@ -6161,7 +6161,6 @@ bmw-int1.com
 bmw.com.ge
 bmwarchiv.at
 bmwzdfrra.com
-bn65.com
 bnbsky.com
 bnbstatic.com
 bnbtrip.com
@@ -8342,7 +8341,6 @@ coincola.net
 coiner.site
 coinhive.com
 coinhive.net
-coinhiver.com
 coinio.cc
 coinpirate.cf
 coinrail.io
@@ -10536,7 +10534,6 @@ drm.beeppool.org
 drmcmm.baidu.cn
 drmhmhi.tokyo
 drmingxia.org
-dropbooks.tv
 dropbox-dns.com
 dropboxapi.com
 dropboxusercontent.com
@@ -12608,7 +12605,6 @@ fxwst.com
 fxxww.net
 fy-ns.com
 fy533.com
-fy59.com
 fyaxvmnnfk.com
 fydns360.net
 fyehare.com
