@@ -4637,7 +4637,6 @@ api.mobads4app.com
 api.monero.hashvault.pro
 api.netflare.info
 api.ppoi.org
-api.proxlet.com
 api.push.daoyoudao.com
 api.pzoifaum.info
 api.qjyzj.cn
@@ -5297,7 +5296,6 @@ baidu.tlssyg.com
 baidu1.com
 baidu360haosou.info
 baidu9635.com
-baiduace.com
 baidubaichuan.com
 baiducdn.9wlm.com
 baiducdn.net
@@ -21839,7 +21837,6 @@ pengxun1.com
 pengyaou.com
 pengyoufx.com
 pengyoujia.me
-pennzxycrdmw.com
 penpower.tech
 pentaxaws.cn
 peonyta.com
@@ -28530,7 +28527,6 @@ weilongshipin.com
 weimeicar.cn
 weimeihuo.com
 weimeitu.cc
-weimeiyuju.com
 weinixiong.cf
 weinovel.cc
 weipinchu.com
