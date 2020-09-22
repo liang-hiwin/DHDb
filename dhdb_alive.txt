@@ -3685,6 +3685,7 @@
 3001.net
 300113.com
 300400.net
+300avi.com
 300avs.com
 300hu.com
 300p.com
@@ -18084,6 +18085,7 @@ baisu.com
 baisuijk.com
 baitaiad.com
 baitaihuge.com
+baitaoblog.com
 baitaoidc.com
 baiteng.org
 baitianinfo.com
@@ -32998,6 +33000,7 @@ dao123.com
 dao345.com
 dao42.com
 dao50.com
+dao6.net
 daoapp.io
 daoapp.me
 daoc.net
