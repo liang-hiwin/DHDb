@@ -3321,7 +3321,6 @@
 25djd.com
 25game.com
 25mao.com
-25nc.com
 25pyg.com
 25u.com
 25wy.com
@@ -12632,7 +12631,6 @@ adx.com.ru
 adx.dlads.cn
 adx.g.doubleclick.net
 adx.hupu.com
-adx.kat.ph
 adx.maplehaze.cn
 adx.ms
 adx.pro.cn
@@ -22682,7 +22680,6 @@ bsh-tech.com
 bsh.me
 bshaishu.com
 bshare.cn
-bshare.optimix.asia
 bsida.com
 bsidu.com
 bsieidu.com
@@ -30380,7 +30377,6 @@ cosplayla.com
 cosplaymore.com
 cosplayzone.net
 cost1action.com
-costaaguacates.com.ar
 costco.com
 costcoauto.com
 costcobusinessdelivery.com
