@@ -3672,10 +3672,12 @@ adobe-dns-3.adobe.com
 adobeaemcloud.net
 adobecc.com
 adobeccstatic.com
+adobecontent.io
 adobedc.net
 adobedtm.com
 adobejanus.com
 adobeku.com
+adobelanding.com
 adobeoobe.com
 adobesc.com
 adobesigncdn.com
@@ -23041,6 +23043,7 @@ qttbfdygj.com
 qtupscp.tw
 qtyd.com
 quadasdata.cn
+qualcomm-email.com
 qualisports.cc
 qualitypageviews.com
 quan007.com

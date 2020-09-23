@@ -2460,6 +2460,7 @@
 18jack.com
 18kf.net
 18ladys.com
+18link.com
 18lipin.com
 18mad.com
 18moe.com
@@ -13456,6 +13457,7 @@ aircrack-ng.org
 airdauks.net
 airen1314.com
 airforceworld.com
+airgonetworks.com
 airguilin.com
 airmate-china.com
 airmax360.com
@@ -17813,6 +17815,7 @@ babyqiming.com
 babytree.com
 babywear.biz
 babywear.win
+babyzone.com
 bacaoo.com
 bachelorsgrove.net
 bachelorsgrove.org
@@ -19705,6 +19708,7 @@ berg-6-82.com
 bergherz.ch
 beric.me
 beringmedia.com
+berkanawireless.com
 berkeley.edu
 berlinerbericht.de
 berlinix.com
@@ -19887,7 +19891,10 @@ betarget.de
 betawm.com
 betfair.com
 betflag.it
+beth.games
 bethesda.net
+bethesdagamestudios.com
+bethsoft.com
 betimbur.com
 betoga.com
 betop-cn.com
@@ -22520,6 +22527,7 @@ breeze.olclient.baofeng.com
 breitbart.com
 brentwoodlive-gb.brentwoodlive.co.uk
 brew.sh
+brewmp.com
 brewster.kahle.org
 brfiles.com
 brhthg.com
@@ -29215,6 +29223,7 @@ cnpaf.net
 cnpatent.com
 cnpc-hy.com
 cnpc.infzm.com
+cnpelco.com
 cnpenjing.com
 cnpet.cc
 cnpghouse.com
@@ -29924,6 +29933,7 @@ composedwatchman.com
 composingprograms.com
 composivel.pro
 compress.to
+compresspdf.new
 comproliverton.pro
 comprotusjuguetes.com
 compteur-fr.com
@@ -34942,8 +34952,12 @@ disney-asia.com
 disney-discount.com
 disney-studio.com
 disney-studio.net
+disney.be
 disney.com
+disney.id
 disney.io
+disney.it
+disney.pt
 disneyadsales.com
 disneyarena.com
 disneyaulani.com
@@ -34959,6 +34973,8 @@ disneyinflight.com
 disneyjunior.com
 disneyjuniortreataday.com
 disneylatino.com
+disneymagicmoments.it
+disneyme.com
 disneymeetingsandevents.com
 disneymovieinsiders.com
 disneymusicpromotion.com
@@ -36262,6 +36278,7 @@ dragoncg.com
 dragonchinashoes.com
 dragonest.com
 dragonex.io
+dragoniscoming.com
 dragonnest.eu
 dragonparking.com
 dragonsea-china.com
@@ -46583,6 +46600,7 @@ gobeatsye.com
 gobelike.net
 gobet.cc
 gobhasyum.com
+gobianywhere.com
 goblin.hupu.com
 gobmodfoe.com
 gobovoul.net
@@ -50182,6 +50200,7 @@ helloradio.org
 helloreverb.com
 hellorf.com
 hellosherpa.com
+hellosmartbook.com
 hellotalk8.com
 hellotxt.com
 hellouk.org
@@ -55436,6 +55455,7 @@ imo.im
 imobile-ent.com
 imobon.com
 imochy.com
+imod.com
 imoduo.com
 imoe.me
 imoeer.com
@@ -56530,6 +56550,7 @@ ipktv.com
 iplaymtg.com
 iplaypython.com
 iplaysoft.com
+ipleadership.org
 iplexvpn.com
 iplist.cc
 iplocationtools.com
@@ -56864,6 +56885,7 @@ iskconmauritius.com
 iskconnj.com
 iskconofnewjersey.org
 iskkrmwivxfmdjwxme.bid
+iskoot.com
 iskryou.com
 isky000.com
 iskylinem.com
@@ -62811,6 +62833,7 @@ kujiale.com
 kujiang.com
 kujingling.com
 kuk8.com
+kukahome.com
 kuke.com
 kuke99.com
 kukecloud.com
@@ -63962,6 +63985,7 @@ ledi.us
 ledianduo.com
 lediaocha.com
 lediyxobgmrgeb.com
+ledlightingfactory.com
 ledo.com
 ledongzone.com
 ledou.dl.uu.cc
@@ -69440,6 +69464,7 @@ meetrics.com
 meetrics.net
 meetsexygirls.org
 meetsite.com
+meetsmartbook.com
 meetup.com
 meetyourdevices.com
 meetzoom.net
@@ -78553,6 +78578,7 @@ patchallin.com
 patecrafts.com
 patent-cn.com
 patentgold.net
+patenttruth.org
 patexplorer.com
 patgsrv.com
 path.qidian.com
@@ -78932,6 +78958,7 @@ pdf-1.infamylists.com
 pdf-lib.org
 pdf-tech.com
 pdf.la
+pdf.new
 pdf1122.com
 pdf5.net
 pdfac.com
@@ -80084,6 +80111,7 @@ pixivsketch.net
 pixnet.net
 pixolium.com
 pixon.ads-pixiv.net
+pixtronix.com
 pixxur.com
 piyingke.com
 pj00001.com
@@ -82659,6 +82687,7 @@ qcsfxv.cn
 qcsj.com
 qcstudy.com
 qcsyt.com
+qctconnect.com
 qctsw.com
 qcupup.com
 qcvf.ifeng.com
@@ -83615,6 +83644,7 @@ qpoc.com
 qpoe.com
 qpokok.com
 qporno.com
+qprize.com
 qprq.net
 qpx.com
 qpxz123.com
@@ -83920,7 +83950,15 @@ quadrupleclick.com
 quaetabib.com
 quaintcan.com
 qualaroo.com
+qualcomm.co.id
+qualcomm.com
+qualcommhalo.com
+qualcommlabs.com
+qualcommmea.com
+qualcommretail.com
+qualcommventures.com
 quality-electronics.com
+qualphone.com
 quan.mx
 quan0.com
 quanbailing.com
@@ -84062,6 +84100,7 @@ quhaidiao.com
 quhuaxue.com
 quhuichang.net
 quiboat.com
+quicinc.com
 quick-counter.net
 quick-x.com
 quickads.net
@@ -90786,6 +90825,7 @@ siglent.com
 siglff.com
 sigmachip.com
 sigmamed.net
+sign.new
 signal.art
 signal.org
 signalbar.com
@@ -91801,6 +91841,7 @@ snap.snapmobile.asia
 snapchat.com
 snapcraft.io
 snapdeal.biz
+snapdragonbooth.com
 snaps.vidiemi.com
 snapsed.club
 snapshot.beeppool.org
@@ -102461,6 +102502,7 @@ upjav.org
 upkao.com
 uplay.com
 upliftsearch.com
+uplinq.com
 uplinux.com
 upliu.net
 upload.cc
@@ -107955,6 +107997,7 @@ wionews.com
 wionews.org
 wionnews.com
 wipowaxe.com
+wipower.com
 wire.com
 wiredbytes.com
 wiredminds.de
@@ -107963,6 +108006,7 @@ wireguard.com
 wireless-driver.com
 wirelesschina-summit.com
 wirelessqa.com
+wirelessreach.com
 wiremoneytoirelandwithxoomeasierandcheaper.com
 wirenth.com
 wireshark.org
@@ -115329,6 +115373,7 @@ xbsura.com
 xbtce.com
 xbtw.com
 xbwebyun.com
+xbx.lv
 xbxgame.com
 xbxwx.org
 xbxxb.com
