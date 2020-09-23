@@ -5652,6 +5652,7 @@ beacon.heliumnetwork.com
 beacon.richrelevance.com
 beacon.www.theguardian.com
 beacons.brandads.net
+beacyoryjkbhqb.com
 bearead.com
 beargoo.com
 bearminers.xyz
@@ -8423,6 +8424,7 @@ com-youku.net
 com.fi
 com.google
 comac.cc
+combaidu.com
 comberry.cn
 combpm.com
 comdns.xyz
