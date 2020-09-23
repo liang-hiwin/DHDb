@@ -265,7 +265,6 @@
 0e8ce71cc7.com
 0emm.com
 0emn.com
-0f461325bf56c3e1b9.com
 0fmm.com
 0ju.cc
 0kee.com
@@ -4638,7 +4637,6 @@ api.ethereum.hashvault.pro
 api.g1.junfull.com
 api.g2.junfull.com
 api.gzxiongwa.cn
-api.hfyhjg.cn
 api.huo360.com
 api.intense.hashvault.pro
 api.joybj.com
@@ -5128,7 +5126,6 @@ awtks.com
 awtvnrgwxletd.com
 awu.01.psychomining.de
 awx1.com
-awyys.com
 awzdbycpiwncrp.com
 axadaldlozmqu.com
 axbxw.com
@@ -8073,7 +8070,6 @@ clscsbcj.com
 clusterdnsserver.com
 clx360.com
 clxgmlpfkoj.com
-clzfurcqmlgw.com
 cm-analysis.com
 cm-iov.com
 cm-trk3.com
@@ -12926,7 +12922,6 @@ gdzhongshan.com
 gdzypx.org
 ge.epac.to
 ge95.com
-gearfront.org
 gebilaoshi.com
 gec-sc.com
 geeboodata.com
@@ -24057,7 +24052,6 @@ sbardlhk.com
 sbet09.co
 sbet09.net
 sbf133.com
-sbf138.com
 sbf155.com
 sbf1688.vip
 sbf277.com
