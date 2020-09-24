@@ -12207,7 +12207,9 @@ adsense.com
 adsense.google.cn
 adsense.html5.qq.com
 adsensecamp.com
+adsensecustomsearchads.com
 adsensedetective.com
+adsenseformobileapps.com
 adser.io
 adserve.com
 adserve.ph
@@ -19048,6 +19050,7 @@ bds.snssdk.com
 bds.soarfi.cn
 bdsearch.2345.com
 bdsgps.com
+bdshuang.com
 bdsimg.com
 bdsmforall.com
 bdsmluntan16.com
@@ -27497,6 +27500,8 @@ chromestatus.com
 chromium.org
 chromium.woolyss.com
 chronicads.com
+chronicle.security
+chroniclesec.com
 chrs.me.uk
 chrumedia.com
 chs.so
@@ -80047,6 +80052,7 @@ pix2code.net
 pixanalytics.com
 pixandvideo.com
 pixapp.net
+pixate.com
 pixazza.com
 pixel-a.basis.net
 pixel-a.sitescout.com
@@ -101529,6 +101535,7 @@ tysurl.com
 tyswy.com
 tytx.m.cn.miaozhen.com
 tyu.quanliyouxi.cn
+tyuanuu.com
 tyunderives.info
 tyust.net
 tyuyan.com
@@ -117293,7 +117300,10 @@ xn--fiqz7g67bsydx1ed00d.com
 xn--fjqz50cv5q3so.ltd
 xn--fjqz50cv5q3so.online
 xn--flw351e.com
+xn--ggle-55da.com
 xn--glr604k.com
+xn--gogl-0nd52e.com
+xn--gogl-1nd42e.com
 xn--hb4aw0g.com
 xn--i2ru8q2qg.com
 xn--i7qt52bvsr0u0a.cc

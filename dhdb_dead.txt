@@ -12832,6 +12832,7 @@ gate-dhgames.com
 gate.huang.cool
 gate.hws.ru
 gatewang.com
+gateway.dev
 gaxycloud.ml
 gaykes.com
 gazoeft.cn
