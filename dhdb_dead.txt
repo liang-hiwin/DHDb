@@ -7296,7 +7296,6 @@ cfcdist.gdn
 cfcdn.site
 cfcn.allocine.net
 cfcnet.to
-cfd-24h.com
 cfda.pub
 cfdac.8g0ymk.cn
 cfdanet.com
@@ -8544,7 +8543,6 @@ cp.jiajv.net
 cp.walllink.cc
 cp455.com
 cp88566.com
-cp98.com
 cpacoreg.com
 cpalabtracking.com
 cpanel.monerominer.rocks
@@ -25691,7 +25689,6 @@ swissstick.com
 switchvpn.asia
 swjvfwtypu.com
 swlhome.com
-swlsbj.com
 swoole-cloud.com
 swordtt.com
 swpgjai.pop.weddingeeos.com
