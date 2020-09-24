@@ -2559,6 +2559,7 @@
 1bao.org
 1bcde.com
 1biaozhun.com
+1biqu.com
 1biquge.com
 1btbtt.com
 1btjia.com
@@ -10396,6 +10397,7 @@ aa1.pub.funshion.com
 aa1801.webnode.tw
 aa1802.com
 aa1884.com
+aa2211.com
 aa228.net
 aa24h.com
 aa43z7.com
@@ -20582,6 +20584,7 @@ bitcongress.com
 bitcoset.com
 bitdad.com
 bitdash-reporting.appspot.com
+bitdata.pro
 bite.theta.sogoucdn.com
 bite5.com
 bitecoin.com
@@ -55620,6 +55623,7 @@ imxh.com
 imxingzhe.com
 imydl.com
 imydl.tech
+imydns.net
 imyip.net
 imymobi.com
 imys.net
