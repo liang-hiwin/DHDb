@@ -9080,7 +9080,6 @@ d1c37gjwa26taa.cloudfront.net
 d1c70423zhuiv6.cloudfront.net
 d1cfkbm1sjgrub.cloudfront.net
 d1clufhfw8sswh.cloudfront.net
-d1com.com
 d1crmek4rmrq5c.cloudfront.net
 d1d8olcghscezm.cloudfront.net
 d1dqx91p2uadmw.cloudfront.net
@@ -12156,7 +12155,6 @@ fgvisa.net
 fgzba.com
 fh21static.com
 fh86.com
-fhbv.cn
 fhfg.net.cn
 fhg90.com
 fhidehpl.com
@@ -23112,7 +23110,6 @@ qunaer.com
 qunale888.com
 qunba.com
 qunliao.info
-qunxa.com
 qunyiw.com
 quoeuedtku.com
 ququyou.com
@@ -24820,7 +24817,6 @@ simg.52zbz.com
 simope.com
 simovs.com
 simpleanalyticscdn.com
-simpleapples.com
 simpleheatmaps.com
 simpletds.net
 simplexue.com
