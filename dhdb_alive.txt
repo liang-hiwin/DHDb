@@ -8896,7 +8896,6 @@
 8nc8shot.txxx.com
 8news.com.tw
 8njy.com
-8oqwl9.wang
 8pingce.com
 8po6fdwjsym3.com
 8proxy.com
@@ -25173,7 +25172,6 @@ cd009.www.duba.net
 cd010.www.duba.net
 cd011.www.duba.net
 cd012.www.duba.net
-cd22.ga
 cd37wan.com
 cd43.com
 cd490573c64f3f.com
@@ -25602,7 +25600,6 @@ cebpubservice.com
 cecb2b.com
 cecc-cx.com
 cecc.gov
-ceccen.com
 cecdc.com
 cece.com
 cece.la
