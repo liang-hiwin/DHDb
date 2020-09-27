@@ -2534,6 +2534,7 @@
 1999sg.com
 1999wan.com
 1999year.com
+199cjcy.com
 199it.com
 199u2.com
 19b45a16170729.com
@@ -28733,6 +28734,7 @@ cmzyk.com
 cn-3drp.com
 cn-api.samsungcloud.com
 cn-c114.net
+cn-diaoyu.com
 cn-eb.com
 cn-em.com
 cn-healthcare.com
@@ -77494,6 +77496,7 @@ oppopay.com
 opposhop.in
 opposhore.com
 opposix.com
+opposk.ga
 opps.taboola.com
 opqnext.com
 oproi.com
@@ -77568,6 +77571,7 @@ oracledatabase12g.com
 oraclefoundation.org
 oracleimg.com
 oradbca.com
+oraev.com
 oralpractice.com
 orange2h.com
 orangeapk.com
@@ -93274,6 +93278,7 @@ spyoff.com
 spyouxi.com
 spys.one
 spys.ru
+spyzlsxcj.com
 spzs.com
 sq.requestads.com
 sq1.chinacsky.com
@@ -95500,6 +95505,7 @@ sxkzxt.com
 sxlcdn.com
 sxldns.com
 sxlychina.com
+sxlyfood.com
 sxmaps.com
 sxmdxy.com
 sxmgd1aqrr.com
@@ -104174,6 +104180,7 @@ vidble.com
 vidcoin.com
 vidcpm.com
 vidds.net
+videaba.com
 videarn.com
 videer.net
 video-ad-stats.googlesyndication.com
