@@ -9230,6 +9230,7 @@
 927953.com
 927a8dd1afec73.com
 928.plus
+9282821monday.hqnpwzu.cn
 928383.com
 9288js.com
 92913.com
@@ -10986,6 +10987,7 @@ ad-beacon-v01.uliza.jp
 ad-beta.flipboard.com
 ad-bg.adwo.com
 ad-brix.com
+ad-cdn.qingting.fm
 ad-channel.woyeahgo.tk
 ad-clicks.com
 ad-cloud.jp
@@ -15332,6 +15334,7 @@ aozhougoufang.com
 aozsw.com
 ap-srv.net
 ap.adriver.ru
+ap.cpatrk.net
 ap.dongqiudi.com
 ap.ign.com
 ap.ksrong.com
@@ -15446,6 +15449,7 @@ api.android.dianru.com
 api.anti.wauee.com
 api.api68.com
 api.api861861.com
+api.applink.mob.com
 api.appodeal.com
 api.apps.sina.cn
 api.appsflyer.com
@@ -18968,6 +18972,7 @@ bdcode.qinglm.com
 bdcode.youke.com
 bdcode1.haodou.com
 bdcom.cl
+bdcouc.xyz
 bdd.hainan.net
 bdddy.com
 bddm.999d.com
@@ -22287,6 +22292,7 @@ boqii.com
 boqingbokeji.com
 boraid.org
 boratestfishke.info
+borazita.com
 bordeded.pro
 borderlands-books.com
 borderlessprepaid.com
@@ -25755,6 +25761,7 @@ certificate-transparency.org
 certificate.revocationcheck.com
 certificates.godaddy.com
 certified-apps.com
+certify-js.alexametrics.com
 cervecerosdf.mx
 cervetoria.pt
 ces-way.com
@@ -29443,6 +29450,7 @@ cnzz.cc
 cnzz.cn
 cnzz.com
 cnzz.mmstat.com
+cnzz.oo5548q.top
 cnzz6.com
 co-effort.com
 co-inclusion.org
@@ -36514,6 +36522,7 @@ ds123456.com
 ds599.com
 ds88pc0kw6cvc.cloudfront.net
 dsa-mfp.fengshows.cn
+dsa.iigs9.com
 dscbs.com
 dscn.info
 dsd003.com
@@ -45460,6 +45469,7 @@ gecilrc.com
 gecimi.com
 geciwang.net
 gecko-hl.snssdk.com
+gecko-lq.snssdk.com
 gecomindia.com
 gedawang.com
 gedbunyascr.club
@@ -55478,6 +55488,7 @@ imgapp.yeyou.com
 imgbabes.com
 imgbox.com
 imgc.cymzc.com
+imgcdn.caolvch.com
 imgcdn.mazaibang.com
 imgcdn.wapx.cn
 imgchili.com
@@ -63828,6 +63839,7 @@ layer-ad.org
 layer13.net
 layerloop.com
 laygunwow.com
+layouttransparent.com
 layshyjar.com
 layui-inc.com
 layui.com
@@ -63965,6 +63977,7 @@ ldnusf.com
 ldpgl.code.mytanwan.com
 ldplayer.net
 ldqxn.com
+ldrummaroise.club
 lds.zui.com
 lds52mm.com
 ldschinese.com
@@ -65971,6 +65984,7 @@ loftcn.com
 lofter.com
 loftygreater.com
 lofv.xyz
+log-api.pangolin-sdk-toutiao.com
 log-dmp.suishenyun.cn
 log-hl.snssdk.com
 log-ird.outbrain.com
@@ -69465,6 +69479,7 @@ me-gay.com
 me.afp.chinanews.com
 me.com
 me.com.x9wj2.cn
+me.cpatrk.net
 me.me
 me.xdrig.com
 me.yi71.com.cn
@@ -69669,6 +69684,7 @@ megapornotv.com
 megaproxy.com
 megast.at
 megavisites.com
+megmeallab.com
 megmobpoi.club
 megoal.org
 megomap.com
@@ -78765,6 +78781,7 @@ pasco.cc
 paservices.tech
 pashtovoa.com
 pass-1234.com
+pass.ttbc33.com
 pass1.soogif.com
 pass2.soogif.com
 pass7.cc
@@ -79991,6 +80008,7 @@ pikachu-26da5.firebaseio.com
 pikacn.com
 pikatao.com
 pilaipiwang.com
+pilgrimary.club
 pilgrimarym.club
 pilibaba.com
 pilifu.com
@@ -88609,7 +88627,9 @@ sdk.open.lbs.igexin.com
 sdk.open.phone.igexin.com
 sdk.open.talk.gepush.com
 sdk.open.talk.igexin.com
+sdk.s.360.cn
 sdk.stats-locations.com
+sdk.tf.360.cn
 sdk.zsdfm.com
 sdk2.youguoquan.com
 sdk3.cf
@@ -88632,6 +88652,7 @@ sdklogs.avocarrot.com
 sdkm.w.inmobi.cn
 sdkm.w.inmobi.com
 sdkpay.uu.cc
+sdkrec.tf.360.cn
 sdks.stats-locations.com
 sdksp.video.qq.com
 sdktm.w.inmobi.cn
@@ -93730,6 +93751,7 @@ staging.spacious.hk
 staging.webxmr.com
 staging2.crazyegg.com
 stagingjobshq.com
+staglance.club
 stags.bluekai.com
 staimpor.net
 staitchu.com
@@ -111519,6 +111541,7 @@ www.dfh48.com
 www.dfn.org
 www.dfnba.com
 www.dgfggy.com
+www.dgtauto.com
 www.dharmayogawheel.com
 www.dianjoy.com
 www.dianru.com
@@ -121193,6 +121216,7 @@ yovole.com
 yovyuan.com
 yowhale.com
 yowhatsapp.net
+yowlcapkegs.com
 yowooa.com
 yoxiha.com
 yoximi.com
@@ -122809,6 +122833,7 @@ zerezas.com
 zergnet.com
 zeriamerikes.com
 zero.kz
+zero.wewakir.top
 zeroac.com
 zerobreeze.com
 zerobyw.com
