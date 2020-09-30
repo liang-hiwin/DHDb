@@ -306,6 +306,7 @@
 1.wps.cn
 1.xiaopin5.com
 1.xiaozhizhijia.com
+10.eve.dyx.com
 100.admin5.com
 100.adsina.allyes.com
 10000shequ.com
@@ -6498,6 +6499,7 @@ bt.cnscg.com
 bt.dy20188.com
 bt.henbt.com
 bt.ktkj.com
+bt.oiyo.tk
 bt.pusacg.org
 bt.sc-ol.com
 bt.wiiyi.com
@@ -8332,6 +8334,7 @@ cnkeyboard.net
 cnkok.com
 cnkore.com
 cnlhg.cn
+cnliti.com
 cnliveimg.com
 cnlogo8.com
 cnluye.com
