@@ -1052,7 +1052,6 @@
 1.zhev.com.cn
 1.zhuangxiu567.com
 1.zuowenjun.com
-10.eve.dyx.com
 10.rarbg.me
 100-tong.com
 100.com
@@ -22767,7 +22766,6 @@ bt.edwardk.info
 bt.firebit.org
 bt.hackfront.tk
 bt.mediaimpact.de
-bt.oiyo.tk
 bt.okmp3.ru
 bt.popgo.net
 bt.shousibaocai.com
@@ -29188,7 +29186,6 @@ cnlinfo.net
 cnlink8.com
 cnlist.com
 cnlist.org
-cnliti.com
 cnliufeng.com
 cnlive.com
 cnllz.com
