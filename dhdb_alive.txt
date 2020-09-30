@@ -664,6 +664,7 @@
 06abc.com
 06afcp.com
 06climate.com
+06dd0894cce50c.com
 06dns.com
 06f09b1008ae993a5a.com
 06game.com
@@ -8325,6 +8326,7 @@
 823bc1a6cd3f1657.com
 82401980.com
 82448dceaaa13034.com
+825145.com
 82553.com
 8260077.com
 8261101.com
@@ -8984,6 +8986,7 @@
 91.isafe.pro
 910app.com
 910go.com
+910weixin.com
 91160.com
 9118fu.com
 911asians.com
@@ -25828,6 +25831,7 @@ cfd-24h.com
 cfd-china.com
 cfd163.com
 cfdaguanjia.com
+cfdanet.com
 cfej.net
 cfeks.com
 cfeo.bealge.sogou.com
@@ -45528,6 +45532,7 @@ gedu.org
 gedus.cn
 geeboo.com
 geedai.com
+geede.info
 geedu.com
 geeetech.com
 geeeu.com
