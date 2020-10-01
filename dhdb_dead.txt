@@ -6000,7 +6000,6 @@ biquge.com.tw
 biquge.cz
 biqugebook.com
 biqugecom.com
-biquluo.com
 biqusoso.com
 biquyun.com
 bishe1234.com
@@ -25364,7 +25363,6 @@ ss.cnnic.cn
 ss.gate-project.com
 ss.gfw.host
 ss.hkj.tech
-ss.kyoyue.com
 ss.shicimingju.com
 ss.subo.me
 ss.sysadult.cn
