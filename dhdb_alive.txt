@@ -4013,7 +4013,6 @@
 350200.com
 350abc.net
 350bbs.net
-350lunwen.com
 350media.com
 3520.cc
 3520.net
@@ -10644,7 +10643,6 @@ aboutcg.net
 aboutcg.org
 aboutfacebook.com
 aboutgk.com
-aboutidc.com
 aboutmcdonalds.com
 aboutsafes.co.uk
 aboutyourmini.com
@@ -31842,7 +31840,6 @@ cwan.com
 cwbbooks.com
 cwbpsi.com
 cwcz58vbvwm0.n.adsco.re
-cwddd.com
 cwebgame.com
 cwebgl.com
 cwems.com
