@@ -2035,6 +2035,7 @@
 559gp.com
 55dai.com
 55hl.net
+55qml.com
 55shantao.com
 55tuan.com
 55tuanimg.com
@@ -2701,6 +2702,7 @@
 84lm.com
 84lm.net
 85.ddns.ms
+85.is-leet.com
 85.slyip.com
 85058s.com
 854.serveftp.com
@@ -4743,6 +4745,7 @@ apinglai.com
 apistaging.airpush.com
 apistat.wasu.cn
 apizb.com
+apjforex.com
 apk.idate520.com
 apk.static.youmi.net
 apk.tv333.us
@@ -5384,6 +5387,7 @@ baidu.dengzhoull.com
 baidu.ehrenreich.ca
 baidu.tlssyg.com
 baidu1.com
+baidu120.cc
 baidu360haosou.info
 baidu9635.com
 baidubaichuan.com
@@ -7277,6 +7281,7 @@ cdntips.com
 cdntips.net
 cdntlz.cn
 cdnunion.org
+cdnvpn.net
 cdnzhuji.com
 cdooc.com
 cdooewrzvec.com
@@ -8134,11 +8139,13 @@ clotfun.xyz
 clothjob.com
 cloud-umeng.com
 cloud.ph
+cloud301.net
 cloudapp.net
 cloudcdn.gd
 cloudcdn.net
 cloudcioevent.com
 cloudcoins.co
+cloudcsp.com
 clouddn.com
 cloudflare.solutions
 cloudflareinsights.com
@@ -8841,6 +8848,7 @@ csiasvapqrccq.com
 csic-711.com
 csiea.net
 csmcfetvb.com
+csnbgsh.com
 csnqzwwdtjg.com
 cspda.net
 csrcsc.com
@@ -10353,6 +10361,7 @@ dlhhzptgsavxu.com
 dlhygj.com
 dll01.com
 dllgslb.com
+dllxsp.com
 dload.qd.qingting.fm
 dlosri.com
 dlouf.com
@@ -12771,6 +12780,7 @@ fzyda.com
 fzyxygxa.com
 fzz.cloud.1234507.com
 fzz.shgqjr.com
+fzzfwz.com
 g--o.info
 g-content.bi
 g-content.bid
@@ -13373,6 +13383,7 @@ goodtp.com
 google-syndication.com
 google.calstate.edu
 google.com.lc
+google.kainidi.cn
 google.kfd.me
 google.tse.moe
 google.uk
@@ -14260,6 +14271,7 @@ hepmall.com
 herdsric.com
 hereisdownload.com
 hermesguanwang.com
+heroad-data.com
 herokucdn.com
 herokussl.com
 herordearhem.info
@@ -14460,6 +14472,7 @@ hkt4.com
 hktedu.site
 hkvaliant.org
 hkvwet.com
+hkwesi222.xyz
 hkyykq.com
 hkzone.org
 hl.cn
@@ -16677,6 +16690,7 @@ jnxmycnc.com
 jnxz66.cn
 jnxz88.cn
 jnykjgs.cn
+jnzfwz.com
 joamwtfpppibtj.com
 job.cnbeta.com
 job256.com
@@ -20716,6 +20730,7 @@ newperiod.net
 news-headlines.co
 news-imgpb.51y5.net
 news.b9377h.com
+news.ghostery.com
 news.hkpeanut.com
 news.s9377.com
 news.sinchew.com.my
@@ -20943,6 +20958,7 @@ noadblock.org
 noah-dream.com
 noahos.cn
 noblemagnition.com
+nocdn.hkwesi2.xyz
 noclef.com
 noddl.me
 node.alpha.nimiqpool.com
@@ -22052,6 +22068,7 @@ pic3.429bi.com
 pic3.cstoa.com
 pic5.cstoa.com
 picadmedia.com
+picancraft.ml
 picknicekicks.net
 pickshoesclothes.com
 picsinfog.com
@@ -22459,6 +22476,7 @@ ptummn.cn
 ptuoa.com
 ptyly.com
 ptzpyhhapyt.com
+pu526.com
 puasu.com
 pub.betclick.com
 pub.chinadailyasia.com
@@ -23141,6 +23159,7 @@ queqiaoba.com
 quhlryzpyyion.com
 quhua.com
 quhubei.com
+quick.likeso.ml
 quickh5.com
 quickleft.net
 quicksdk.net
@@ -25157,6 +25176,7 @@ softgostop.com
 softonic-analytics.net
 softonicads.com
 softparkinfo.com
+softs.fun
 softs.wtf
 softtest.vip
 softwaresgeek.com
@@ -28058,6 +28078,7 @@ voumxy.ru
 vovhiwr.com
 vowqesvqjwxc.com
 vox-cdn.com
+vp.hkwesi2.xyz
 vpadn.com
 vpfadnueru.com
 vpfcvagfrmy.com
@@ -28075,6 +28096,7 @@ vpnaccount.com
 vpnbrowse.com
 vpncloud.me
 vpncup.us
+vpndh.com
 vpnfq.in
 vpnintouch.biz
 vpnintouch.net
@@ -29602,6 +29624,7 @@ www.bbjinbaobei.com
 www.beastforum.com
 www.betezee.com
 www.bilifl.com
+www.binjix.com
 www.bitcoiner.win
 www.biwei198.com
 www.bjorksta.men
@@ -29636,6 +29659,7 @@ www.cdn.nimiq.com
 www.certificates.freecontent.win
 www.cfcdist.gdn
 www.ch.browsermine.com
+www.channel8news.sg
 www.chenyanjiao.cn
 www.china2all.com
 www.chinapost.com.tw
@@ -29761,6 +29785,7 @@ www.gbr-eri-c1-s1.inf.nimiq.network
 www.gbr-eri-c1-s2.inf.nimiq.network
 www.gbr-eri-c2-s1.inf.nimiq.network
 www.gbr-eri-c2-s2.inf.nimiq.network
+www.gc585888.com
 www.gdlbdzkj.com
 www.geindex.com
 www.getsome.nimiq.com
@@ -30046,6 +30071,7 @@ www.salamaleyum.com
 www.salon366.com
 www.salonsp.com
 www.sayhello.cc
+www.sbet09.net
 www.sbet14.co
 www.sbf116.com
 www.sbf159.com
@@ -30084,6 +30110,7 @@ www.sharesdk.cn
 www.shidaixianfeng.tk
 www.shinyshoes.com.tw
 www.shop.nimiq-network.com
+www.sinonet.ca
 www.siteverification.site
 www.smectapop12.pl
 www.snahome.com
@@ -30432,6 +30459,7 @@ x2919.com
 x3366.com
 x3e2c.cn
 x3w7lvezss.com
+x4r5.ml
 x520fy.com
 x5cc5z.cn
 x6kj.com
