@@ -448,7 +448,6 @@
 035002.com
 035007.com
 035009.com
-035110000.com
 0351data.com
 0351fdc.com
 0352fang.com
@@ -18890,7 +18889,6 @@ bbs.soul-plus.net
 bbs.soul-plus.org
 bbs.south-plus.org
 bbs.tianshi2.com
-bbs.totoxtv.com
 bbs.youzu.com
 bbs169.com
 bbs1x.net
