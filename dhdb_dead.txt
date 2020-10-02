@@ -606,7 +606,6 @@
 16.scr.ns01.biz
 160.com
 1605999.com
-160970.com
 160x300.gif
 160x600.gif
 160x600.htm
@@ -4764,7 +4763,6 @@ apmengxin.com
 apopgo.com
 app-123.com
 app-sage.com
-app-store.name
 app-store.wang
 app-web-seo-aso.com
 app.86crossocean.com
@@ -8059,7 +8057,6 @@ ck.spacetechnology.net
 ckair.com
 ckikq.com
 ckimg.com
-ckkqgycwljxib.com
 ckkummq.cn
 ckl.unetall.com
 cklad.xyz
@@ -15115,7 +15112,6 @@ hzyyhz.cn
 hzzevwlmjji.com
 hzzmoouuqb.com
 hzzqs.com
-hzzsbbs.com
 i-27.name
 i-components.net
 i-hifi.com
@@ -18321,7 +18317,6 @@ linuser.com
 linux00.com
 linux178.com
 linuxboy.net
-linuxidc.net
 linwenfa.com
 linwukui.cn
 linx-info.com
