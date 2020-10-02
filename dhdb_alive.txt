@@ -12849,6 +12849,7 @@ afcontent.net
 afcp09.com
 afd.baidu.com
 afdian.net
+afdsc.com
 afefw.com
 afengseo.com
 afengsoft.com
@@ -27206,6 +27207,7 @@ chinamfi.net
 chinamining.com
 chinamlmcc.com
 chinammm.net
+chinamobile-uc.com
 chinamobile.com
 chinamobileltd.com
 chinamootools.com
@@ -27390,6 +27392,7 @@ chinawaiyu.com
 chinawanda.com
 chinawatchnet.com
 chinaway.org
+chinawbh.com
 chinawbk.com
 chinaweb.bsgroup.com.hk
 chinawebber.com
@@ -29654,6 +29657,7 @@ coccusadmanlob.com
 cochina.co
 cochina.org
 cocimg.com
+coco413.com
 cocoa.zonble.net
 cocoafortunately.com
 cocoapods.org
@@ -84775,6 +84779,7 @@ qt6.com
 qt86.com
 qtav.org
 qtbb6.com
+qtbcw.com
 qtbig.com
 qtccolor.com
 qtcem.com
@@ -122439,6 +122444,7 @@ ysp68.com
 yspaobu.com
 yspenzui.com
 ysplay.com
+ysppj.com
 ysrh.com
 ysshipu.com
 yssm.org
