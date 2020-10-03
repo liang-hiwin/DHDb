@@ -744,7 +744,6 @@
 181lm.net
 1828.com
 183pu.cn
-183read.com
 186078.com
 1864445.com
 1865u.com
@@ -3897,7 +3896,6 @@ aeonlifes.com
 aeope.com
 aepwtbusoofzw.com
 aercxy.com
-aeros01.tk
 aeros02.tk
 aeros04.tk
 aeros05.tk
@@ -4785,7 +4783,6 @@ app.xixiashengdian.com
 app.xyjqy.com
 app01.nodes.gslb.mi-idc.com
 app02.nodes.gslb.mi-idc.com
-app253.com
 app2xp.com
 app3.tk
 app365.ga
@@ -8695,7 +8692,6 @@ cppentry.com
 cppnznmorh.com
 cppprog.com
 cpps.cdn-discuz.com
-cppwh.com
 cpro.7791.com.cn
 cpro.9xu.com
 cpro.tieba.baidu.com
@@ -18574,7 +18570,6 @@ logs.datadoghq.com
 logs.datadoghq.eu
 logs.insight.rapid7.com
 logtec88.com
-lohappbnrpgypu.com
 lol-ingoutloud.blogspot.in
 lolclub.org
 loldh.com
