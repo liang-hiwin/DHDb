@@ -333,6 +333,7 @@
 100nkrc.com
 100offer.com
 100pd.com
+100peng.com
 100rjrc.com
 100scrc.com
 100skin.com
@@ -2487,6 +2488,7 @@
 750x80.swf
 750x90.gif
 75184.com
+754daf9cd396259.com
 755.gotgeeks.com
 7552z.com
 7555.net
@@ -6221,6 +6223,7 @@ blog120.com
 blogamethu.com
 blogcdn.com
 blogchinese.com
+blogdaka.cc
 blogdriver.com
 bloger.wang
 blogimg.jp
