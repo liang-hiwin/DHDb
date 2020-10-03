@@ -2686,7 +2686,6 @@
 828698.com
 828758.com
 829882.com
-829886.com
 82a.net
 82ky.com
 83.shandiankami.cn
@@ -8552,7 +8551,6 @@ com-youku.net
 com.fi
 com.google
 comac.cc
-combaidu.com
 comberry.cn
 combpm.com
 comdns.xyz
@@ -13370,7 +13368,6 @@ gold58.com
 goldbetsports.com
 golden-infor.com
 golden1.sohu.com
-goldendoc.org
 goldentom.com
 goldmarkrealestate.com
 goldnova.crypto.csgocpu.com
@@ -13537,7 +13534,6 @@ gsbankmall.com
 gscidc.net
 gscontxt.net
 gsdlcn.com
-gsdsccoo.com
 gseyriwpozfxf.com
 gsflcp.com
 gsgqwl.wang
