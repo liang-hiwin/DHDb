@@ -5630,7 +5630,6 @@ bbs.alxx520.com
 bbs.hasi.wang
 bbs.jygnet.org
 bbs.k369.eu.org
-bbs.lxty8.com
 bbs.netbig.com
 bbs.ozchinese.com
 bbs.qmzdd.com
@@ -6591,7 +6590,6 @@ bungba.com
 bunlxlhmsoizsa.com
 bunsen.wapolabs.com
 bunueyq.bar
-buptbase.com
 burclar.name.tr
 burongyi.com
 buroniworks.com
@@ -8196,7 +8194,6 @@ cloudtcp.net
 cloudtomicro.com
 cloudvdn.com
 cloudy2.gq
-clscsbcj.com
 clusterdnsserver.com
 clx360.com
 clxgmlpfkoj.com
