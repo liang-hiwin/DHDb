@@ -2318,7 +2318,6 @@
 17wan.la
 17wanjia.com
 17wanxiao.com
-17wclass.com
 17weixing.com
 17wendao.com
 17win.com
@@ -9815,7 +9814,6 @@
 99bill.com
 99bo.cc
 99btgc01.com
-99centsptc.com
 99cfw.com
 99cka.com
 99cloud.net
@@ -13948,7 +13946,6 @@ ali-stats.jpush.cn
 ali.delbertbeta.cc
 ali213.com
 ali213.net
-ali727.com
 aliadvert.ru
 alianhome.com
 aliasgos.top
