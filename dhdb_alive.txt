@@ -10105,7 +10105,6 @@ a-0014.a-msedge.net
 a-ad.adwo.com
 a-ads.com
 a-cn.duoyi.com
-a-counter.kiev.ua
 a-counters.com
 a-du.net
 a-e-t.org
@@ -18617,7 +18616,6 @@ baozy.com
 baping.com
 bapkt.com
 bapres.cn
-baqima.com
 baqiu.com
 baquge.cc
 baquge.com
