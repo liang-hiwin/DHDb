@@ -5392,7 +5392,6 @@ baidu-wenxue.com
 baidu.cc
 baidu.cm
 baidu.cmxsw.com
-baidu.dengzhoull.com
 baidu.ehrenreich.ca
 baidu.tlssyg.com
 baidu0.vkk79.com
@@ -15757,7 +15756,6 @@ imgcdn.de92.com
 imgcdn.qj06hfjkg.media8.cn
 imgcdn.sxxjdz.com
 imgcdn.xixiwan.net
-imgcdn.ynwqls.com
 imgcdn2.com
 imges.wu65.com
 imgix.net
@@ -18225,7 +18223,6 @@ leeyegy.com
 leeyuo.com
 leeyuoxs.com
 legendarylars.com
-legendvps.net
 lehecai.com
 lehfzuosurakj.com
 lehu.io
@@ -20370,7 +20367,6 @@ mrcat.bet
 mreod.cn
 mrjppjqmc.com
 mrjzfzwey.com
-mrnvpqtqkx.com
 mrsta.com
 mrycwz.com
 mrzs.net
