@@ -12896,7 +12896,6 @@ affilbox.cz
 affili.st
 affiliate-api.ti-media.net
 affiliate-b.com
-affiliate-gate.com
 affiliate-robot.com
 affiliate.com
 affiliate.dtiserv.com
@@ -22597,7 +22596,6 @@ bqatj.com
 bqg5.cc
 bqg5200.com
 bqg8.cc
-bqhnj.cn
 bqiapp.com
 bqiovml.com
 bqkwq.icu
@@ -25660,7 +25658,6 @@ cdnetworks.com
 cdnetworks.net
 cdnews.com.tw
 cdnfarm18.com
-cdnfile.xyz
 cdngslb.com
 cdnimg.liehu.ijinshan.com
 cdnis.hyperpromote.com
@@ -29508,7 +29505,6 @@ cnsoe.com
 cnsofas.com
 cnsoftbei.com
 cnsoftnews.com
-cnsourcing.org
 cnsowa.com
 cnspeed.com
 cnspeedtest.net
