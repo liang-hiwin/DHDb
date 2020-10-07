@@ -11493,6 +11493,7 @@ ad.madserving.com
 ad.mail.ru
 ad.mail.sohu.com
 ad.mangareader.net
+ad.masteranime.es
 ad.mesomorphosis.com
 ad.mi.com
 ad.mo.doubleclick.net
@@ -17867,6 +17868,7 @@ assets.simplifydigital.co.uk
 assets.volvocars.com
 assetsadobe.com
 assetshare.box.com
+assigned.cn
 assimp.org
 assionwreckl.top
 assisass.com
@@ -65740,6 +65742,7 @@ kingpolo.com.cn
 kings3d.com
 kingscolleges.com
 kingsemi.com
+kingshape.top
 kingsoft.com
 kingsoft.net
 kingsoftstore.com
@@ -86331,6 +86334,7 @@ potentingxyr.club
 potentionsdarket.site
 poterrupte.co
 potianji.net
+potjevleesch.xyz
 potplayer.org
 potplayer.pro
 potpourrichordataoscilloscope.com
@@ -87548,6 +87552,7 @@ pulleymarketing.com
 pullfolio.com
 pullishy.ca
 pullywood.com
+pulpsbarndomed.com
 puls.lv
 pulsar.xlisting.jp
 pulse.yahoo.com
@@ -94330,6 +94335,7 @@ sdjushu.com
 sdjyjszb.com
 sdk-ab-config.aiclk.com
 sdk-globalconfig.aiclk.com
+sdk-log-inter.youdao.com
 sdk-orion.appboy.com
 sdk.adincube.com
 sdk.adtiming.com
