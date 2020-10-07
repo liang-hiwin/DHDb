@@ -4260,6 +4260,7 @@ aicu8.com
 aicukg.com
 aid-ad.jp
 aid.chinayk.com
+aidaicn.com
 aidaily.com
 aidangent.net
 aidecn.cn
@@ -6085,6 +6086,7 @@ bdydns.net
 bdysite.com
 bdzhhjnml.pw
 beacon-1.newrelic.com
+beacon-us-sjc1.rubiconproject.com
 beacon.heliumnetwork.com
 beacon.richrelevance.com
 beacon.search.yahoo.com
@@ -7864,6 +7866,7 @@ cerebral.typn.com
 ceregete.com
 cernet.com
 cernet2.net
+cerotop.com
 certificates.freecontent.win
 ceruchina.com
 ces-transaction.com
