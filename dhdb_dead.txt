@@ -1373,7 +1373,6 @@
 360qike.com.cn
 360safe.com
 360safedns.com
-360shopping.com.cn
 360sides.com
 360tag.net
 360taojin.com
@@ -28895,7 +28894,6 @@ toboads.com
 tobosu.net
 tobsnssdk.com
 toc.io
-tochgw.com
 todokeji.com
 toecsec.com
 toecxy.com
