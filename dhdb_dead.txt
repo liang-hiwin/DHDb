@@ -5320,7 +5320,6 @@ assets.hfxs01il.com
 assets.ps.easou.com
 assets.uxengine.net
 assetscdn.stream
-assigned.cn
 assoc-amazon.cn
 assoc-amazon.es
 assoc-amazon.it
@@ -7885,7 +7884,6 @@ cezezo.top
 cezxda.com
 cf.overblog.com
 cf668.com
-cf7.com
 cf89.gold
 cfachina.org
 cfan.xyz
@@ -28378,7 +28376,6 @@ tbieq.com
 tbluckluck.com
 tbnimg.com
 tbpic.info
-tbrum1.com
 tbrum15.com
 tbscache.com
 tbsite.net
