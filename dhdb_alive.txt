@@ -11068,6 +11068,7 @@ abstractedamount.com
 absurdapple.com
 absurdwater.com
 abt.etherscan.com
+abtest.alibaba.com
 abtest.swrve.com
 abto.cc
 abtrcking.com
@@ -11507,6 +11508,7 @@ ad.adriver.ru
 ad.adsniper.ru
 ad.adspaces.ero-advertising.com
 ad.adultfriendfinder.com
+ad.advst.cp33.ott.cibntv.net
 ad.adwo.com
 ad.adx.adnxs.com
 ad.aidalan.com
@@ -11729,6 +11731,7 @@ ad.thsi.cn
 ad.toutiao.com
 ad.turn.com
 ad.unimhk.com
+ad.us.sinaimg.cn
 ad.userporn.com
 ad.vacanceo.com
 ad.valuecalling.com
@@ -11886,6 +11889,7 @@ adashx4yt.m.taobao.com
 adashxgc.ut.taobao.com
 adasiaholdings.com
 adatrix.com
+adavideo.baidu.com
 adaxi.net
 adb.fling.com
 adbana.com
@@ -11991,6 +11995,7 @@ adclerks.com
 adclick.g.doublecklick.net
 adclick.g.doubleclick.net
 adclick.pk
+adclick.tencentmusic.com
 adclickafrica.com
 adclickmedia.com
 adclicks.io
@@ -13583,6 +13588,7 @@ adwalte.info
 adward.agency
 adwasu.wasu.tv
 adways.com
+adwbs.ximalaya.com
 adweb.test.ximalaya.com
 adweb.ximalaya.com
 adwebster.com
@@ -15111,6 +15117,7 @@ all-appp.com
 all-cod.com
 all-dream.com
 all-quran.com
+all.cnzz.com.danuoyi.tbcache.com
 all.orfr.adgtw.orangeads.fr
 all.rising.com.cn
 all2cnjuh34jb.com
@@ -16588,6 +16595,7 @@ aphycolourses.info
 api-a.op-mobile.opera.com
 api-access.pangolin-sdk-toutiao.com
 api-ad.kajicam.com
+api-ads.tiantianqutao.com
 api-analytics-bootstrap.metaps.com
 api-analytics-cn.huami.com
 api-analytics.huami.com
@@ -19041,6 +19049,7 @@ b0omr3wn6u4b.com
 b1.0430.com
 b1.51scw.net
 b1.51yangsheng.com
+b1.ads.oppomobile.com
 b1.b2b168.com
 b1.b2b168.net
 b1.baomihua.com
@@ -20647,6 +20656,7 @@ be4.herokuapp.com
 be90.com
 beaacc.com
 beabsolom.com
+beacon-api.aliyuncs.com
 beacon-fullpage-predictor.goguardian.com
 beacon.affil.walmart.com
 beacon.aimtell.com
@@ -22432,6 +22442,7 @@ bjcxdf.com
 bjcyzg.com
 bjdabache.com
 bjdachi.com
+bjdata.ads.oppomobile.com
 bjdbrc.com
 bjdcfy.com
 bjdexinyuan.com
@@ -24395,11 +24406,13 @@ brokerbabe.com
 brominer.com
 bromsgroveadvertiser-gb.bromsgroveadvertiser.co.uk
 bronks.net
+bronrt.stsdk.vivo.com.cn
 bronto.com
 bronzesoft.com
 bronzfederation.org.nz
 bronzwellington.org.nz
 brookings.edu
+brort.stsdk.vivo.com.cn
 brother66.com
 brothersbucket.com
 brothersincash.com
@@ -24424,6 +24437,8 @@ browsers.support
 browsersfeedback.com
 browsersurf.12finance.com
 browsiprod.com
+brpnrt.stsdk.vivo.com.cn
+brprt.stsdk.vivo.com.cn
 brqvld0p.com
 brrqeprqsrvrt.com
 brsiee.com
@@ -24629,6 +24644,7 @@ btpan.com
 btplay.net
 btpnav.com
 btr.domywife.com
+btrace.play.aiseet.atianqi.com
 btrace.qq.com
 btrace.video.qq.com
 btrend.amassly.com
@@ -27190,6 +27206,7 @@ cdn-cvprhkn01m01.streaming.mediaservices.windows.net
 cdn-cvprsg101m01.streaming.mediaservices.windows.net
 cdn-discuz.com
 cdn-gcs.outfit7.com
+cdn-haokanapk.baidu.com
 cdn-highwinds.unityads.unity3d.com
 cdn-html.adsfactor.net
 cdn-image.com
@@ -31000,6 +31017,7 @@ cnbgjjw.com
 cnbidding.com
 cnbis.org
 cnbizmedia.com
+cnbj1.fds.api.xiaomi.com
 cnbkw.com
 cnblogs.com
 cnbluebox.com
@@ -35700,6 +35718,7 @@ dat.gtags.net
 data-collector.wefi.com
 data-data-vac.com
 data-eroadvertising.com
+data-id.ads.oppomobile.com
 data-news.cdn.cootekservice.com
 data-optout-service.uca.cloud.unity3d.com
 data-pic.cdn.cootekservice.com
@@ -35761,6 +35780,7 @@ datadome.co
 datadsk.com
 dataesb.com
 dataeye.com
+dataf.ads.oppomobile.com
 datafeedfile.com
 datafilehost.com
 dataflow.biliapi.com
@@ -41445,6 +41465,7 @@ eeppt.com
 eeq1s8pqpk.com
 eeq8.com
 eeqiu.com
+eer.zhthf.com
 eergaroa.com
 eergurty.net
 eeritsog.com
@@ -42038,6 +42059,7 @@ empowerclemencyjoggle.com
 emptyescort.com
 emptyspaceads.com
 ems.cp12.wasu.tv
+ems.cp31.ott.cibntv.net
 ems.youku.com
 ems15.your-freedom.de
 ems517.com
@@ -43572,6 +43594,7 @@ extralog.olclient.baofeng.com
 extreme-dm.com
 extreme-ip-lookup.com
 extremedirectness.com
+extremeleadprogram.com
 extrementtgfa.site
 extremeporn.com
 extremetracking.com
@@ -46180,6 +46203,7 @@ fmax.xyz
 fmcebook.com
 fmebili.info
 fmeibao.com
+fmg.aty.sohu.com
 fmhua.com
 fmhyg.com
 fminers.com
@@ -48053,6 +48077,7 @@ g0v.social
 g0v.tw
 g1.08160.cn
 g1.163.com
+g1.ads.oppomobile.com
 g1.pptair.com
 g1.tagtic.cn
 g1.taijuba.com
@@ -54286,6 +54311,7 @@ heydoga.com
 heygugu.com
 heyguo.com
 heyhelga.net
+heyi-acs.cp31.ott.cibntv.net
 heyinguanli.com
 heylinux.com
 heylookhere.top
@@ -61057,6 +61083,7 @@ iscrv.com
 isdspeed.qq.com
 isdyw.com
 isearch.avg.com
+isee.weishi.qq.com
 iseekt.com
 iseoku.com
 isep.fr
@@ -70716,6 +70743,7 @@ log.p2p.hunantv.com
 log.pinterest.com
 log.popin.cc
 log.prezi.com
+log.propermessage.io
 log.qchannel03.cn
 log.rc.hunantv.com
 log.reformal.ru
@@ -76867,6 +76895,7 @@ mobtyb.com
 mobula.ssl2.duapps.com
 mobvista.com
 mobvoi.com
+mobwsa.ximalaya.com
 moby.to
 mobypicture.com
 mocache.com
@@ -77954,6 +77983,7 @@ mtp.spaces.ru
 mtp.spcs.me
 mtqys.com
 mtr8.com
+mtrace.play.aiseet.atianqi.com
 mtrace.qq.com
 mtrack.nl
 mtracker.yunfan.com
@@ -78901,6 +78931,7 @@ mzsky.cc
 mzstatic.com
 mztgame.com
 mzuan.com
+mzwmdaadjf.com
 mzwxzz.com
 mzxun.com
 mzy2014.com
@@ -82874,6 +82905,7 @@ onpato.ru
 onqc.com
 onrampadvertising.com
 onrt-stsdk.vivo.com.cn
+onrt.stsdk.vivo.com.cn
 onsafelink.com
 onscribedpastrong.info
 onscroll.com
@@ -82917,6 +82949,7 @@ ookmakescole.club
 ookris.oferty-kredytowe.pl
 oolap.com
 oollttqq.com
+oolufhbdabqce.com
 oom.ink
 oomake.com
 ooni.org
@@ -83234,6 +83267,7 @@ oracleimg.com
 oradbca.com
 oraev.com
 oralpractice.com
+orange-dc.youku.com
 orange2h.com
 orangeapk.com
 orangemail.okstate.edu
@@ -83349,6 +83383,7 @@ orquideassp.com
 orsoon.com
 orspr.com
 ort-stsdk.vivo.com.cn
+ort.stsdk.vivo.com.cn
 ortantchangem.info
 orts.wixawin.com
 orxtv.com
@@ -86721,6 +86756,7 @@ pnlyy.com
 pnol.net
 pnperf.com
 pnrt-stsdk.vivo.com.cn
+pnrt.stsdk.vivo.com.cn
 pntra.com
 pntrac.com
 pntrs.com
@@ -88020,6 +88056,7 @@ proxy-free.org
 proxy-gbr-1.inf.nimiq.network
 proxy-khlizawelj.now.sh
 proxy-list.org
+proxy-mob-cld.alicdn.com
 proxy-pol-1.inf.nimiq.network
 proxy-pol-2.inf.nimiq.network
 proxy-server.at
@@ -88107,6 +88144,7 @@ prre.ru
 prscripts.com
 prstats.postrelease.com
 prt-stsdk.vivo.com.cn
+prt.stsdk.vivo.com.cn
 prtawe.com
 prtracker.com
 prugskh.com
@@ -98506,6 +98544,7 @@ sj518.net
 sj88.com
 sj998.com
 sjaidu.com
+sjarvis.taobao.com
 sjawards.com
 sjb44.com
 sjbaiduadv1.redou.com
@@ -98856,6 +98895,7 @@ slrviazqkilu.com
 sls2.loisirsencheres.com
 slsteel.com
 slswx7.com
+sltint.adv.ott.cibntv.net
 sltopnews.com
 slupdate.dlservice.microsoft.com
 slutload.com
@@ -99082,6 +99122,7 @@ smrtbnr.site
 smrtbnr.space
 smrtbnr.top
 sms-xxx.com
+sms.ads.oppomobile.com
 sms9.net
 smsbao.com
 smshx.com
@@ -99468,6 +99509,7 @@ sohonow.com
 sohosuite.ro
 sohotask.com
 sohovark.com
+sohu-dtv.m.cn.miaozhen.com
 sohu-inc.com
 sohu.com
 sohu.gg
@@ -104094,6 +104136,7 @@ tango.me
 tangobrowser.net
 tangongye.com
 tangqiu.tv
+tangram.e.qq.com
 tangren.us
 tangrenjv.com
 tangruiqian.com
@@ -105659,6 +105702,7 @@ thismetric.com
 thismon.ee
 thitegnu.net
 thj.astrakhan.ru
+thli43.cn
 thlib.org
 thmovie.com
 thmz.com
@@ -107264,6 +107308,7 @@ tourye.com
 toushibao.com
 tout-sur-le-web.com
 toutapp.com
+toutiao-frontier.snssdk.com
 toutiao-xinwen.com
 toutiao.2haha.com
 toutiao.com
@@ -109876,6 +109921,7 @@ uagesspecifica.info
 uamobile.net
 uao-online.com
 uao.so
+uapi.ads.oppomobile.com
 uarating.com
 uat1.bfsspadserver.8le8le.com
 uatu.newsquestdigital.co.uk
@@ -111725,7 +111771,10 @@ valc.atm.youku.com
 valf.atm.cp31.ott.cibntv.net
 valf.atm.youku.com
 valga.es
+vali-dns.cp31.ott.cibntv.net
 vali.cp12.wasu.tv
+vali.cp31.ott.cibntv.net
+vali.cp31.ott.cibntv.net.302.myalicdn.com
 valid.apple.com
 valid.origin-apple.com.akadns.net
 validclick.com
@@ -124207,6 +124256,7 @@ wxreallink.com
 wxrrd.com
 wxscreen.com
 wxshake.com
+wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.video.qq.com
 wxsnsdy.wxs.qq.com
@@ -129426,6 +129476,8 @@ yktd.m.cn.miaozhen.com
 yktj.yzz.cn
 yktworld.com
 yktz.net
+ykugc.cp31.ott.cibntv.net
+ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 ykwlkj.com
 ykwyl.net
 ykyao.com
@@ -129890,6 +129942,7 @@ youked.com
 youkego.com
 youkelai.com
 youkexueyuan.com
+youku-acs.m.taobao.com
 youku-dtv.m.cn.miaozhen.com
 youku.com
 youku04.com
