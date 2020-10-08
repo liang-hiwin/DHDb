@@ -1239,7 +1239,6 @@
 1015600.com
 10185.com
 101hr.com
-101jiajiao.com
 101ms.com
 101newsmedia.com
 101weiqi.com
@@ -3889,7 +3888,6 @@
 315zw.com
 315zww.com
 31609.com
-3166602.com
 3166604.com
 3166608.com
 31666333.com
@@ -19026,7 +19024,6 @@ b.sayloving.com
 b.scorecardresearch.com
 b.smartvideo.youku.com
 b.stranamam.ru
-b.today
 b.travel-assets.com
 b.tukucc.com
 b.tvsou.com
@@ -19390,7 +19387,6 @@ baidu-mgame.com
 baidu-sex.com
 baidu.com
 baidu.cybcyw.com
-baidu.dengzhoull.com
 baidu.dsp.tansuotv.com
 baidu.greenxf.cn
 baidu.jp
