@@ -3061,6 +3061,7 @@
 93tyy.com
 94.viewdns.net
 94399.net
+944e66f8683ac43c.com
 945n48.com
 9463377.com
 94776.zdfans.com
@@ -3767,6 +3768,7 @@ addthiscdn.com
 addthisedge.com
 adentifi.com
 adeq.hiidc.com.cn
+adexchange.io
 adexcite.com
 adextent.com
 adezrvjcbyu.com
@@ -5523,6 +5525,7 @@ avmftuama.com
 avmul.space
 avmws.com
 avrvi.com
+avsmt.cn
 avtb388.com
 avtiaozhuan.com
 aw99.com
@@ -5895,6 +5898,7 @@ bannerbit.com
 bannerd.ru
 banners.beted.com
 banners.playocio.com
+banners.webmasterplan.com
 bannersold.eu
 bannertgt.com
 banreklama.ru
@@ -8889,6 +8893,7 @@ cn-visa.com
 cn-xbn.com
 cn.bing.net
 cn.dayabook.com
+cn.fmnnow.com
 cn.hwazan.org
 cn.man255.com
 cn.man426.com
@@ -27141,6 +27146,7 @@ shmyapi.com
 shnsyh.com
 shobserver.com
 shoestop2.com
+shofda.com
 shoizifjwosvk.com
 shokw.com
 shootmedia.net
