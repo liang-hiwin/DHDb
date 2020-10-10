@@ -1376,7 +1376,6 @@
 360qike.com.cn
 360safe.com
 360safedns.com
-360shouzhuan.com
 360sides.com
 360tag.net
 360taojin.com
@@ -2862,7 +2861,6 @@
 88eg.cn
 88fenxiao.com
 88hs.net
-88hunter.com
 88infra-strat.com
 88k73d.cn
 88lm.cc
@@ -20687,7 +20685,6 @@ m.dbeij.com
 m.dbiei.com
 m.dbiej.com
 m.dceni.com
-m.dglscm.cn
 m.djhhy.com
 m.domob.cn
 m.dqwhsx.top
@@ -21794,7 +21791,6 @@ mmszxc.top
 mmtrixcnc.com
 mmtrixcnet.com
 mmtrixopt.com
-mmtu.top
 mmv.admob.com
 mmww.com
 mn1nm.com
