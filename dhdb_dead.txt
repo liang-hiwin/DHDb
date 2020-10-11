@@ -3407,6 +3407,7 @@ a2f52ef3b52.top
 a2gw.com
 a2m.cn
 a2x-eng.spankbang.com
+a2z.com
 a31.privatedns.org
 a3236.com
 a3636.com
@@ -7264,6 +7265,7 @@ bytedanceapi.com
 bytedns.net
 bytefcdn.com
 byteimg.com
+byteoversea.com
 bytesfield.com
 bytesmanager.com
 bytestacks.com
@@ -8803,7 +8805,9 @@ cloudcsp.com
 clouddn.com
 cloudflane.com
 cloudflare.solutions
+cloudflarebolt.com
 cloudflareinsights.com
+cloudflareresolve.com
 cloudfront.net
 cloudfunctions.net
 cloudglb.com
@@ -12200,6 +12204,7 @@ ea.rueducommerce.fr
 ea3721.com
 ea6d133f7ae.com
 eabyvnmt.com
+eac-cdn.com
 eacetvqr.com
 eadulttraffic.com
 eafifaonline2.com
@@ -16569,6 +16574,7 @@ ibros.org
 ibtfbbtjktu.com
 ibuick.com
 ibuspan.com
+ibytedtos.com
 ic-ldo.com
 ic-live.com
 ic.ie.027ie.com
@@ -16942,6 +16948,7 @@ imageflux.cf
 imagehostnetwork.com
 imageplus.baidu.cn
 imagepy.org
+images-amazon.com
 images-gaytube.com
 images.comico.tw
 images.crsky.com
@@ -26538,6 +26545,7 @@ sblcjzjp.com
 sbmijpifoszz.com
 sbt123.com
 sbwxz.com
+sc-cdn.net
 sc.ggdoubi.com
 sc.rvtlife.com
 sc.sczxy.com
@@ -27573,6 +27581,7 @@ smvip8.cn
 smxmm.com
 smyxy.org
 snambepupkjggz.com
+snapads.com
 snapmobileasia.net
 snapseed.com
 snaptu.com
@@ -30840,6 +30849,7 @@ vjsticdegj.com
 vjsxvihazrwypb.com
 vjuvorqe.com
 vjzcgotoy.com
+vk-cdn.net
 vkafirac.com
 vkbftstazhjgdx.com
 vkcache.com

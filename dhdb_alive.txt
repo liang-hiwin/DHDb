@@ -1652,6 +1652,7 @@
 123date.me
 123du.cc
 123fc.com
+123fj.com
 123fvd.com
 123haitao.com
 123hala.com
@@ -4182,6 +4183,7 @@
 35d59588f15966.com
 35dalu.com
 35dxs.com
+35free.net
 35go.net
 35hw.com
 35inter.com
@@ -4298,6 +4300,7 @@
 360shipu.com
 360shopping.com.cn
 360shouji.com
+360shouzhuan.com
 360shuashua.com
 360sok.com
 360stamp.com
@@ -14919,6 +14922,7 @@ alerts.thedailystar.net
 alertserver.ushaqi.com
 alespeonor.com
 alesso.net
+alexa.com
 alexa.sx
 alexacdn.com
 alexacn.org
@@ -15457,6 +15461,7 @@ amazonimages.com
 amazonlaunchpad.com
 amazonliterarypartnership.com
 amazonlumberyard.wang
+amazonpay.com
 amazonprimevideos.com
 amazonsdi.com
 amazonstudiosguilds.com
@@ -30534,7 +30539,9 @@ cloudfastads.ru
 cloudflare-dns.com
 cloudflare-ipfs.com
 cloudflare.com
+cloudflare.net
 cloudflareapps.com
+cloudflareclient.com
 cloudflareok.com
 cloudflaressl.com
 cloudflarestatus.com
@@ -33323,6 +33330,7 @@ creatchristorisalmos.info
 create2fear.com
 createcdigital.com
 createpoint.qti.qualcomm.com
+createspace.com
 createssque.club
 creathere.club
 creati5.com
@@ -40689,6 +40697,7 @@ easy888.com
 easyaccess.mobi
 easyad.com
 easyai.tech
+easyanticheat.net
 easyaq.com
 easyar.com
 easybib.com
@@ -78536,6 +78545,7 @@ mycardgame.net
 mycasinoaccounts.com
 mycctvmedia.com
 mycdn.co
+mycdn.me
 mycdn2.co
 mycdn4.ru
 mycfz.com
@@ -99339,6 +99349,7 @@ snailsleep.net
 snailyun.com
 snakemineral.com
 snakesshop.com
+snap-dev.net
 snap-telemetry.io
 snap.com
 snap.snapmobile.asia
@@ -99346,6 +99357,7 @@ snapchat.com
 snapcraft.io
 snapdeal.biz
 snapdragonbooth.com
+snapkit.co
 snaps.vidiemi.com
 snapsed.club
 snapshot.beeppool.org
@@ -114903,6 +114915,7 @@ warnermusic.com.hk
 warning.support
 warnwing.com
 warontherocks.com
+warp.plus
 warp.prnewswire.co.uk
 warpwrite.com
 warringtonguardian-gb.warringtonguardian.co.uk
