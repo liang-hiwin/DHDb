@@ -9267,7 +9267,6 @@ contadordevisitas.es
 contadorgratis.web-kit.org
 content-recommendation.net
 content-square.net
-content.liveuniverse.com
 content.wuala.com
 contentfeed.net
 contentsquare.net
@@ -14828,7 +14827,6 @@ gugeys.com
 gugu.ws
 gugu5.com
 gugulonger.cn
-guhantai.com
 guhpyglt.com
 gui333.com
 guidashu.com
@@ -22796,7 +22794,6 @@ niklesrov.com
 nimdinb.com
 nimiq-network.com
 nimiq.ag
-nimiq.agency
 nimiq.network
 nimiqchain.info
 nimiqtest.net
