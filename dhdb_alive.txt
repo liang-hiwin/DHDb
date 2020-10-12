@@ -2355,6 +2355,7 @@
 17wanjia.com
 17wanxiao.com
 17wclass.com
+17weike.com
 17weixing.com
 17wendao.com
 17win.com
@@ -2547,6 +2548,7 @@
 192ly.com
 1931.com
 1933000.com
+1937cn.com
 19463333.com
 1949er.org
 1949idc.com
@@ -7607,6 +7609,7 @@
 6apt.com
 6b357cda0f.com
 6b3b.com
+6b4bcc240ad94.com
 6b5c418918ebb008cc6.com
 6bgaput9ullc.com
 6boou.voluumtrk.com
@@ -9610,6 +9613,7 @@
 939027.com
 93913.com
 93966.com
+93aihbjs7bv4.com
 93bok.com
 93c8c9a28e1db445.com
 93cg.com
@@ -48163,6 +48167,7 @@ g3j2wzmon8b.com
 g3user.com
 g4.iqilu.com
 g4159771035.co
+g4357855370.co
 g4p.redtram.com
 g4rre.xyz
 g4tyqaea.com
@@ -75943,6 +75948,8 @@ miner-11.team.nimiq.agency
 miner-13.team.nimiq.agency
 miner-16.team.nimiq.agency
 miner-2.team.nimiq.agency
+miner-5.team.nimiq.agency
+miner-6.team.nimiq.agency
 miner-deu-1.inf.nimiq.network
 miner-deu-2.inf.nimiq.network
 miner-deu-3.inf.nimiq.network
@@ -77523,6 +77530,7 @@ morningcore.com
 morningdigit.com
 morninghan.com
 morningpiggy.com
+morningsophisticatedcenter.com
 morningsun.org
 morningwhistle.com
 moromie-av.com
@@ -102447,6 +102455,7 @@ suisuijiang.com
 suitarserviku.site
 suite6ixty6ix.com
 suitesmart.com
+suitmatters.cn
 suixingjia.com
 suixw.com
 suiyichong.com
@@ -108115,6 +108124,7 @@ tracker.teambelgium.net
 tracker.tfile.co
 tracker.tfile.me
 tracker.tgbus.com
+tracker.thinkermail.com
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tintucvietnam.vn
@@ -111474,6 +111484,7 @@ usp1.baidu.com
 uspard.com
 uspto.gov
 usqiaobao.com
+usr.trava.io
 uss-pid.lenovomm.com
 uss1star.com
 ussearch.com
