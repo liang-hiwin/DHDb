@@ -1695,6 +1695,7 @@
 125mx.com
 125uu.com
 125visa.com
+125y.com
 126.am
 126.com
 126.etowns.org
@@ -5006,6 +5007,7 @@
 42651.com
 426g.com
 4275.yzc622.com
+42791bdc2481f6c.com
 427tbezplqv5.com
 42842805.com
 42842806.com
@@ -7236,6 +7238,7 @@
 62m33.x.incapdns.net
 62ma.com
 62r5.com
+62wm.com
 63.effers.com
 63.flnet.org
 63.my03.com
@@ -11678,6 +11681,7 @@ ad.outsidehub.com
 ad.outstream.today
 ad.oyy.ru
 ad.pandora.tv
+ad.particlenews.com
 ad.pchome.com.tw
 ad.period-calendar.com
 ad.pickple.net
@@ -15716,6 +15720,7 @@ analytic.press
 analytic.xingcloud.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
+analytics-api.a-f.io
 analytics-api.smzdm.com
 analytics-china.com
 analytics-cms.whitebeard.me
@@ -15734,6 +15739,7 @@ analytics-udg.netdna-ssl.com
 analytics-union.xunlei.com
 analytics.163.com
 analytics.30m.com
+analytics.a-f.io
 analytics.aasaam.com
 analytics.ad.daum.net
 analytics.adfreetime.com
@@ -21550,6 +21556,7 @@ bf168.pomiav.com
 bf2468.com
 bf35.com
 bf3c1229dc6f28b2.com
+bf550.com
 bf633.com
 bf730.com
 bf750.com
@@ -25619,6 +25626,7 @@ c38.statcounter.com
 c39.statcounter.com
 c3acg.com
 c3crm.com
+c3h5cae95p.ru
 c3j.fun
 c3j6.com
 c3metrics.com
@@ -39033,6 +39041,7 @@ dpcyjt.com
 dpd9yiocsyy6p.cloudfront.net
 dphk.org
 dpiui.reedlan.com
+dpjszs.com
 dplor.com
 dplord.com
 dpm.bluray-disc.de
@@ -39131,6 +39140,7 @@ draulinehandon.info
 draveness.me
 drawservant.com
 drawyoo.com
+draydaisbitch.com
 drbeatsukmart.com
 drbwugautcgh.com
 drcact.com
@@ -46091,6 +46101,7 @@ flikr.com
 flimsycircle.com
 flimsythought.com
 fling.com
+flinter.pro
 flintos.com
 flipboard.com
 flipflap.pro
@@ -49422,6 +49433,7 @@ getwsone.com
 getyii.com
 getyoutube.com
 getzwnrgsrz.com
+geuniveruls.top
 gevek.com
 gewai-cnc.com
 gewu.vc
@@ -49997,6 +50009,7 @@ global.bing.com
 global.ishadowx.net
 global.mgr.consensu.org
 global.msads.net
+global.px.quantserve.com
 global.ssl.fastly.net
 global.ymtracking.com
 globalaccentchinese.com
@@ -70850,6 +70863,7 @@ log.orchidscape.net
 log.outbrain.com
 log.outbrainimg.com
 log.p2p.hunantv.com
+log.particlenews.com
 log.pinterest.com
 log.popin.cc
 log.prezi.com
@@ -70908,6 +70922,7 @@ log2.molitv.cn
 log2.mtime.cn
 log2.musical.ly
 log2.ru
+log2.spotify.com
 log4d.com
 log4geek.cc
 log4x.nixcdn.com
@@ -75958,6 +75973,7 @@ minently.com
 minepi.com
 mineplugin.org
 miner-1.team.nimiq.agency
+miner-10.team.nimiq.agency
 miner-11.team.nimiq.agency
 miner-13.team.nimiq.agency
 miner-16.team.nimiq.agency
@@ -78242,6 +78258,7 @@ munroadaz.site
 muomou.com
 mupads.de
 mupteekr.net
+muqsad.xyz
 muqson0kgr.com
 muramura.tv
 murcs.org
@@ -107081,6 +107098,7 @@ tom.suroot.com
 tom61.com
 tomap.me
 tomatolei.com
+tombspyelates.com
 tomczhen.com
 tomdiy.com
 tomekas.com
@@ -113397,6 +113415,7 @@ vkaijiang.com
 vkaofq64zz.com
 vkcdnservice.appspot.com
 vkcdnservice.com
+vkekyx.com
 vkelai.com
 vkemai.com
 vkgo.app
@@ -116802,6 +116821,7 @@ widget.convertiser.com
 widget.criteo.com
 widget.crowdignite.com
 widget.ezprice.com.tw
+widget.feedot-lawyer.ru
 widget.headlines.pw
 widget.jobberman.com
 widget.market-place.su
@@ -134432,6 +134452,7 @@ ztedevices.com
 ztedu8.com
 ztehn.com
 zteict.com
+zteikg.com
 ztemap.com
 ztems.com
 zterom.com
