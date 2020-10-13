@@ -3691,7 +3691,6 @@ ad.netzquadrat.de
 ad.pentabox.net
 ad.proxy.sh
 ad.pxlad.io
-ad.r.worldssl.net
 ad.realmcdn.net
 ad.services.distractify.com
 ad.shorte.st
@@ -11835,7 +11834,6 @@ dvv.kdzbg.xyz
 dvv.lkgtvc.xyz
 dvv.muqsad.xyz
 dvv.muyfgf.xyz
-dvv.qeiowc.xyz
 dvv.strbgi.xyz
 dvvkdxejwh.com
 dvzuqh0qci8dn.cloudfront.net
@@ -17815,7 +17813,6 @@ jdkic.com
 jdlcg.cn
 jdlnquri.com
 jdnettv.com
-jdnews.net
 jdoqocy.com
 jdpaydns.com
 jdrckkbpb.com
@@ -20162,7 +20159,6 @@ ljrtb.cn
 ljucamkqc.com
 ljvwqird.com
 ljwdns-vip.com
-ljzsucmiodrro.com
 lk.4jzl.cn
 lkaty.com
 lkddksjgih.com
@@ -20322,7 +20318,6 @@ lolmax.com
 lolmz.com
 lolper.ru
 lolstatic.com
-loltrk.com
 lolusercontent.com
 lomkgojdoeffl.com
 lon3d.com
@@ -25055,7 +25050,6 @@ qianduan.com
 qianduanfan.com
 qiang56.com
 qiangbe.com
-qianggen.com
 qiangqiang5.com
 qianliao.net
 qianlima11.cc
@@ -27229,7 +27223,6 @@ shouker.com
 shoukuoedu.com
 shouxaum.net
 shouyili.mobi
-shovesoft.com
 show.kuanp.com
 show.niqiu99.org
 show.qx15.com
@@ -28345,7 +28338,6 @@ swx.domob.cn
 swxhp.pw
 swxrxdej.com
 sx898.com
-sxbhzs.net
 sxccb.com
 sxchcik.com
 sxdygbjy.com
@@ -28623,7 +28615,6 @@ taobao.org
 taobao.tw
 taobaocdn.net
 taobaocoupon.cn
-taobaojx.com
 taobaomayu.com
 taobayun.cn
 taobizhong.com
