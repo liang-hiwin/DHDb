@@ -11071,6 +11071,7 @@ abstractedamount.com
 absurdapple.com
 absurdwater.com
 abt.etherscan.com
+abtest-ch.snssdk.com
 abtest.alibaba.com
 abtest.swrve.com
 abto.cc
@@ -11491,6 +11492,7 @@ ad.1ting.com
 ad.21cn.com
 ad.24h.com.vn
 ad.3.cn
+ad.30xiaoshuo.com
 ad.360in.com
 ad.360yield.com
 ad.363.in
@@ -11957,6 +11959,7 @@ adc-js.nine.com.au
 adc-serv.net
 adc.9news.com.au
 adc.api.nine.com.au
+adc.hpplay.cn
 adc.nine.com.au
 adc.quantrimang.com
 adc.tripple.at
@@ -12852,6 +12855,7 @@ ads.grupozeta.es
 ads.home.vn
 ads.house365.com
 ads.huan.tv
+ads.icloseli.cn
 ads.ictnews.vn
 ads.ign.com
 ads.indosatooredoo.com
@@ -13285,6 +13289,7 @@ adszs.com
 adszui.com
 adszx.pro
 adt.com.vn
+adt.cpatrk.net
 adt.xdrig.com
 adt100.com
 adtag.cc
@@ -13617,6 +13622,7 @@ adx-static.ksosoft.com
 adx-t.com
 adx-tk.rayjump.com
 adx.adnxs.com
+adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
 adx.adxglobal.com
 adx.agrantsem.com
@@ -19039,6 +19045,7 @@ b0e8.com
 b0lc.cn
 b0ne.com
 b0omr3wn6u4b.com
+b1-data.ads.heytapmobi.com
 b1.0430.com
 b1.51scw.net
 b1.51yangsheng.com
@@ -19075,6 +19082,7 @@ b1img.com
 b1secure.com
 b1sync.zemanta.com
 b1uew01f.net
+b2-data.ads.heytapmobi.com
 b2.0430.com
 b2.51yangsheng.com
 b2.ai5z.com
@@ -27389,6 +27397,7 @@ cdn.viglink.com
 cdn.welcome.pussysaga.com
 cdn.wibiya.com
 cdn.wuyou.ca
+cdn.wuyulou.com
 cdn.xianliao.me
 cdn.zampda.net
 cdn.zampdsp.com
@@ -35428,6 +35437,7 @@ dalailamaworld.com
 dalanxing.com
 dalian799.com
 dalianmeng.org
+daliantong.com.cn
 daling.com
 dalinggong.com
 dalipan.com
@@ -57431,6 +57441,7 @@ hvtong.com
 hvxhmsiz.com
 hw-ai.com
 hw-tm.com
+hw.zuimeitianqi.com
 hw100k.com
 hw282828.com
 hw555.com
@@ -58187,6 +58198,7 @@ ibuytree.com
 ibvpn.com
 ibw.cc
 ibxfhtklswtbd.com
+ic.aliyune.xyz
 ic.aliyunh.xyz
 ic.aliyuni.xyz
 ic.etowns.net
@@ -59551,6 +59563,7 @@ img005.com
 img01.taotaosou.cn
 img1.126.net
 img1.18183.com
+img1.360buyimg.com
 img1.biyan8.com
 img1.ctags.net
 img1.g.pptv.com
@@ -61753,6 +61766,7 @@ iuuu9.com
 iuv360.com
 iuvision.com
 iv-conference.com
+iv.aliyune.xyz
 iv.doubleclick.net
 ivacy.com
 ivali.com
@@ -61986,6 +62000,7 @@ iyx668.com
 iyxku.com
 iyygzs.com
 iz682noju02ye5.com
+iz8c7j.0mr.cc
 izacholsm.com
 izamay.com
 izaobao.us
@@ -62515,6 +62530,7 @@ jd.com.pesbbw.cn
 jd.hk
 jd.id
 jd.ru
+jd.zxsmxt.com
 jd01estvpr.club
 jd100.com
 jdair.net
@@ -64518,6 +64534,7 @@ js.moatads.com
 js.monetize-ssp.com
 js.mosflower.cn
 js.mtburn.com
+js.mudezs.com
 js.mumayi.net
 js.nahnoji.cz
 js.newrutor.eu.org
@@ -67849,6 +67866,7 @@ kyw4y0s.com
 kyy6.com
 kyzyhello.com
 kz.mieyisi.com
+kz.zf678.com
 kzeng.info
 kzgame2.com
 kzj365.com
@@ -72679,6 +72697,7 @@ m.joyxv.com
 m.juhuasuanguanwang.cn
 m.julitenj.com
 m.jusdq.com
+m.jysbj.cn
 m.k2d98mi.cn
 m.kankanwu.com
 m.kcai332.com
@@ -72924,6 +72943,7 @@ m.xuwm6.cn
 m.xw294.com
 m.xxkio.com
 m.xyadaa.com
+m.xyadxia.com
 m.xylmdm.top
 m.y195j.cn
 m.y5188yes.com
@@ -75639,6 +75659,7 @@ mibook-10006092.cos.myqcloud.com
 mibsooks.net
 mibugs.com
 mic-s.com
+mic.yun-pdm5000.cn
 mic188.com
 mic9.com
 mic99.com
@@ -76874,6 +76895,7 @@ mo.aaaw.xyz
 mo.alibdm.xyz
 mo.baidu.com
 mo.be
+mo.bigcooc.xyz
 mo.bigcooe.xyz
 mo.byjr899.top
 mo.c7b06j.cn
@@ -80034,6 +80056,7 @@ new.taobc.com
 new.traffic.ru
 new.ub8one.com
 new.users.51.la
+new.xiongzhangad.com
 new.y248.cc
 new.yokaunion.com
 new17write.com
@@ -80918,6 +80941,7 @@ nitter.pussthecat.org
 nitter.snopyta.org
 nitter.tedomum.net
 nitutu.com
+nityannoun.top
 niu.com
 niu.moe
 niu8pz.com
@@ -84741,6 +84765,7 @@ partner.cynapse.com
 partner.dasoertliche-marketing.de
 partner.dw.com
 partner.e-conomic.com
+partner.eviton.ru
 partner.gewinnspiele.de
 partner.googleadservices.com
 partner.loveplanet.ru
@@ -107384,6 +107409,7 @@ top888.com
 topacg.com
 topad.mobi
 topadvert.ru
+topapi.cp12.ott.cibntv.net
 topapi.cp12.wasu.tv
 topauto10.com
 topbeatsbydrdreoutlet.com
@@ -110275,6 +110301,7 @@ uagesspecifica.info
 uamobile.net
 uao-online.com
 uao.so
+uapi.ads.heytapmobi.com
 uapi.ads.oppomobile.com
 uarating.com
 uat1.bfsspadserver.8le8le.com
@@ -113446,6 +113473,7 @@ vizu.com
 vizury.com
 vizvaz.com
 vizzit.se
+vj.quanjingpay.com
 vj.tianji520.cn
 vj.x-ssp.com
 vj67.vkk79.com
@@ -118086,6 +118114,7 @@ wpx138.com
 wpxap.com
 wpyou.com
 wpzhiku.com
+wq.360buyimg.com
 wq19w.cn
 wq998.com
 wqbook.com
@@ -119519,6 +119548,7 @@ www.abie22.top
 www.abie23.top
 www.abie24.top
 www.abie25.top
+www.abie26.top
 www.ablen01.tk
 www.ablen03.tk
 www.ablen05.tk
@@ -123614,6 +123644,7 @@ www.torrentz.com
 www.totalav.com
 www.totuwo.com
 www.touclick.com
+www.toujing1.top
 www.toutiaoabc.com
 www.toutiaopage.com
 www.towervpn.com
@@ -125089,6 +125120,7 @@ xc-fc.com
 xc.08an.com
 xc.gdt.qq.com
 xc.macd.cn
+xc.xiyqjea.cn
 xc123.net
 xc16688.com
 xc18.cc
@@ -125344,6 +125376,7 @@ xfyun.com
 xfzhsf.com
 xfzx.org
 xg.g52bl.cn
+xg.tjwmtrw.cn
 xg.whsbpw.cn
 xg.zhlzdhr.cn
 xg084mgkfsfk.com
