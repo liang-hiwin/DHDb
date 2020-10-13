@@ -486,6 +486,7 @@
 12365chia.com
 12366ns.com
 1236890.com
+1239400.com
 123baofeng.com
 123buyu.com
 123buyu.net
@@ -2580,6 +2581,7 @@
 7667bab1751ff777.com
 7676.com
 76768hwj.cn
+7677wan.com
 768x60.gif
 769car.com
 76e.org
@@ -3711,6 +3713,7 @@ ad1.netshelter.net
 ad1.p5w.net
 ad1.xiaomi.com
 ad12345.com
+ad123m.com
 ad131m.com
 ad1data.com
 ad1rtb.com
@@ -5391,6 +5394,7 @@ assoc-amazon.cn
 assoc-amazon.es
 assoc-amazon.it
 associates-amazon.com
+assume8.com
 ast.mu722.com
 astbbs.com
 aster18cdn.nl
