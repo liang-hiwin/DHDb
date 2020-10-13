@@ -10397,7 +10397,6 @@ a-ssl.ligatus.com
 a-sta-cn.upltv.com
 a-static.com
 a-sy.com
-a.188jinbi.com
 a.19869.com
 a.198banjia.com
 a.1u2u3u4u.com
@@ -12308,7 +12307,6 @@ adjusts.info
 adjuz.com
 adjwl.com
 adk.funshion.com
-adk2.co
 adk2.com
 adk2.net
 adkeeker.com
@@ -14298,7 +14296,6 @@ aidanji.com
 aidata.io
 aidaxing.com
 aidaxue.com
-aidecn.cn
 aideep.com
 aidefence.org
 aider-res.meizu.com
