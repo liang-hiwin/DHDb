@@ -4980,7 +4980,6 @@ apcdns.com
 apcdns.net
 apcow.com
 apcugpxy.com
-apcupsdl.com
 apdcdn.com
 ape78cn2.com
 apearmark.online
@@ -16312,7 +16311,6 @@ huoxinglaike.com
 huoyan.io
 huoyanio.com
 huoyiad1.cn
-huoyiad2.cn
 huozw.com
 hupucdn.com
 huquan.net
@@ -20155,7 +20153,6 @@ ljrtb.cn
 ljucamkqc.com
 ljvwqird.com
 ljwdns-vip.com
-lk.4jzl.cn
 lkaty.com
 lkddksjgih.com
 lkf1.m.sanhao3.com
@@ -31600,7 +31597,6 @@ weilaithcdn.com
 weilang.site
 weilanliuxue.com
 weilongshipin.com
-weimeicar.cn
 weimeihuo.com
 weimeitu.cc
 weinixiong.cf
