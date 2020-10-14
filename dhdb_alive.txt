@@ -15047,6 +15047,7 @@ alisoft.com
 alisports.com
 alissl.ucdl.pp.uc.cn
 alistapart.com
+alistatic.cn
 alitchina.com
 alithefox.net
 alithon.com
@@ -20283,6 +20284,7 @@ bbs.morbell.com
 bbs.mychat.to
 bbs.omnitalk.org
 bbs.qoos.com
+bbs.search.nkwwnx.com
 bbs.sex169.org
 bbs.sex169.pw
 bbs.sex169.xyz
@@ -76058,6 +76060,7 @@ miner-16.team.nimiq.agency
 miner-18.team.nimiq.agency
 miner-19.team.nimiq.agency
 miner-2.team.nimiq.agency
+miner-3.team.nimiq.agency
 miner-5.team.nimiq.agency
 miner-6.team.nimiq.agency
 miner-deu-1.inf.nimiq.network
