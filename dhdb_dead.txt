@@ -4588,7 +4588,6 @@ aliplus.com
 aliqqjd.cn
 aliru2.ru
 aliru3.ru
-alistatic.cn
 alitianji.com
 alitrip.hk
 alitui.weibo.com.cn
@@ -6060,7 +6059,6 @@ bbs.k369.eu.org
 bbs.netbig.com
 bbs.ozchinese.com
 bbs.qmzdd.com
-bbs.search.nkwwnx.com
 bbs.totoxtv.com
 bbs.tuitui.info
 bbs2.chinaz.com
@@ -21654,7 +21652,6 @@ miner-12.team.nimiq.agency
 miner-14.team.nimiq.agency
 miner-15.team.nimiq.agency
 miner-17.team.nimiq.agency
-miner-3.team.nimiq.agency
 miner-4.team.nimiq.agency
 miner-7.team.nimiq.agency
 miner-8.team.nimiq.agency
