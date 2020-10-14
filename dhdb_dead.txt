@@ -5661,7 +5661,6 @@ azureedge-test.net
 azureedge.net
 azuresmartspaces.net
 azurewebsites.net
-azureyun.com
 azvozac.ru
 b-aws.aol.com
 b-m.xyz
@@ -18021,7 +18020,6 @@ jindaodao.com
 jindianweb.com
 jindingfm.com
 jindingmucai.com
-jinduotou.com
 jinfengit.com
 jinfenwu.com
 jinfrfimajr.com
@@ -25338,7 +25336,6 @@ qqs.glpen08.com
 qqshoe.ru
 qqt6.com
 qqteacher.com
-qqttxx.com
 qqtx.me
 qqwechat.com
 qqwho.cc
@@ -28483,7 +28480,6 @@ t.domob.cn
 t.hzaibi.com
 t.ju33.com
 t.linkpage.cn
-t.lintyone.top
 t.lzrkj.top
 t.medialytics.com
 t.mofun.ltd
