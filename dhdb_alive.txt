@@ -13535,6 +13535,7 @@ advertserve.com
 advertshot.ru
 advertstar.ru
 advertstream.com
+advertte.com
 adverttraf.com
 advertur.ru
 adverweb.ru
@@ -36043,6 +36044,7 @@ dblpmp.com
 dbmailserver.com
 dbmall.com
 dbmeinv.com
+dbnw.jyzmsy.com.cn
 dbojetp.cn
 dbooksbysecon.info
 dbr.ee
