@@ -7281,7 +7281,6 @@
 63jj.net
 63kc.com
 63kk.net
-63oo.net
 63pe.com
 63pic.com
 63pp.net
@@ -15043,9 +15042,7 @@ alipaylog.com
 alipayobjects.com
 aliqiche.com
 aliresearch.com
-aliru1.ru
 aliru4.ru
-aliru5.ru
 alishop7.ru
 alisinak.com
 alisoft.com
