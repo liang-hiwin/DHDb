@@ -31917,6 +31917,7 @@ colleable.info
 collect-test.arabam.com
 collect.blishtech.co
 collect.feefo.com
+collect.lngtd.com
 collect.ptengine.cn
 collect.rewardstyle.com
 collect.state.centrum24.pl
@@ -34971,6 +34972,7 @@ d3n3a4vl82t80h.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3ncat0syb6rim.cloudfront.net
 d3noqwmgo39at7.cloudfront.net
+d3nq5jrakcyw1w.cloudfront.net
 d3nvrqlo8rj1kw.cloudfront.net
 d3oep4gb91kpuv.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
@@ -57722,6 +57724,7 @@ hz.mmstat.com
 hz.shouyoutv.com
 hz1.lanmei80.com
 hz100msh.com
+hz3137.com
 hz8801.com
 hz8803.com
 hz8808.com
@@ -76082,6 +76085,7 @@ miner-2.team.nimiq.agency
 miner-3.team.nimiq.agency
 miner-5.team.nimiq.agency
 miner-6.team.nimiq.agency
+miner-8.team.nimiq.agency
 miner-9.team.nimiq.agency
 miner-deu-1.inf.nimiq.network
 miner-deu-2.inf.nimiq.network
@@ -83867,6 +83871,7 @@ oufengblog.com
 ouftukoo.net
 ougei.com
 oughaoxixcfe.com
+oughedear.club
 oughgoalityabo.info
 ouhegapy.net
 ouj.com
@@ -90628,6 +90633,7 @@ qqdie.com
 qqdna.com
 qqdswl.com
 qqdwz.com
+qqe.ihear123.com
 qqe2.com
 qqenglish.com
 qqeo.com
@@ -98073,6 +98079,7 @@ shsee.com
 shshilin.com
 shsihua.com
 shsipo.com
+shsistnovem.top
 shsixun.com
 shsjdkt.com
 shssp.org
