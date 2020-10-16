@@ -1000,7 +1000,6 @@
 22.dhcp.biz
 22.fartit.com
 22.gotgeeks.com
-22.now-ip.net
 22.otzo.com
 22.proxydns.com
 22.qingsongbar.com
@@ -10928,7 +10927,6 @@ demo.jointreport-switch.com
 demo.opera-mini.net
 demo.xinqcr.com
 demopage.me
-demoso.net
 denezhnyie-rucheyki.ru
 dengb.com
 dengfenzhang.cn
@@ -30949,7 +30947,6 @@ volt.ink
 volvo-truck.nl
 vonvthodzhxz.com
 voocl.com
-voodoo-analytics.io
 voowephu.net
 voqdswwgrheo.com
 voqkuiowjtkwgc.com
