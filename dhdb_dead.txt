@@ -1154,7 +1154,6 @@
 2d-c.cn
 2d7bd9e6eb370143.com
 2da2.ru
-2dee7f1db0d07.com
 2di.cc
 2e27bf1f09307aeb.com
 2g34.com
@@ -5064,7 +5063,6 @@ api.sumo.hashvault.pro
 api.sumokoin.hashvault.pro
 api.szmhxx.cn
 api.tinyhoneybee.com
-api.vasb.cn
 api.whizzone.com
 api.whysoserius.club
 api.xc17868.com

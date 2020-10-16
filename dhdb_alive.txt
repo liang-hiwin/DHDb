@@ -1049,7 +1049,6 @@
 1.lvshi567.com
 1.mgff.com
 1.mm100.com
-1.mobiuppedmedia.com
 1.modzj.net
 1.nanrenwo.net
 1.pncdn.cn
@@ -6755,7 +6754,6 @@
 58xiangka.com
 58xiao.cn
 58xinrui.com
-58xs.com
 58xs.la
 58xs.tw
 58xueche.com
@@ -12187,7 +12185,6 @@ adgoogle.net
 adgorithms.com
 adgoto.com
 adgreed.com
-adgroups.com
 adgrowmedia.com
 adgrx.com
 adguanggao.eee114.com
@@ -20390,7 +20387,6 @@ bcd.esprit.de
 bcdaren.com
 bcdy.net
 bcex.ca
-bcfabscdt.com
 bcfads.com
 bcfans.com
 bcfeedback.taobao.com
@@ -23705,7 +23701,6 @@ bo-videos.s3.amazonaws.com
 bo-yi.com
 bo.adcash.com
 bo.facesbet.com
-bo123g.com
 bo56.com
 bo92.ga
 bo92.ml
