@@ -119,6 +119,7 @@
 00cha.com
 00cha.net
 00ic.com
+00ksw.net
 00kuo.com
 00lewen.com
 00oo00.com
@@ -1289,6 +1290,7 @@
 104610.com
 1048yy.com
 105129.com
+105561.com
 105a.com
 106.com
 106666.cc
@@ -3313,6 +3315,7 @@
 23zhuiju.com
 24.2waky.com
 24.dns2.us
+24.now-ip.net
 24.ns02.biz
 24.slyip.net
 240yx.com
@@ -72493,6 +72496,7 @@ m.1314sss.top
 m.1680380.com
 m.168ey.com
 m.169bj.cn
+m.181mob.com
 m.188live.net
 m.188y188.com
 m.1eighty8.com
@@ -76144,6 +76148,7 @@ mineplugin.org
 miner-1.team.nimiq.agency
 miner-10.team.nimiq.agency
 miner-11.team.nimiq.agency
+miner-12.team.nimiq.agency
 miner-13.team.nimiq.agency
 miner-16.team.nimiq.agency
 miner-18.team.nimiq.agency
@@ -92750,6 +92755,7 @@ reprak.com
 reprenees.club
 representativeskipcloudy.com
 represented.cn
+represiderp.top
 reprocautious.com
 repruggob.com
 repsils.no
