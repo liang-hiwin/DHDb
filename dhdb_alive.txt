@@ -9911,6 +9911,7 @@
 98198c.com
 98198d.com
 98198e.com
+98198h.com
 98198k.com
 98198l.com
 98198o.com
@@ -11700,6 +11701,7 @@ ad.pixnet.net
 ad.player.baidu.com
 ad.plus-a.net
 ad.pornimg.xyz
+ad.pr.ameba.jp
 ad.prismamediadigital.com
 ad.propellerads.com
 ad.pt.doubleclick.net
@@ -16832,6 +16834,7 @@ api.union.vip.com
 api.uniplayad.com
 api.unthem.com
 api.userstyles.org
+api.vasb.cn
 api.viaxmr.com
 api.viglink.com
 api.vitservers.pw
@@ -43026,6 +43029,7 @@ estionexperime.info
 estoopsi.com
 estory365.com
 estrack.net
+estranched.top
 estream.to
 estream.xyz
 estrongs.com
