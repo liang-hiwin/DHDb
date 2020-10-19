@@ -3308,6 +3308,7 @@ a-counter.com.ua
 a-counter.kiev.ua
 a-dxk.play.api.3g.youku.com
 a-mo.net
+a.198banjia.com
 a.779.net
 a.7baike.com
 a.adk2x.com
@@ -5573,6 +5574,7 @@ avrvi.com
 avsmt.cn
 avtb388.com
 avtiaozhuan.com
+aw2345.com
 aw99.com
 awaker.hk
 awaker.net
@@ -9026,6 +9028,7 @@ cname-url.com
 cname.beeppool.org
 cname.co
 cnantennas.com
+cnbarnfxq.com
 cnberg.com
 cnbigcloud.com
 cnbiocell.com
@@ -19569,6 +19572,7 @@ ladicdn.com
 ladipage.net
 ladsbrown.com
 ladsp.com
+ladsp.jp
 lady361.com
 lady98.com
 ladytizer.org
