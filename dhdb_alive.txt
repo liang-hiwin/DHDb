@@ -16923,7 +16923,6 @@ api.youtu.qq.com
 api.youxiaoad.com
 api.youzu.com
 api.yuedu.iqiyi.com
-api.zdqp11.com
 api.zol.com
 api0.dating.com
 api0.tuisong.baidu.com
