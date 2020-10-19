@@ -5062,6 +5062,7 @@
 42842810.com
 42842812.com
 42842813.com
+42842814.com
 42842815.com
 42842823.com
 42842824.com
@@ -15046,6 +15047,7 @@ ali-stats.jpush.cn
 ali.delbertbeta.cc
 ali213.com
 ali213.net
+ali727.com
 aliadvert.ru
 alianhome.com
 aliasgos.top
@@ -56839,6 +56841,7 @@ hsr2013.com
 hssdtest.com
 hsselite.com
 hssemi.com
+hssenglish.com
 hssjyj.com
 hsslx.com
 hssxhd.com
@@ -70609,6 +70612,7 @@ linuxeye.com
 linuxfly.org
 linuxfoundation.org
 linuxfromscratch.org
+linuxgem.org
 linuxgogo.com
 linuxhobby.com
 linuxhub.org
@@ -99576,6 +99580,7 @@ sixflower.com
 sixgen.cn
 sixianchina.com
 sixiang.im
+sixiangguo.net
 sixloamsob.com
 sixpcgame.com
 sixqq.com
@@ -105075,6 +105080,7 @@ taigongwl.com
 taiguoyu.com
 taihaikj.com
 taihainet.com
+taihangco.com
 taihanghotel.com
 taihe.com
 taihe2002.cn
@@ -136285,6 +136291,7 @@ zzx.dnsmail.xyz
 zzx.healthsection.xyz
 zzxdc.com
 zzxw.net
+zzxy.net
 zzy.mipujia.com
 zzy.namedns.xyz
 zzy.quyaoya.com
