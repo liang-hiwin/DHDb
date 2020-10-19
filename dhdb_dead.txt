@@ -2936,6 +2936,7 @@
 8v61j.cn
 8v7wg.com
 8wdns.com
+8xxapp.com
 8y7th.cn
 8zr4g.cn
 8zy.com
@@ -3154,6 +3155,7 @@
 98198k.com
 98198o.com
 98198p.com
+98198u.com
 9831.com
 98523.com
 9856.com
@@ -4711,6 +4713,7 @@ alookql.com
 alpha-star.org
 alpha.nimiqpool.com
 alpha.telemetry.microsoft.com
+alpha.torrenttracker.nl
 alpha3.beeppool.org
 alpha5.beeppool.org
 alphagodaddy.com
@@ -6745,6 +6748,7 @@ blockbuf.com
 blockchain.jsecoin.com
 blockchained.party
 blockcn.com
+blockmetrics.com
 blockob.com
 blockplus.xyz
 blog-o-rama.de
