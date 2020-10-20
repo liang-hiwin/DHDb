@@ -5068,6 +5068,7 @@ api.g2.junfull.com
 api.gzxiongwa.cn
 api.huo360.com
 api.intense.hashvault.pro
+api.inwemo.com
 api.joybj.com
 api.jsecoin.com
 api.jsfc8.cn
@@ -5105,6 +5106,7 @@ apiafubb.com
 apiairasia.com
 apicvn.com
 apidocs.linksalpha.com
+apin.monerise.com
 apinglai.com
 apirelay.ru
 apistaging.airpush.com
@@ -5539,6 +5541,7 @@ ausuu.com
 authedmine.com
 authedmine.eu
 authorinsights.com
+auto.monerise.com
 auto000.com
 auto333.com
 autoairfl.com
