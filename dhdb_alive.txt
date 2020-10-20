@@ -2471,7 +2471,6 @@
 188hi.com
 188information.com
 188information.net
-188let.com
 188mb.com
 188play.com
 188seo.com
@@ -32036,7 +32035,6 @@ coinhive.org
 coinhiveproxy.com
 coinhiver.com
 coinhives.com
-coinhub.win
 coinimp.com
 coinimp.net
 coinive.com
