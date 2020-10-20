@@ -1622,6 +1622,7 @@
 41717.net
 417c76f52b0.com
 41df76c67812005c.com
+41ef19c0f0794e058c.com
 41game.com
 41gw.com
 41msl.cn
@@ -5696,6 +5697,7 @@ azureedge.net
 azuresmartspaces.net
 azurewebsites.net
 azvozac.ru
+azxsd.pro
 b-aws.aol.com
 b-m.xyz
 b.16vcd.com
@@ -34402,6 +34404,7 @@ xn--18225-zta.biz
 xn--20531-uua.biz
 xn--2qu96gouvko1a.com
 xn--2quz8f01ak10c.shop
+xn--3bs795g.zone
 xn--fiq681d48s.org
 xn--gmq47mhv2c.cc
 xn--gtv651d.com
