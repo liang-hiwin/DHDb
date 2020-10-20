@@ -16838,7 +16838,6 @@ api.iimedia.cn
 api.ijunhai.com
 api.imapbuilder.net
 api.instabug.com
-api.inwemo.com
 api.ip.sb
 api.iplay.163.com
 api.itaoxiaoshuo.com
@@ -16987,7 +16986,6 @@ apihk.growingio.com
 apihub.icu
 apilog.app.acfun.cn
 apimall.dataoke.com
-apin.monerise.com
 apinas.nct.vn
 apionloadmedia.com
 apipool.youzu.com
@@ -18614,7 +18612,6 @@ auto-made.com
 auto-mooc.com
 auto-ping.com
 auto-wo.com
-auto.monerise.com
 auto0391.com
 auto18.com
 auto318.com
