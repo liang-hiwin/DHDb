@@ -2508,7 +2508,6 @@
 18caijing.com
 18ccc.tv
 18chonglou.com
-18clicks.com
 18comic.biz
 18comic.cc
 18comic.cool
@@ -2753,7 +2752,6 @@
 1mao.cc
 1maode.com
 1mayi.com
-1meiyiliao.com
 1mfc.com
 1mfg.com
 1miba.com
@@ -14647,7 +14645,6 @@ airstossiplarge.info
 airsupportapp.com
 airtable.com
 airtofly.com
-airtoump.com
 airtu.com
 airtunes.com
 airtunes.info
@@ -16731,7 +16728,6 @@ api.11h5.com
 api.140proof.com
 api.186078.com
 api.22lianmeng.com
-api.24kidea.com
 api.557400.com
 api.a5188yes.com
 api.ad-locus.com
@@ -31889,7 +31885,6 @@ codeisbug.com
 codeish.co
 codeish.io
 codejie.net
-codejumps.com
 codekissyoung.com
 codekk.com
 codeku.me
@@ -32619,7 +32614,6 @@ cookie-accept.com
 cookie-matching.mediarithmics.com
 cookie-script.com
 cookie.aerostatonet.it
-cookie.fuel451.com
 cookie.gazeta.pl
 cookie.support
 cookie.vrt.be
