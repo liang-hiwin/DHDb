@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Current Version: 1.2.0
+# Current Version: 1.2.1
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/DHDb.git" && chmod 0777 ./DHDb/release.sh && bash ./DHDb/release.sh
+# git clone "https://github.com/hezhijie0327/DHDb.git" && bash ./DHDb/release.sh
 
 ## Function
 # Get Data
