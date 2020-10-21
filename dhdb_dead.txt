@@ -367,7 +367,6 @@
 101wan.com
 1024.ink
 1024mzs.pw
-1024tvqrweb.com
 1026rc.com
 102pay.com
 103376.com
@@ -715,7 +714,6 @@
 17dao.com
 17hds.com
 17heli.com
-17house.com
 17hpl.com
 17kgl.com
 17kuxun.com
@@ -8469,7 +8467,6 @@ chinalm.org
 chinaluxus.com
 chinamags.org
 chinamca.com
-chinameat.org
 chinametro.net
 chinamobilesz.com
 chinamost.net
