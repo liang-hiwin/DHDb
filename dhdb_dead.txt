@@ -4001,6 +4001,7 @@ adsbc.pp.ua
 adscampaign.net
 adscdn.baidu.cn
 adsclick.yx.js.cn
+adscpm.site
 adsdk.com
 adsearch.appx.91.com
 adselector.ru
@@ -7009,6 +7010,7 @@ bq233.com
 bqbkoyasur.com
 bqhnj.cn
 bqimg.com
+bqkwq.icu
 bqntkevvmkk.com
 bqqnngtpc.com
 bqruan.com
