@@ -3137,6 +3137,7 @@
 96ni.net
 96pk.com
 96plus.com
+96zxue.com
 973618.com
 975tij.vip
 9767a959187.com
@@ -17830,6 +17831,7 @@ jdcdn.com
 jdcloud-api.com
 jdcloudcache.com
 jdcloudcs.com
+jdcloudstatic.net
 jdcloudwaf.com
 jdcq.net
 jddapeigou.com
@@ -19680,6 +19682,7 @@ laoduo.net
 laofu.online
 laogu.cc
 laogu.wang
+laohuyou.xyz
 laojianwang.com
 laonanren.com
 laoniushuju.com
@@ -19893,6 +19896,7 @@ lezhi.me
 lezhieducation.com
 lezhiweilai.com
 lezhuan365.com
+lf127.net
 lfcepgb.cn
 lfd-media.ru
 lfengw.com
@@ -25435,6 +25439,7 @@ qskmkllcnoku.com
 qsksdpoi.com
 qslmeng.cn
 qslychhjeo.com
+qsmyhsg.vip
 qsove.com
 qspfwadmin.com
 qstatic.com
@@ -27699,6 +27704,7 @@ sod.co.jp
 sodu.cc
 sodud.com
 soejklzlwnj.com
+soeol.com
 soft10.com
 soft128.com
 soft778.com
@@ -30101,6 +30107,7 @@ ugojp.com
 ugqdykbxe.com
 ugslb.com
 ugslb.info
+ugslb.net
 ugtest.gtasia777.com
 ugubl.net
 ugyuyuccjgrtht.com
@@ -31364,6 +31371,7 @@ wangluoliuxing.com
 wangluomeirongyuan.com
 wangmeng.baidu.cn
 wangmeng.sogou.com
+wangpengcufe.com
 wangpu365.com
 wangqi.com
 wangqing7.top
