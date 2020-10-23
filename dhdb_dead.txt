@@ -5045,7 +5045,6 @@ api-etn.beeppool.org
 api-zdj.com
 api.1beb2a44.space
 api.1q8h.cn
-api.24kidea.com
 api.300ca0d0.space
 api.310ca263.space
 api.320ca3f6.space
@@ -5720,7 +5719,6 @@ b-m.xyz
 b.16vcd.com
 b.1istochnik.ru
 b.9dreams.net
-b.a0trade.top
 b.apzeyu.com
 b.cowoo.win
 b.cyone.com.cn
@@ -9112,7 +9110,6 @@ cnhoney.com
 cnhqzb-wx.com
 cnhsjz.com
 cnhuadong.net
-cnhubei.com
 cnhv.co
 cni58.com
 cnineu.com
@@ -16139,7 +16136,6 @@ hsadspixel.net
 hsakyy.com
 hsboss.com
 hsbrhnkgkx.com
-hsbsimu.com
 hscta.net
 hsdatalab.com
 hsforms.com
