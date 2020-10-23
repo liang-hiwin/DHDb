@@ -1422,7 +1422,6 @@
 365pub.com
 365safego.com
 365sky.com
-365syt.cn
 365tex.com
 365ub.com
 365wenku.com
@@ -2053,7 +2052,6 @@
 52qqba.com
 52qumao.com
 52shouyou.com.cn
-52shouyu.com
 52ssr.cn
 52tansuo.net
 52taotaotui.com
@@ -25380,7 +25378,6 @@ qqhaoniu.com
 qqjia.com
 qqjishu.cc
 qqjjsj.com
-qqjmbj.com
 qqjyo.com
 qqkxrlzaaul.com
 qqleju.com
