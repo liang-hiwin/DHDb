@@ -3540,7 +3540,6 @@ ab-gb.mgid.com
 ab.goodsblock.mgid.com
 ab.sc115.com
 ab.sspsky.com
-ab11s.com
 ab44.pw
 ab4tn.com
 ab74.com
@@ -5125,7 +5124,6 @@ apiafubb.com
 apiairasia.com
 apicvn.com
 apidocs.linksalpha.com
-apin.monerise.com
 apinglai.com
 apirelay.ru
 apistaging.airpush.com
@@ -5477,7 +5475,6 @@ at-o.net
 at02.beeppool.org
 at1.qingdou.net
 ata-edu.com
-ata-test.net
 atacchina.com
 atacjnqbkok.com
 atamjanebyl.biz
@@ -13808,7 +13805,6 @@ fswinrje.com
 fswl66.com
 fsxkporoe.com
 fsysb.com
-fsyuedu.com
 ft.fartit.com
 ft.pnop.com
 ft76531.com
@@ -22151,7 +22147,6 @@ ms.kity.pw
 ms.qaqact.cn
 ms3388.com
 ms52.ml
-ms758.com
 msa-it.org
 msads.net
 msauth.net
@@ -28888,7 +28883,6 @@ testnet.jsecoin.com
 testnet.nimiqpool.com
 testroad.org
 testself.vip
-teto.cc
 teueondocabsu.com
 teutorigos-cat.com
 text-ad.kuaibo.com
