@@ -3169,7 +3169,6 @@
 98.serveftp.com
 980cje.com
 980he.cn
-98198o.com
 9831.com
 98523.com
 9856.com
@@ -5857,7 +5856,6 @@ baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
 baidu-wenxue.com
 baidu.cc
-baidu.cm
 baidu.cmxsw.com
 baidu.dengzhoull.com
 baidu.ehrenreich.ca
@@ -31111,7 +31109,6 @@ vtepai.com
 vtepai.net
 vtest.api.amgmedia.cn
 vtfdfdldethe.com
-vtgcvsmzxiyoz.com
 vtgdjgtwl.com
 vtibet.com
 vtoov.com
