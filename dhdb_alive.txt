@@ -9439,6 +9439,7 @@
 91dba.com
 91dbb.com
 91ddcc.com
+91ddedu.com
 91dena.com
 91dict.com
 91display.com
@@ -36842,6 +36843,7 @@ demkc32bq01ah.cloudfront.net
 demo.adsame.com
 demo.ai4t.com
 demo.ihs-novation.com
+demo.jointreport-switch.com
 demo.nimiq.com
 demo.rhombusads.com
 demo.stickyadstv.com
@@ -46143,6 +46145,7 @@ finishinfo.no
 finishinfo.se
 finishkilpailu.fi
 finishwin.be
+finistentcou.top
 finitiesstaffec.top
 finized.co
 finlayliu.com
@@ -95401,6 +95404,7 @@ s2.leshi123.cc
 s2.mingmingtehui.com
 s2.mzstatic.com
 s2.play.estream.to
+s2.play.estream.xyz
 s2.play.vidzi.tv
 s2.play1.videos.videos.vidto.me
 s2.play1.videos.vidto.me
@@ -95692,6 +95696,7 @@ sadv.dadapro.com
 sae-china.org
 saebbs.com
 safasti.com
+safe-aisle.jointreport-switch.com
 safe-click.net
 safe-inet.com
 safe-store-md.com
