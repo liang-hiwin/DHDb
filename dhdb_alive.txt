@@ -17072,6 +17072,7 @@ app-ab37.marketo.com
 app-ad.variflight.com
 app-adforce.jp
 app-analytics-cn.huami.com
+app-analytics-v2.snapchat.com
 app-analytics.huami.com
 app-dynamics.com
 app-echo.com
@@ -21735,6 +21736,7 @@ bg9ugav5tik0mbh7n9ca.pro
 bgadx.com
 bgbk.org
 bgc999.com
+bgclck.me
 bgcse.cn
 bgctv.com
 bgdeco.com
@@ -55837,6 +55839,7 @@ hlxsykd.com
 hlxxq.com
 hly.com
 hlybar.com
+hlykwstrvxa.com
 hlytec.com
 hlyy.in
 hlzad.com
@@ -56386,6 +56389,7 @@ hosillfir.site
 hosizoraworks.org
 hosoojat.net
 hospitality-optimizer.com
+hospitecor.top
 hospitecrew.club
 hospmall.com
 host-host-ads.com
@@ -90216,6 +90220,7 @@ pythontab.com
 pytorch.org
 pytorchtutorial.com
 pyxjiang.com
+pyxjwks.com
 pyxk.com
 pyydhg.com
 pyyx.com
@@ -109106,6 +109111,7 @@ track.mp3vizor.com
 track.mycliplister.com
 track.mypcbackup.com
 track.netzero.net
+track.nifty.com
 track.ning.com
 track.noddus.com
 track.noz.de
