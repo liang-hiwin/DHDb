@@ -6165,7 +6165,6 @@
 52blackberry.com
 52bookshop.com
 52bqg.com
-52bss.com
 52bus.com
 52cake.net
 52ch.net
@@ -17473,7 +17472,6 @@ appn.center
 appnext-a.akamaihd.net
 appnext.com
 appnext.hs.llnwd.net
-appnimc.com
 appnode.com
 appnz.com
 appodeal.com
@@ -27698,7 +27696,6 @@ cdunu.com
 cdw.com
 cdweikebaba.com
 cdworking.com
-cdxnzs.com
 cdxrdz.com
 cdxsbdz.com
 cdxwcx.com
@@ -29476,7 +29473,6 @@ chineseafs.org
 chineseall.com
 chinesean.com
 chinesearchery.cc
-chineseboating.com
 chinesecio.com
 chineseculture.about.com
 chinesedaily.com
