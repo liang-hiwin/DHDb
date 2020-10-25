@@ -23,6 +23,7 @@
 0013.cc
 001455.com
 001717.com
+001bank.com
 001cndc.com
 001daima.com
 001en.com
@@ -4675,6 +4676,7 @@
 3avox.com
 3b0b68c876376f7311.com
 3b26cbed75120f.com
+3b9eb5ed04721bef.com
 3ba87e4828c5a95.com
 3baidu.net
 3boys2girls.com
@@ -9665,6 +9667,7 @@
 93966.com
 93aihbjs7bv4.com
 93bok.com
+93c8c9a28e1db445.com
 93cg.com
 93jiang.com
 93ku.com
@@ -17637,6 +17640,7 @@ aqueck.com
 aquete.com
 aquilacoop.de
 aqumon.com
+aqv28.com
 aqw.quanliyouxi.cn
 aqyzm.com
 aqzpw.com
@@ -18375,6 +18379,7 @@ att.net
 att.stargame.com
 att.tv
 att1999.com
+attach.s8bbs.com
 attacketslovern.info
 attacketsun.space
 attackscabbagevengeance.com
@@ -19151,6 +19156,7 @@ b1.b2b168.com
 b1.b2b168.net
 b1.baomihua.com
 b1.c1km4.com
+b1.fengdu100.com
 b1.xiao84.com
 b10f.jp
 b1106.com
@@ -22720,6 +22726,7 @@ bjssqt.com
 bjsubway.com
 bjsudai.com
 bjsuewin.com
+bjsupor.com
 bjswds.org
 bjsxt.com
 bjszhd.net
@@ -24758,6 +24765,7 @@ btr.domywife.com
 btrace.play.aiseet.atianqi.com
 btrace.qq.com
 btrace.video.qq.com
+btracker.top
 btrend.amassly.com
 btrenren.com
 bts.hk
@@ -30128,6 +30136,7 @@ ciznx.com
 cj-cy.com
 cj-elec.com
 cj.qidian.com
+cj0968.com
 cj1.256.cc
 cj1158.com
 cjavapy.com
@@ -32001,6 +32010,7 @@ coingive.com
 coingogo.com
 coinhits.com
 coinhive-proxy-renxoslote.now.sh
+coinhive.info
 coinhive.net
 coinhive.org
 coinhiveproxy.com
@@ -44892,6 +44902,7 @@ fanlicome.com
 fanligame.com
 fanlihe.com
 fanlijinfu.com
+fanlika.com
 fanlimofang.com
 fanlisaas.com
 fanlitou.com
