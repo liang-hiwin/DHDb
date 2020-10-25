@@ -3016,7 +3016,6 @@
 2110000.com
 2114.com
 2115.com
-211509.com
 211600.com
 211ic.com
 211lx.com
@@ -20551,7 +20550,6 @@ bd1.52che.com
 bd1.99danji.com
 bd1.click.com.cn
 bd1.dopa.com
-bd1.fengdu100.com
 bd1.flfgw.cn
 bd1.guancha.cn
 bd1.idgdmg.com.cn
