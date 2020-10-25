@@ -33829,6 +33829,7 @@ csgm168.com
 csgolounge.com
 csgorollx.com
 csgpc.org
+csgtfruit.com
 csgwbn.com
 csh.ro
 csharpvideoluders.com
@@ -60406,6 +60407,7 @@ in.jghcy.com
 in.jinlubaojie.cn
 in.jxhcyc.com
 in.ml314.com
+in.mxmrt.com
 in.ndtzx.com
 in.pomhz.com
 in.qzkxt.com
@@ -76075,6 +76077,7 @@ metrics.bangbros.com
 metrics.brightcove.com
 metrics.cbn.com
 metrics.cbslocal.com
+metrics.claspws.tv
 metrics.cnn.com
 metrics.coccoc.com
 metrics.ctvdigital.net
@@ -100449,6 +100452,7 @@ smeoa.com
 smesun.com
 smetrics.att.com
 smetrics.centurylink.com
+smetrics.cnn.com
 smetrics.delta.com
 smetrics.marriott.com
 smetrics.nfl.com
@@ -107859,6 +107863,7 @@ tisohinge.com
 tisoomi-services.com
 tisref.com
 tissage-extension.com
+tistianmaga.top
 tistory.com
 tita.com
 titag.com
