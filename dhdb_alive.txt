@@ -11116,6 +11116,7 @@ abt.etherscan.com
 abtest-ch.snssdk.com
 abtest.alibaba.com
 abtest.swrve.com
+abthink.com
 abto.cc
 abtrcking.com
 abtshield.com
@@ -24058,6 +24059,7 @@ bookmybridgestonetyre.com
 bookoffonline.co.jp
 bookofsex.com
 bookresource.net
+books.apple.com
 books.com.tw
 books.enlighten.org.tw
 books51.com
@@ -32242,6 +32244,7 @@ communicatoremail.com
 communicatte.com
 communistcrimes.org
 communited.club
+communities.apple.com
 communits.club
 community.cms.gclick.cn
 community.windy.com
@@ -33835,6 +33838,7 @@ cshlgg.com
 cshnkj.com
 cshxdc.com
 cshzw.com
+csi-china.l.google.com
 csi.gstatic.com
 csiaexpo.com
 csic-ljtech.com
@@ -37920,6 +37924,7 @@ discreetmilf.com
 discuss.com.hk
 discuss4u.com
 discussiab.club
+discussionschinese.apple.com
 discussneatglobe.com
 discuz.chat
 discuz.com
@@ -45946,6 +45951,7 @@ fictimruffles.space
 ficusoid.xyz
 fidding.me
 fiddle.jshell.net
+fides-pol.apple.com
 fides.org
 fiechaev.com
 fiedinherite.top
@@ -50852,6 +50858,7 @@ goframe.org
 gofundme.com
 gog.com
 gog.qtlglb.com
+gogalaxy.gog-statics.com
 goge365-baidu.com
 gogetlinks.net
 goggle.com
@@ -52037,12 +52044,15 @@ gsp4-cn.ls.apple.com
 gsp4-cn.ls.apple.com.edgekey.net
 gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 gsp5-cn.ls.apple.com
+gspe11-2-cn-ssl.ls.apple.com
+gspe12-cn-ssl.ls.apple.com
 gspe19-cn-ssl.ls.apple.com
 gspe19-cn.ls-apple.com.akadns.net
 gspe19-cn.ls.apple.com
 gspe21-ssl.ls.apple.com
 gspe21.ls.apple.com
 gspe35-ssl.ls.apple.com
+gspe85-cn-ssl.ls.apple.com
 gspz8.com
 gsqx.com
 gsrc.io
@@ -74623,6 +74633,7 @@ mapmyuser.com
 mapp.qzone.qq.com
 mapping.adsame.com
 mapping.yoyi.com.cn
+maps.apple.com
 maps.goggle.com
 maps.google.co.th
 maps.google.com.com
@@ -75960,6 +75971,7 @@ mentredu.top
 mentsundert.club
 mentvocacy.fun
 menu-live.firebaseio.com
+menu-static.gog-statics.com
 menuexamples.com
 menuladshy.life
 menvscode.com
@@ -87593,6 +87605,7 @@ pketred.com
 pkgklk.com
 pkhhyool.com
 pkhxg.com
+pki-goog.l.google.com
 pki.goog
 pklaowdpzwflvr.com
 pklmtj.work
@@ -89047,6 +89060,7 @@ prodrive-japan.com
 prodtraff.com
 producebreed.com
 product1.djicdn.com
+productcard.gog-statics.com
 production-mcs.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
 productivepear.com
@@ -97129,6 +97143,7 @@ secure.dsp.com
 secure.fastclick.net
 secure.footprint.net
 secure.free-signal.com
+secure.globalsign.com
 secure.hustler.com
 secure.ifbyphone.com
 secure.iqmining.com
@@ -102711,6 +102726,7 @@ static-cdn1.ustream.tv
 static-cn.plista.com
 static-cnt.bid
 static-exp1.licdn.com
+static-login.gog-statics.com
 static-net.nut.cc
 static-sb.com
 static-ssl.mediav.com
@@ -103278,6 +103294,7 @@ stocker.bonnint.net
 stockhn.com
 stockportnsg.co.uk
 stocks-sparkline-lb.apple.com.akadns.net
+stocks-sparkline.apple.com
 stocksbsc.com
 stockstar.com
 stockwei.com
@@ -112564,6 +112581,7 @@ upjav.cc
 upjav.org
 upkao.com
 uplay.com
+uplaypc-s-ubisoft.cdn.ubi.com
 upliftsearch.com
 uplinq.com
 uplinux.com
@@ -116766,6 +116784,7 @@ wearesaudis.net
 wearn.com
 weartrends.com
 weasing.com
+weather-data.apple.com
 weather.com.hk
 weatherdt.com
 weatherent.club
@@ -126160,6 +126179,7 @@ www302jy.com
 www35.glam.com
 www37430.com
 www38.eyny.com
+www4-static.gog-statics.com
 www4.casinoriva.com
 www4.djicdn.com
 www4.smartadserver.com
