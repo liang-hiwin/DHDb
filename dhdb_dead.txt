@@ -3483,7 +3483,6 @@ a52.privatedns.org
 a5e04df959f1af34.com
 a6.bjdianyue.com
 a6.chaojilamei.cn
-a6.codejumps.com
 a6.hn985.com
 a6.hujiang.com
 a6262.com
@@ -10817,7 +10816,6 @@ data.waptime.cn
 data.xici.net
 datacoral.io
 datadragon.net
-datafastguru.info
 datang.com
 dataodu.com
 dataprajna.net
@@ -17462,7 +17460,6 @@ iqoakacwvzrp.com
 iqsoh.ru
 iqtewa.ru
 iquyclpvbx.com
-iqwrmwssizr.com
 iqycamp.com
 iqyirwfzlx.com
 iqyxvcqns.com
