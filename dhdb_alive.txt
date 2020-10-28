@@ -14613,7 +14613,6 @@ air2s.com
 airairgu.com
 airasia-firebase.firebaseio.com
 airasia.com
-airav.asia
 airav.cc
 airav.city
 airav.co
@@ -22109,7 +22108,6 @@ biligame.com
 bilimoe.com
 bilin.net
 bilingling.com
-bilink.xyz
 bilinstar.com
 bilitycarrone.club
 bilive.com
@@ -31016,7 +31014,6 @@ cmp.dreamlab.pl
 cmp.greenbot.com
 cmp.hku.hk
 cmp.idg.pl
-cmp.idginsiderpro.com
 cmp.infopro-digital.com
 cmp.infoworld.com
 cmp.internetstandard.pl
