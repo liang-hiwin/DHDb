@@ -2017,6 +2017,7 @@
 51zupu.com
 51zzmx.com
 52.onmypc.net
+52.www1.biz
 520.com
 520.net
 52004.net
@@ -4775,6 +4776,7 @@ alnera.eu
 alnsvbmp.com
 alog.umeng.co
 aloha-ukulele.com
+aloissentence.pro
 alookql.com
 alpha-star.org
 alpha.nimiqpool.com
@@ -6615,6 +6617,7 @@ bim-times.com
 bin40.com
 binalbamp.com
 binance.cloud
+binancezh.com
 binaryad.com
 bind2.com
 binfen.tv
@@ -7764,6 +7767,7 @@ catv.net
 cav-ad.com
 cavca.org
 cavcz.com
+cavyg.com
 cawae.net
 caxiqapecuop.com
 cayanfang.com
@@ -19060,6 +19064,7 @@ keycodns.com
 keydot.net
 keymaris.com
 keyray-hk.com
+keyrun.cn
 keyrun.com
 keyti.ru
 keytui.com
