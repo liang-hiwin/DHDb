@@ -12079,7 +12079,6 @@ adclick.tencentmusic.com
 adclickafrica.com
 adclickmedia.com
 adclicks.io
-adclickservice.com
 adclickxpress.com
 adclient.uimserv.net
 adclient.vietnamnetjsc.vn
@@ -17058,7 +17057,6 @@ apkyx.com
 apkzu.com
 apl.headlines.pw
 aplan.tv
-aplay.wan.panda.tv
 aple.com
 aplestore.com
 aplleipods.com
