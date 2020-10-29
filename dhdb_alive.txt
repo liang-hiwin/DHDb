@@ -6292,7 +6292,6 @@
 52shici.com
 52shijing.com
 52shipping.com
-52shouyou.com.cn
 52shouyu.com
 52shuxue.com
 52soji.com
@@ -14066,7 +14065,6 @@ afrikad.com
 afs.googlesyndication.com
 afsanalytics.com
 afshanghai.org
-afshanthough.pro
 afssdmin.com
 aft1v1.com
 aft888.com
