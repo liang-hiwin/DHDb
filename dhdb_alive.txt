@@ -2898,7 +2898,6 @@
 2000dns.com
 2000fun.com
 2000new.com
-2000yl.com
 2002000.xyz
 200218.com
 2003dns.com
@@ -14944,7 +14943,6 @@ akomr.com
 akow.org
 akppt.net
 akq.ee
-akq67.com
 akr-developers.com
 akrazappi.com
 akriluss.cl
