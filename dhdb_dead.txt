@@ -1951,6 +1951,7 @@
 51la.net
 51ldb.com
 51ldzx.com
+51lenovo.com
 51lg.com
 51lifes.com
 51lunwen.net
@@ -2202,6 +2203,7 @@
 58mingri.cn
 58mingtian.cn
 58scx.com
+58taopinhui.com
 58xmgys.com
 58xszz.com
 58xuechewang.com
@@ -4694,6 +4696,7 @@ alistatic.cn
 alitianji.com
 alitrip.hk
 alitui.weibo.com.cn
+alitx963.com
 aliued.com
 aliunion.cn.yahoo.com
 alivar.com.vn
@@ -5641,6 +5644,7 @@ auxml.com
 av-ic.com
 av.app583.com
 av.movie
+av.u5m4.cn
 av001.com
 av380.net
 avaaz.com
@@ -18214,6 +18218,7 @@ jitongtianxia.com
 jitvspfwwmzcu.com
 jiu.njdkgm.com
 jiuaixianzhi.mobi
+jiudiandyw.com
 jiudianhudong.com
 jiudianjiu.com
 jiudingcapital.com
@@ -29496,6 +29501,7 @@ tracking.rce.veeseo.com
 tracking.redirect.pub
 tracking.viewster.com
 tracking.vitringez.com
+tracking.vtc.vn
 tracking100.com
 tracking11.com
 trackpush.com
@@ -29978,6 +29984,7 @@ u.xogu.cn
 u.yizuya.com
 u005.com
 u034024.778669.com
+u05m.cn
 u17i.com
 u17t.com
 u193.com
