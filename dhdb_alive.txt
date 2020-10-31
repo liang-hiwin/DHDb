@@ -7741,7 +7741,6 @@
 6parkbbs.com
 6parker.com
 6parknews.com
-6pdd2.cn
 6ped2nd3yp.com
 6pifa.net
 6pmcn.com
@@ -14351,7 +14350,6 @@ ai9475.com
 aiadvi.com
 aiaisz.xyz
 aiaiu.com
-aiallin.com
 aiaor.com
 aib588.com
 aiba.com
@@ -16886,7 +16884,6 @@ api.newad.ifeng.com
 api.newsfeed.intl.miui.com
 api.no4book.com
 api.nobeta.com.br
-api.oneaudience.com
 api.oneyuan.nagezan.net
 api.open.uc.cn
 api.ott.pm
