@@ -2509,6 +2509,7 @@
 6o87d.cn
 6ou47b.cn
 6ow9rhxtolls.gq
+6pdd2.cn
 6plat.org
 6play.net
 6qjft.iikll.cn
@@ -4386,6 +4387,7 @@ ai012.com
 aiagain.com
 aiagain.net
 aiai6.com
+aiallin.com
 aibantian.cn
 aichaoxing.com
 aichawu.com
@@ -5159,6 +5161,7 @@ api.miner.beeppool.org
 api.mobads4app.com
 api.monero.hashvault.pro
 api.netflare.info
+api.oneaudience.com
 api.ppoi.org
 api.push.daoyoudao.com
 api.pzoifaum.info
