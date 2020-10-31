@@ -5648,7 +5648,6 @@ av.app583.com
 av.movie
 av.u5m4.cn
 av001.com
-av380.net
 avaaz.com
 avacd.us
 avalanchers.com
@@ -8661,7 +8660,6 @@ chinayouji.com
 chinazhai.net
 chinazxt.com
 chinese-hermit.net
-chineseboating.com
 chineseconsulate.org
 chinesedemocracy.com
 chineseembassy.org
@@ -24293,7 +24291,6 @@ pic.img80.com
 pic.kewke.com
 pic.leeyuoxs.com
 pic.openrd.cn
-pic.poklytk.com
 pic.shaidouzi.com
 pic.usingde.com
 pic.zxwhys.cn
@@ -26151,7 +26148,6 @@ rolkakuksa.com
 romleyuan.com
 romman.net
 romphone.net
-rongdingwl.cn
 rongechain.com
 rongeundhis.ru
 rongquaner.com

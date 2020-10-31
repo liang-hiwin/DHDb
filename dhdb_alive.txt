@@ -5625,7 +5625,6 @@
 51dai.com
 51daifu.com
 51daima.com
-51daiwei.com
 51dangpu.com
 51daquan.com
 51daxueedu.com
@@ -20592,7 +20591,6 @@ bd1.52che.com
 bd1.99danji.com
 bd1.click.com.cn
 bd1.dopa.com
-bd1.fengdu100.com
 bd1.flfgw.cn
 bd1.guancha.cn
 bd1.idgdmg.com.cn
