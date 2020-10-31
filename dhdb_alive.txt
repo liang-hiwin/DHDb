@@ -3545,7 +3545,6 @@
 27bao.com
 27dt.com
 27dy.com
-27f35.cn
 27jr.com
 27l.com
 27lmfq.com
@@ -11705,7 +11704,6 @@ ad.khan.co.kr
 ad.kinozal.website
 ad.kissanime.ac
 ad.kissanime.io
-ad.kisscartoon.ac
 ad.kisscartoon.io
 ad.kisscartoon.is
 ad.kisscartoon.su
@@ -19291,7 +19289,6 @@ b5ae848728034caddca.com
 b5b6.com
 b5h7.com
 b5m.com
-b5qpg.cn
 b6.d99sure.xyz
 b60228e270e363f6.com
 b612-api.line-apps.com
@@ -29514,7 +29511,6 @@ chinaxwcb.com
 chinayigui.com
 chinayk.com
 chinaymc.com
-chinaymtz.com
 chinayouth.org.hk
 chinayoutube.com
 chinayuanmin.org
