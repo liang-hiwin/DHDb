@@ -118,7 +118,6 @@
 00cha.com
 00cha.net
 00ic.com
-00ksw.net
 00kuo.com
 00lewen.com
 00oo00.com
@@ -20597,7 +20596,6 @@ bd1.52che.com
 bd1.99danji.com
 bd1.click.com.cn
 bd1.dopa.com
-bd1.fengdu100.com
 bd1.flfgw.cn
 bd1.guancha.cn
 bd1.idgdmg.com.cn
