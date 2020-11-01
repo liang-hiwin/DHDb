@@ -12465,7 +12465,6 @@ echo.12cpm.com
 echo.adsense.cig.com.cn
 echo.adsense.mn.cig.com.cn
 echo.scund.com
-echo188.com
 echocdn.com
 echomilly.com
 echomod.com
@@ -20529,7 +20528,6 @@ ls.webmd.com
 lsad.net
 lsccb.com
 lsckvlhhqlo.com
-lsfjfoddezc.com
 lsgw.com
 lsgwq.icu
 lsjrcdn.com
