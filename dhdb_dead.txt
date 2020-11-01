@@ -3754,6 +3754,7 @@ ad.idgtn.net
 ad.jamba.pt
 ad.jsecoin.com
 ad.kisscartoon.ac
+ad.kisscartoon.io
 ad.kixer.com
 ad.leadboltapps.net
 ad.leadboltmobile.net
@@ -35974,6 +35975,7 @@ zaicouwy.net
 zaisd.com
 zaitansuo.com
 zaitongxiang.com
+zaitouwang.com
 zaixian-fanyi.com
 zaixianjianli.com
 zajawwgpl.com
