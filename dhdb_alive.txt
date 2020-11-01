@@ -2912,7 +2912,6 @@
 2005net.net
 20063365.com
 2006q.com
-20080088.com
 2008php.com
 2008red.com
 2008xianzhang.info
@@ -13806,7 +13805,6 @@ ae256.com
 ae4.ifeng.com
 ae60.com
 ae7600.com
-ae888.com
 aeas.com.cn
 aebadu.com
 aebiz.net
@@ -22679,7 +22677,6 @@ bjjabc.com
 bjjap.com
 bjjchf.com
 bjjcult.com
-bjjdt.com
 bjjdwx.com
 bjjf.cc
 bjjfsd.com
