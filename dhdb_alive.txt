@@ -1994,7 +1994,6 @@
 160.me
 160015.com
 16086371--c1.com
-160edu.net
 160yx.com
 161580.com
 1616.net
@@ -14473,7 +14472,6 @@ aigtek.com
 aigupiao.com
 aihaisi.com
 aihami.com
-aihandu.com
 aihanfu.com
 aihanfu.net
 aihangtian.com
@@ -16975,7 +16973,6 @@ api.youtu.qq.com
 api.youxiaoad.com
 api.youzu.com
 api.yuedu.iqiyi.com
-api.zdqp11.com
 api.zol.com
 api0.dating.com
 api0.tuisong.baidu.com
@@ -18613,7 +18610,6 @@ auroracoworking.si
 auroramine.com
 auroraninja.com
 aurorapush.cn
-aurorapush.com
 ausaas.cn
 ausagauw.net
 ausbeatsbydrdre.com
