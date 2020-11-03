@@ -13648,7 +13648,6 @@ advfeeds.com
 advg.agency
 advgalaxy.com
 advgame.org
-advhits.com
 adviator.com
 advice-ads-cdn.vice.com
 advideo.ru
@@ -20622,7 +20621,6 @@ bd1.52che.com
 bd1.99danji.com
 bd1.click.com.cn
 bd1.dopa.com
-bd1.fengdu100.com
 bd1.flfgw.cn
 bd1.guancha.cn
 bd1.idgdmg.com.cn
