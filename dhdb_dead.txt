@@ -5425,7 +5425,6 @@ artantash.club
 artbr.net
 artedu.pw
 artimwapo.com
-artmai.net
 artokok.com
 artopmedia.com
 artplateno.com
@@ -7817,7 +7816,6 @@ cbjs.baidu.cn
 cbjslog.baidu.cn
 cbjslog.baidu.com
 cbjzw.org
-cbleads.com
 cbmay.com
 cbminfo.com
 cbn.me
