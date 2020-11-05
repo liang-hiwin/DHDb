@@ -9815,7 +9815,6 @@ csrpme.com
 css.juqingba.cn
 css.privatedns.org
 css22.ga
-css3.now-ip.net
 css5.ga
 css5.gq
 css5.ml
@@ -29821,7 +29820,6 @@ tracker.vcke.xyz
 tracker.vectahosting.eu
 tracker.vivancos.eu
 tracker.xfsub.com
-tracker.xiaoduola.xyz
 tracker.xku.tv
 tracker1.xku.tv
 tracker2.wasabii.com.tw
