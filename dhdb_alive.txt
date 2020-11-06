@@ -4059,6 +4059,7 @@
 330123456.com
 330558.com
 33065.com
+3306safe.com
 3310.com
 33105.com
 3311711.com
@@ -11752,6 +11753,7 @@ ad.lyricswire.com
 ad.madserving.com
 ad.mail.ru
 ad.mail.sohu.com
+ad.mailo.com
 ad.mangareader.net
 ad.masteranime.es
 ad.mediabong.com
@@ -16877,6 +16879,7 @@ api.iimedia.cn
 api.ijunhai.com
 api.imapbuilder.net
 api.instabug.com
+api.inwemo.com
 api.ip.sb
 api.iplay.163.com
 api.itaoxiaoshuo.com
@@ -32761,6 +32764,7 @@ cookies.nos.nl
 cookies.reedbusiness.nl
 cookies.unidadeditorial.es
 cookiescript.info
+cookiescriptcdn.pro
 cookietang.com
 cookietracker.cloudapp.net
 cookiex.ngd.yahoo.com
@@ -39609,6 +39613,7 @@ dqzc.com
 dqzdhw.com
 dqzuy.com
 dr.atwoodubre.com
+dr.holaworld.cn
 dr009.com
 dr3k6qonw2kee.cloudfront.net
 dr668.com
@@ -71478,6 +71483,7 @@ litrin.net
 littel.net
 litten.me
 littitte.online
+littlecdn.com
 littleee.com
 littlehj.com
 littlemente.info
@@ -77508,6 +77514,7 @@ mingyantong.com
 mingyaohui.com
 mingyi.com
 mingyihui.net
+mingysh.com
 mingyuanfund.com
 mingyuanyun.com
 mingyuezw.com
@@ -85511,6 +85518,7 @@ outster.com
 outtunova.com
 outwarent.club
 outwitch.com
+ouuktjcoh.com
 ouvps.com
 ouyabosi.com
 ouyaoxiazai.com
@@ -86259,6 +86267,7 @@ paowang.net
 paoxq.com
 paoxue.com
 pap.zalando.de
+papa21.com
 papa91.com
 papakev.de
 papalah.com
@@ -87712,6 +87721,7 @@ pic.pic-img.com
 pic.poklytk.com
 pic.punchbox.org
 pic.pxstda.com
+pic.shaidouzi.com
 pic.ttyyy.cc
 pic.wq425cj.com
 pic.zol-img.com.cn
@@ -98881,6 +98891,7 @@ shailsie.net
 shaimsoo.net
 shaiptuk.net
 shaiwang.org
+shaizai.com
 shakamech.com
 shake.360.cn
 shake.f.360.cn
@@ -103246,6 +103257,7 @@ st.cdnco.us
 st.dl.bscstorage.net
 st.dl.eccdnx.com
 st.dl.pinyuncloud.com
+st.holaworld.cn
 st.idv.tw
 st.ipornia.com
 st.jpeelf.tk
@@ -106900,6 +106912,7 @@ tatami-solutions.com
 tatazu.com
 tatdunsit.com
 taterli.com
+tathitch.net
 tattle.api.osano.com
 tattomedia.com
 tattoo114.com
