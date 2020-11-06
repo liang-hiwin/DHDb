@@ -5166,7 +5166,6 @@ api.g2.junfull.com
 api.gzxiongwa.cn
 api.huo360.com
 api.intense.hashvault.pro
-api.inwemo.com
 api.joybj.com
 api.jsecoin.com
 api.jsfc8.cn
@@ -9079,7 +9078,6 @@ cloudserver01.com
 cloudservice28.kingsoft-office-service.com
 cloudsmobi.com
 cloudsoar.com
-cloudstack-china.org
 cloudtcp.net
 cloudtomicro.com
 cloudvdn.com
@@ -9528,7 +9526,6 @@ cookie4you.com
 cookieconsent.silktide.com
 cookies.gardena.net
 cookiescript.infos
-cookiescriptcdn.pro
 cool18.ga
 coolact.net
 cooleasy.net
@@ -19325,7 +19322,6 @@ knkgaslmisue.com
 knmscyksi.com
 knnwdyou.com
 knopka.trade
-knowledgevine.net
 knowncoin.com
 knoxemm.com
 knsyxw.com
@@ -21793,7 +21789,6 @@ mingpaotor.com
 mingpaovan.com
 mingqingxiaoshuo.com
 mingxianshanghang.cn
-mingysh.com
 mingyueqingfengshe.com
 mini-audio.com
 mini-grouparchive.com
@@ -24409,7 +24404,6 @@ pic.img80.com
 pic.kewke.com
 pic.leeyuoxs.com
 pic.openrd.cn
-pic.shaidouzi.com
 pic.usingde.com
 pic.zxwhys.cn
 pic1.429bi.com
