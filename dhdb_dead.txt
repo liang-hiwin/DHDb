@@ -3904,6 +3904,7 @@ adimg.qxlsjw.com
 adimg.vue.weibo.com
 adimgs.xici.net
 adinc.kr
+adinch.com
 adinf.cp11.ott.cibntv.net
 adinfo.ra1.xlmc.sec.miui.com
 adingo.jp.eimg.jp
@@ -6968,6 +6969,7 @@ bmw-connecteddrive.lt
 bmw-connecteddrive.lv
 bmw-fleet.net
 bmw-int1.com
+bmw-world.net
 bmw.com.ge
 bmwarchiv.at
 bmwworld.net
