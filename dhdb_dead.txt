@@ -8642,7 +8642,6 @@ chinaprint.org
 chinapsj.com.cn
 chinapubmed.net
 chinapulverizer.com.cn
-chinaqirun.cn
 chinaql.org
 chinaqw.com
 chinardr.net
@@ -13857,7 +13856,6 @@ freeoa.net
 freeserver.se
 freesiata.com
 freess.pw
-freessr.ml
 freestats.me
 freestudio.info
 freetracker.biz
