@@ -1027,7 +1027,6 @@
 225.esmtp.biz
 2253999.com
 2258.com
-22707.mmavday.com
 2277gf.com
 2288gf.com
 228pu.cn
@@ -5956,7 +5955,6 @@ baidu-umoney.com
 baidu-union-js.xiachufang.com
 baidu-union-pos.xiachufang.com
 baidu-wenxue.com
-baidu.cc
 baidu.cmxsw.com
 baidu.dengzhoull.com
 baidu.ehrenreich.ca
@@ -11875,7 +11873,6 @@ dskfv.de
 dskrt.net
 dslebag.com
 dsmmadvantage.com
-dsmxwgmkj.com
 dsmyiyuan.com
 dsn01.co
 dsn104.co
@@ -13786,7 +13783,6 @@ foxdoua.com
 foxera.com
 foxfdm.com
 foxinc.com
-foxlaytg.com
 foxneodigital.com
 foxsnews.net
 foxton.nimiqpool.com
@@ -15464,7 +15460,6 @@ hbfxmcgazuail.com
 hbfy.com
 hbgkzyc.com
 hbguohua.com
-hbguzhenyuan.com
 hbgzh.com
 hbhcilgdqxt.com
 hbhgheovqz.com
