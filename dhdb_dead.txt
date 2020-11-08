@@ -171,6 +171,7 @@
 0577job.com
 0578zhaopin.com
 0579com.com
+059002.com
 0591101.com
 0591jiajiao.com.cn
 0595job.com
@@ -4078,6 +4079,7 @@ adsgid.com
 adsglow.net
 adshare.freedocast.com
 adshark.site
+adshob.com
 adshost.site
 adshost2.com
 adsina.allyes.com
@@ -5814,6 +5816,7 @@ b-m.xyz
 b.16vcd.com
 b.1istochnik.ru
 b.9dreams.net
+b.ahs-online.net
 b.apzeyu.com
 b.cowoo.win
 b.cyone.com.cn
@@ -7180,6 +7183,7 @@ bridgestone-brand.com
 bridgestonecntc.com
 bridgestonegz.com
 bridgestonesyb.com
+briefdream.com
 briewell.com
 briggbrought.pro
 bright.bncnt.com
@@ -7449,6 +7453,7 @@ byd.com
 bydowstar.com
 byfgrwrpqjdkj.com
 byfzxy.com
+bygamesdk.com
 byhz.xyz
 byjdxy.com
 byjgxy.com
