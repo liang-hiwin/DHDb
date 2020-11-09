@@ -3231,6 +3231,7 @@
 98stack.com
 98t.net
 99-ss.com
+990.com
 990b424f659e4e27.com
 99118.com
 991726.com
@@ -5218,6 +5219,7 @@ apistaging.airpush.com
 apistat.wasu.cn
 apizb.com
 apjforex.com
+apk-dl.com
 apk.idate520.com
 apk.static.youmi.net
 apk.tv333.us
@@ -9012,6 +9014,7 @@ clickclaro.xyz
 clickcloud.info
 clicker.kukuplay.com
 clickforensics.com
+clickhereforfun.org
 clickigniter.io
 clickkydsp.com
 clickpoint.it
