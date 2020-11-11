@@ -12130,7 +12130,6 @@ dyt3.cc
 dyt4.cc
 dyt5.cc
 dyt7.cc
-dyt8.cc
 dyu130k051ujc.cloudfront.net
 dyuadask.com
 dywg.dayoo.com
@@ -12774,7 +12773,6 @@ emailflame.com
 emall.site
 emao.net
 emaup.com
-embcom.net
 embed.cc
 embed.xinhuanet.com
 embedway.com
@@ -30111,7 +30109,6 @@ tv100.gq
 tv123.us
 tv2.bit.ddns.ms
 tv2.spacetechnology.net
-tv2stb.com
 tv3.bit.ddns.ms
 tv3.ignorelist.com
 tv5.ignorelist.com
