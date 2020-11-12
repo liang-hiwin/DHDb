@@ -1389,6 +1389,7 @@
 1119702.com
 111cn.net
 111g.yiqig.cn
+111hyk.com
 111jz.com
 111ol.com
 111qqz.com
@@ -13202,6 +13203,7 @@ adsgo.nhipcaudautu.vn
 adsgroup.qq.com
 adshack.com
 adshare.toutiao.com
+adshexa.com
 adshmct.qq.com
 adshmmsg.qq.com
 adshoppeevents.com
@@ -29020,6 +29022,7 @@ china-yingkouyu.com
 china-zbycg.com
 china-zikao.com
 china.akamai.com.edgesuite.net
+china.com
 china.googleblog.com
 china.gzxxty168.com
 china.hket.com
@@ -30237,6 +30240,7 @@ cityua.net
 cityup.org
 citywo.com
 cityy.com
+ciurcetcity.com
 ciux.org
 civclub.net
 civicforum.github.io
@@ -58759,6 +58763,7 @@ hyq666.com
 hyrankhit.meldingcloud.com
 hyread.com.tw
 hyrzb.com
+hys4.com
 hysj001.com
 hysjm.cn
 hysseo.com
@@ -91390,6 +91395,7 @@ pxl.idx.admaster.com.cn
 pxl2015x1.com
 pxlctl.elpais.com
 pxlgnpgecom-a.akamaihd.net
+pxlqyrteuuh.com
 pxrbl.megafilms.me
 pxsky.net
 pxt.io
@@ -101879,6 +101885,7 @@ smetrics.cnn.com
 smetrics.delta.com
 smetrics.marriott.com
 smetrics.nfl.com
+smetrics.samsung.com
 smetrics.uhc.com
 smetrics.washingtonpost.com
 smggw.com
@@ -107389,6 +107396,7 @@ tareinlettartar.com
 tarenacn.com
 tarenwang.net
 targaubs.com
+target-us.samsung.com
 target.com
 target.mirtesen.ru
 target.mixi.media
