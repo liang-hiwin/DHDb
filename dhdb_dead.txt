@@ -294,7 +294,6 @@
 0pixl.com
 0pj1f.cn
 0qkc.cn
-0torrent.com
 0tracker.com
 0uk9e.cn
 0x0.ooo
@@ -8057,7 +8056,6 @@ cdkxvrryzgd.com
 cdlinli.com
 cdlkzb.com
 cdlute.com
-cdlyfs.com
 cdn-789.com
 cdn-analytics.ladmedia.fr
 cdn-analytics.pl
@@ -21994,7 +21992,6 @@ mo.yhcrqzj.cn
 moad.cn
 moatads.com.edgekey.net
 mob.adwhirl.com
-mob29.shqcbus.com
 mob55.com
 mobaders.com
 mobads-logs.baidu.cn
@@ -28950,7 +28947,6 @@ tao-star.com
 tao-studio.net
 tao123.com
 tao30.com
-taobaly.cn
 taobao.co
 taobao.net
 taobao.org
