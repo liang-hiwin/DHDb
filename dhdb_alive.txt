@@ -6148,6 +6148,7 @@
 529c31.com
 52aan.cn
 52ae.cc
+52ai.com
 52analysis.com
 52asus.com
 52audio.com
@@ -7305,6 +7306,7 @@
 63kk.net
 63oo.net
 63pe.com
+63pp.net
 63qingyou.com
 63qq.net
 63r2vxacp0pr.com
@@ -14388,6 +14390,7 @@ aidaxing.com
 aidaxue.com
 aidbaronice.casa
 aideep.com
+aidefence.org
 aider-res.meizu.com
 aidezy.com
 aidianji.net
@@ -45853,6 +45856,7 @@ feed111.com
 feed111.me
 feed43.com
 feed777.me
+feedads.feedblitz.com
 feedage.com
 feedage.net
 feedaty.com
@@ -50122,6 +50126,7 @@ geoip-db.com
 geoip-js.com
 geoip-lookup.vice.com
 geoip.al.com
+geoip.ativo.com
 geoip.boredpanda.com
 geoip.cleveland.com
 geoip.fotoable.net
@@ -64507,6 +64512,7 @@ jiheyun.com
 jihone.com
 jihot.com
 jihuachina.com
+jihupd.wang
 jiirz.com
 jiixdtavic.com
 jiji.com
