@@ -12797,6 +12797,7 @@ adreport.de
 adreq.vivo.com.cn
 adres.myaora.net
 adresellers.com
+adresponse.it
 adrevenuerescue.com
 adrevolver.com
 adrianka.ro
@@ -20289,6 +20290,7 @@ bax.xiawu.com
 baxi.tv
 baxiami.com
 baxichina.com
+baxofalis.com
 baxyy.com
 bay.xiawu.com
 bayar-tagihan.com
@@ -38753,6 +38755,7 @@ dmpclick.deliver.ifeng.com
 dmpcloud.net
 dmpcounter.com
 dmpda.com
+dmpprof.com
 dmpsj.cn
 dmr.cnhoney.com
 dmrecvpflqb.com
@@ -48994,6 +48997,7 @@ g.szdn1ms.com
 g.tbcdn.cn
 g.udn.com.tw
 g.vev.io
+g.wait.re
 g.wan.2345.com
 g.wan.douyu.com
 g.x.cn.majorserving.com
@@ -52907,6 +52911,7 @@ gumang.com
 gumaor.com
 gumbolersgthb.com
 gumei88.com
+gumgo.cn
 gumgum.com
 gumk.pro
 gummshoe.com
@@ -73681,6 +73686,7 @@ lwqklm.com
 lwsay.com
 lwstorage.com
 lwswxs.com
+lwsxrphion.com
 lwtxt.cc
 lwurl.to
 lwxgds.com
@@ -81272,6 +81278,7 @@ nativeapp.toutiao.com
 nativeleads.net
 nativendo.de
 nativepu.sh
+nativerent.ru
 nativeroll.tv
 nativery.com
 nativesdks.mparticle.com
@@ -91337,6 +91344,7 @@ pwnz.org
 pwp.ink
 pwrads.net
 pwrd.com
+pwrlkyotm.com
 pwxqw.com
 pwxyc.com
 px.adhigh.net
@@ -101764,6 +101772,7 @@ smart-counter.net
 smart-digital-solutions.com
 smart-edge.com
 smart-ip.net
+smart-redirecting.com
 smart-traffik.com
 smart-way2.com.cn
 smart.789.image.mucang.cn
@@ -110638,6 +110647,7 @@ traceworks.com
 traceybell.co.uk
 tracfone.com
 track-east.mobileadtrading.com
+track-mixer.ru
 track-re01.com
 track-server-100.com
 track-srv.vietnamnet.vn
@@ -110795,6 +110805,7 @@ track2.trbo.com
 trackad2.com
 trackaffpix.com
 trackalyzer.com
+trackboxx.info
 trackcb.com
 trackcommon.hujiang.com
 trackconsole.com
@@ -119654,6 +119665,7 @@ whitebear.freebearblog.org
 whitebox.im
 whiteboxdigital.ru
 whitecat.com
+whiteclick.biz
 whitective.club
 whitehalfabrr.club
 whitehartlane.rb82.com
@@ -132453,6 +132465,7 @@ yes123.com.tw
 yes515.com
 yes58.net
 yes88.com
+yes999.cf
 yes999.ga
 yes999.ml
 yes999.tk
@@ -134548,6 +134561,7 @@ ytxj.mercury.sogou.com
 ytxsc.com
 ytxuslppbj.com
 ytybl.com
+ytymetuw.xyz
 ytzhihui.com
 ytzq.com
 yu-fish.com
