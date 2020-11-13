@@ -21,6 +21,7 @@
 001.0x1f4b0.com
 001133.app
 001455.com
+001717.com
 001bank.com
 001cndc.com
 001daima.com
@@ -16896,6 +16897,7 @@ api.recaptcha.net
 api.rees46.com
 api.reon.club
 api.rnet.plus
+api.rubic.com.tr
 api.safedk.com
 api.sdk.fmobi.cn
 api.share.baidu.com
@@ -18007,6 +18009,7 @@ asdasdad.net
 asdfg.jp
 asdhit.com
 asdorka.com
+asdpoi.com
 asdqweq.com
 asdrive.net
 asean-china-center.org
@@ -22465,6 +22468,7 @@ bitsqa.com
 bitsquan.com
 bitsquare.io
 bitstamp.net
+bitstorm.azukachan.com
 bitstream.com
 bittads.com
 bitterbear.com
@@ -32095,6 +32099,7 @@ coefficy.com
 coenr.com
 coepzyavjda.com
 cofeed.com
+cofess.com
 cofface.com
 coffee-script.org
 coffee08.com
@@ -39490,6 +39495,7 @@ down.winads.cn
 down.winbaicai.com
 down.xiazai2.net
 down.xiazaidc.com
+down.xiazaiyuan.net
 down0.com
 down12.com
 down123.cc
@@ -44355,6 +44361,7 @@ exrmlhihaj.com
 exrpg.com
 exrtbsrv.com
 exsales.com
+ext-inv-cdn.presage.io
 ext.goguardian.com
 ext.movixhub.com
 ext.trafficbroker.xyz
@@ -47317,6 +47324,7 @@ forinvites.com
 forjs.net
 forkchristian.com
 forkitz.com
+forkizata.com
 forlinx.com
 forlinx.net
 form-create.com
@@ -58322,6 +58330,7 @@ humengyun.com
 humensec.com
 humidmentioned.com
 huminfakt.ru
+hummingbird.mavencoalition.io
 hummingbird.ms
 humparsi.com
 humsoolt.net
@@ -60263,6 +60272,7 @@ ijsp.net
 ijtoo.com
 ijuanshi.com
 ijuer.com
+ijugatdyiuwxq.com
 ijuhepay.com
 ijunhai.com
 ijunxun.com
@@ -73557,6 +73567,7 @@ luxebc.com
 luxee.com
 luxianpo.com
 luxiao.com
+luxins.net
 luxiwang.com
 luxiyun.com
 luxlnk.com
@@ -84923,6 +84934,7 @@ onderlea.info
 ondu.ru
 one-all.com
 one-eyedjack.it
+one-xjygn.world
 one.lg.ua
 one120.com
 one88.com
@@ -85178,6 +85190,7 @@ oollttqq.com
 oolufhbdabqce.com
 oom.ink
 oomake.com
+oomyv.com
 ooni.org
 ooniu.com
 oonnmaxhz.com
@@ -92100,6 +92113,7 @@ qidou.com
 qiduocloud.com
 qiduowei.com
 qidupharmaceuticalgroup.com
+qie.tv
 qiecdn.com
 qieerxi.com
 qiehe.net
@@ -106891,6 +106905,7 @@ tag.shopping-feed.com
 tag.sp.advertising.com
 tag.triboomedia.it
 tag.vlitag.com
+tag.wknd.ai
 tag.yourupload.com
 tag4arm.com
 tagbucket.cc
@@ -132495,6 +132510,7 @@ yes58.net
 yes88.com
 yes999.cf
 yes999.ga
+yes999.gq
 yes999.ml
 yes999.tk
 yesacc.com
