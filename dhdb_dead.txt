@@ -3786,6 +3786,7 @@ ad-cache.dopool.com
 ad-data.starschina.com
 ad-gb.mgid.com
 ad-generator.info
+ad-hits.de
 ad-m.asia
 ad-mapps.com
 ad-recommend.com
@@ -5731,6 +5732,7 @@ autoairfl.com
 autocsdn.xyz
 autodaluosiji.com
 autodg.com
+autodry.net
 autofull.net
 autologica.ga
 automationeventually.com
@@ -6255,6 +6257,7 @@ bb.dugesheying.com
 bb.jw90.com
 bb.tidopro.biz
 bb179.com
+bb1acb0ea5ddb1fed8.com
 bb383.net
 bb95790.com
 bb95791.com
@@ -7094,6 +7097,7 @@ bobcoder.cc
 boblog.com
 bobo.corp.163.com
 bobo.xmwty.com
+boboad.com
 bobopos.com
 bobotune.com
 bobwjhcuavqklk.com
