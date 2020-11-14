@@ -4319,7 +4319,6 @@
 360qws.com
 360sdn.com
 360shipu.com
-360shopping.com.cn
 360shouji.com
 360shouzhuan.com
 360shuashua.com
@@ -9245,7 +9244,6 @@
 8test.ru
 8testov.ru
 8toto.com
-8ttt8.com
 8tube.com
 8tupian.com
 8twan.com
