@@ -11494,7 +11494,6 @@ ad-formats.advertising.aol.com
 ad-g.doubleclick.net
 ad-gbn.com
 ad-goi.com
-ad-hits.de
 ad-indicator.com
 ad-locus.com
 ad-log.dable.io
@@ -18669,7 +18668,6 @@ autodiscover.nimiq.com
 autodiscover.se.com
 autodmp.com
 autodraw.com
-autodry.net
 autodwg.com
 autoesd.com
 autogslb.com
@@ -20341,7 +20339,6 @@ bb0018.com
 bb06.com
 bb0621.com
 bb1429.com
-bb1acb0ea5ddb1fed8.com
 bb2.ifeng.com
 bb225.com
 bb22888.com
@@ -21718,7 +21715,6 @@ betway801.com
 betway88help.com
 betweendigital.com
 betwinnerpromo.com
-betyty.com
 beusable.net
 beva.com
 bewaslac.com
@@ -23928,7 +23924,6 @@ boblove.org
 bobmackin.ca
 bobo.163.com
 bobo.com
-boboad.com
 bobobd.com
 bobopic.com
 bobrilla.com
