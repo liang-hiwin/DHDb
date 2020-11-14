@@ -3118,7 +3118,6 @@
 22.ly.rs
 22.now-ip.net
 22.suroot.com
-22.te.rs
 220efda3143.com
 221.trickip.org
 2213.com
@@ -9924,7 +9923,6 @@
 97pat.com
 97riju.net
 97rp.com
-97taiju.com
 97ub.cc
 97ui.com
 97wd.com
