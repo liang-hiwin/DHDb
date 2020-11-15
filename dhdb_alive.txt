@@ -22,7 +22,6 @@
 001.0x1f4b0.com
 001133.app
 001455.com
-001717.com
 001bank.com
 001cndc.com
 001daima.com
@@ -6747,7 +6746,6 @@
 58kuaipai.com
 58kuku.com
 58leyouxi.com
-58lm.vip
 58moneys.com
 58net.com
 58pic.com
@@ -15664,7 +15662,6 @@ amp-error-reporting.appspot.com
 amp.cloudflare.com
 amp.dev
 amp.rd.linksynergy.com
-ampallall.site
 amparcaim.club
 ampc8.com
 ampclicks.com
@@ -24662,7 +24659,6 @@ bs699.com
 bs777.net
 bscea.org
 bsch.serving-sys.com
-bsd4fz.com
 bsdgco.com
 bsdrp.net
 bseas.com
