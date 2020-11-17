@@ -5278,6 +5278,7 @@ api.dunhee.cn
 api.ethereum.hashvault.pro
 api.g1.junfull.com
 api.g2.junfull.com
+api.goulegu.com
 api.gzxiongwa.cn
 api.huo360.com
 api.intense.hashvault.pro
@@ -6703,6 +6704,7 @@ bhlusdvadp.com
 bhnsh.com
 bhplyiegippcw.com
 bhrebiicmcj.com
+bhuak.com
 bhwpdezzduthrp.com
 bhzejltg.info
 bhzygl.com
