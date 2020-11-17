@@ -16813,7 +16813,6 @@ api.gameofwhales.com
 api.gi.igexin.com
 api.gimbal.com
 api.github.com
-api.goulegu.com
 api.growingio.com
 api.grumft.com
 api.h4game.net
@@ -21827,7 +21826,6 @@ bhplay.net
 bhrencai.com
 bhs4.com
 bhu9.bankia.es
-bhuak.com
 bhuitong.com
 bhxww.com
 bhyddc.com
