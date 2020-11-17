@@ -18637,7 +18637,6 @@ autoblog.com.uy
 autocalc.sytes.net
 autocamel.com
 autocarbe.com
-autocarcn.com
 autochina360.com
 autoconfig.nimiq.com
 autoconfig.nimiqpool.com
@@ -27246,7 +27245,6 @@ ccpithz.org
 ccpitjinan.org
 ccpitlight.org
 ccpitnmg.org
-ccpitqd.org
 ccpitsd.com
 ccpittex.com
 ccpittj.org
