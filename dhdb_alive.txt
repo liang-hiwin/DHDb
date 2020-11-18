@@ -13232,6 +13232,7 @@ adsgo.nhipcaudautu.vn
 adsgroup.qq.com
 adshack.com
 adshare.toutiao.com
+adshexa.com
 adshmct.qq.com
 adshmmsg.qq.com
 adshoppeevents.com
@@ -44225,6 +44226,7 @@ events.jora.com
 events.jotform.com
 events.kaloo.ga
 events.kalooga.com
+events.launchdarkly.com
 events.lbesecapi.com
 events.matterport.com
 events.mediarithmics.com
@@ -95766,6 +95768,7 @@ rferl.com
 rferl.mobi
 rferl.org
 rfese.com
+rfewgthorann.com
 rfeyao.com
 rffan.info
 rffanlab.com
@@ -107693,6 +107696,7 @@ takeinblue.com
 takeitem.com
 takeslobsgel.com
 takidd.site
+takmuany.com
 takoyamanpuku.com
 takungpao.com
 tal-rasha.com
