@@ -5376,7 +5376,6 @@ apk.static.youmi.net
 apk.tv333.us
 apk.uk.ns02.us
 apkdo.com
-apkhooker.com
 apklog.cp11.ott.cibntv.net
 apluscap.com
 apmebf.com
@@ -14063,7 +14062,6 @@ freeqingnovel.com
 freeserver.se
 freesiata.com
 freess.pw
-freestats.me
 freestudio.info
 freetvro.com
 freevpngo.com
@@ -30524,7 +30522,6 @@ uid.ksosoft.com
 uiej.com
 uimrnhpei.com
 uimserv.net
-uinbjfve.com
 uioopnblobble.ru
 uiqjcpt.cn
 uirbd.com
