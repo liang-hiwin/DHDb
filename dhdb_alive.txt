@@ -2925,7 +2925,6 @@
 201551.com
 2015huo.com
 2016.sina.cn
-201689.qingkan520.com
 2016ruanwen.com
 2016win10.com
 2016y.com
@@ -9628,7 +9627,6 @@
 92fox.com
 92game.net
 92gushi.com
-92gzc.com
 92kaifa.com
 92kk.com
 92kor.com
@@ -19211,7 +19209,6 @@ b.hatena.ne.jp
 b.imwx.com
 b.jsproxy.workers.dev
 b.kakoysegodnyaprazdnik.ru
-b.kouke5.com
 b.localpages.com
 b.lulu.workers.dev
 b.mct01.com
