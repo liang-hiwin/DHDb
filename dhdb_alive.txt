@@ -12565,6 +12565,7 @@ admixer.net
 admngronline.com
 admo.tv
 admob.com
+admobile.top
 admon.cn
 admon.pro
 admonitor.thepaper.cn
@@ -37681,6 +37682,7 @@ dgschuangneng.com
 dgsgly.com
 dgsltx.com
 dgsme.org
+dgstatic.jd.com
 dgt-factory.com
 dgtle.com
 dgtnoyoud.com
@@ -52349,6 +52351,7 @@ govmetric.com
 govsm.com
 govthealth.xyz
 govtrack.us
+govzhejiang.cn
 gow100.com
 gowa.club
 goweb2.net
@@ -81554,6 +81557,7 @@ nadjustifygas.info
 nads.wuaiso.com
 nadscdn.wuaiso.com
 nadvideo.baidu.com
+nadvideo2.baidu.com
 naew.org
 nafanlong.com
 nagain.com
@@ -90721,6 +90725,7 @@ pritesol.com
 pritunl.com
 privacy.claytonhomes.com
 privacy.clion.agency
+privacy.selbst.de
 privacy4browsers.com
 privacybox.de
 privacymanager.io
