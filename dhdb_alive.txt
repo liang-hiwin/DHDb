@@ -22,7 +22,6 @@
 001.0x1f4b0.com
 001133.app
 001455.com
-001717.com
 001bank.com
 001cndc.com
 001daima.com
@@ -2223,7 +2222,6 @@
 178bx.cn
 178du.com
 178gg.com
-178hg.cn
 178hui.com
 178linux.com
 178online.com
@@ -9356,7 +9354,6 @@
 911yao.com
 912414.com
 912688.com
-912912345.com
 912k.com
 912yx.com
 9130.com
@@ -15820,7 +15817,6 @@ an.m.liebao.cn
 an.motphim.net
 an.reflektion.com
 an.webvisor.org
-an.wikigifth.com
 an.xemvtv.net
 an.yandex.ru
 an9.name
