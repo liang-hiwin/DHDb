@@ -3698,7 +3698,6 @@ aa.xiangxiangmf.com
 aa059.com
 aa1.ifeng.com
 aa13.cloud
-aa6789.com
 aa7.org
 aa7023.com
 aa7123.com
@@ -12500,7 +12499,6 @@ e.lfdydk.com
 e.lisln.cn
 e.lzytt.com
 e.mbm.cn.miaozhen.com
-e.miaoxinqipei.com
 e.miiuv.com
 e.mozist.com
 e.mqgpo.com
@@ -25740,7 +25738,6 @@ qqxzb-img.com
 qqxzb.com
 qqzshc.com
 qqzy1.cc
-qr-maker.me
 qr.youlu.com
 qr25.com
 qrcvlmxqu.com
