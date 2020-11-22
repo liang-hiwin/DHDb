@@ -22644,7 +22644,6 @@ bj003.com
 bj1.api.bing.com
 bj100.com
 bj1000e.com
-bj10066.com
 bj1110.online
 bj14.9669.cn
 bj148.org
@@ -30115,7 +30114,6 @@ chuying.org
 chuyu.me
 chuzhaobiao.com
 chwlsq.com
-chwombat.net
 chxlm.com
 chydafuse.com
 chyfh.com
