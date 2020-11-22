@@ -756,7 +756,6 @@
 17bt.cc
 17dao.com
 17heli.com
-17hpl.com
 17kgl.com
 17kuxun.com
 17liansuo.com
@@ -13988,7 +13987,6 @@ fntstkghwldnoy.com
 fnwll.cn
 fnysb.com
 fo515.com
-foastail.net
 focas.jp
 focus-eloan.com
 focusego.info
@@ -20812,7 +20810,6 @@ lucklayed.info
 lucktui.com
 luckycoffee.com
 luckyforworlds.com
-luckyissue.com
 lucoder.com
 lucretius-ada.com
 ludake.com
@@ -21015,7 +21012,6 @@ m.ahuac.com
 m.ailezhai.cn
 m.ailiby.cn
 m.ajiez.com
-m.ajiuc.com
 m.alylym.top
 m.aqiudaohang.com
 m.autobedo.com.cn
@@ -23124,7 +23120,6 @@ niugame.net
 niuhudong.com
 niujinniu.com
 niuliangyun.com
-niunaizhuishu.com
 niuniufund.com
 niuniutui.com
 niuqia.com
