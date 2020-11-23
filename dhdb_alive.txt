@@ -13294,7 +13294,6 @@ adsqqclick.qq.com
 adsrefundattempts.com
 adsrevenue.net
 adsrich.qq.com
-adsring.com
 adsroute.com
 adsrv.bangbros.com
 adsrv.me
@@ -20651,7 +20650,6 @@ bd.hao224.com
 bd.haomagujia.com
 bd.hd.sohu.com
 bd.soarfi.cn
-bd.wayqq.cn
 bd001.net
 bd01.daqiso.com
 bd05qvt.co.ua
