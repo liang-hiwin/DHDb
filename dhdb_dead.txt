@@ -4292,6 +4292,7 @@ adsoptimal.com
 adsor.openrunner.com
 adsovo.com
 adsremote.scrippsnetworks.com
+adsring.com
 adsrv.eacdn.com
 adsrv.wtf
 adsrv1.tapad.com
@@ -6541,6 +6542,7 @@ bd.1ym7e.cn
 bd.gow100.com
 bd.m.biqugeso.com
 bd.scw98.com
+bd.wayqq.cn
 bd1.heiguang.cn
 bd1.home8080.cn
 bd1.nxing.cn
@@ -7027,6 +7029,7 @@ bjcu.u3.ucweb.com
 bjdongxin.com
 bjdthyywcargba.com
 bjename.cn
+bjewaytek.com
 bjfwbz.org
 bjfz.cc
 bjgesainuo.com
@@ -22780,6 +22783,7 @@ n9z.net
 na-att-idns.net
 naapvraf.com
 nabucuo.com
+nadgrid.com
 naenticle.info
 naetoris.pw
 nafgiaui.com
@@ -25587,6 +25591,7 @@ qinghe.tv
 qingkan9.com
 qingliange.com
 qingliulan.com
+qinglvcha.com
 qingnianlvxing.com
 qingpanduola.com
 qingpingshan.com
