@@ -4678,7 +4678,6 @@ airproxytpb.re
 airwatchqa.com
 aisbeijing.com
 aiservice.vn
-aishake.cn
 aishang.bid
 aishangcan.com
 aishengji.com
@@ -7037,7 +7036,6 @@ bjjubao.org
 bjjzsc.com
 bjk30.com
 bjkrtwl.com
-bjl8988.com
 bjlrdxcjnyxuba.com
 bjlsjt.com
 bjmakerspace.com
@@ -9458,7 +9456,6 @@ cmxrcw.com
 cmxwsj.com
 cmys.tv
 cn-bowei.com
-cn-jnrc.com
 cn-msedge.net
 cn-office.com
 cn-soft.com
