@@ -21821,7 +21821,6 @@ bfw.cc
 bfyx.com
 bfzhuce.com
 bg.v4.a.dl.ws.microsoft.com
-bg.vimgon.com
 bg318.com
 bg4.v4.a.dl.ws.microsoft.com
 bg567.com
@@ -24750,7 +24749,6 @@ bshare.cn
 bsheute.de
 bsida.com
 bsidu.com
-bsieidu.com
 bsiet.husky.sogou.com
 bsjhhzs.com
 bsjquanwu.com
