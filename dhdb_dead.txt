@@ -347,6 +347,7 @@
 1000dy.com
 1000eb.net
 1000kan.cc
+1000pd.com
 1000you.com
 10010hb.net
 10010ll.com
@@ -2992,6 +2993,7 @@
 8246.net
 8269996.com
 828.ddnsking.com
+8292918saturday.sgbbc.cn
 82a.net
 82ky.com
 83.shandiankami.cn
@@ -9404,6 +9406,7 @@ cloudserver01.com
 cloudservice28.kingsoft-office-service.com
 cloudsmobi.com
 cloudsoar.com
+cloudstack-china.org
 cloudtcp.net
 cloudtomicro.com
 cloudvdn.com
