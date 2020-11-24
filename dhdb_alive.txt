@@ -420,7 +420,6 @@
 030303.com
 030buy.com
 030mall.com
-0311top.com
 0312of.com
 0312zy.com
 0315cct.com
@@ -13488,7 +13487,6 @@ adv.baotintuc.vn
 adv.ccb.com
 adv.drtuber.com
 adv.ettoday.net
-adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.livedoor.com
