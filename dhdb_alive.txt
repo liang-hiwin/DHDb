@@ -10760,6 +10760,7 @@ a814.oadz.com
 a823.com
 a859.g4.akamai.net
 a88.us
+a8999.com
 a8f947.com
 a8gz.com
 a8ht.hipp.fr
@@ -13487,6 +13488,7 @@ adv.baotintuc.vn
 adv.ccb.com
 adv.drtuber.com
 adv.ettoday.net
+adv.fjtv.net
 adv.grtn.cn
 adv.jxnews.com.cn
 adv.livedoor.com
@@ -61563,6 +61565,7 @@ indicaterhools.site
 indicative.com
 indicia.com
 indics.com
+indictmentchurchill.com
 indieclick.3janecdn.com
 indieclick.com
 indiehacker.im
@@ -100724,6 +100727,7 @@ shenshuw.com
 shentaiesp.asia
 shentongdata.com
 shentou.org
+shentupk85.com
 shentupki.com
 shenweimicro.com
 shenweisupport.com
@@ -100940,6 +100944,7 @@ shiqidu.com
 shiqu.com
 shiqumao.com
 shireyishunjian.com
+shisanlou.com
 shishagame.com
 shishanghezi.com
 shishike.com
@@ -131656,7 +131661,9 @@ xlmdytt.com
 xlnuj.com
 xlobo.com
 xlog-va.musical.ly
+xlog-va.tiktokv.com
 xlog.snssdk.com
+xlog.tiktokv.com
 xlounge.ru
 xlovecam.com
 xlp2.com
