@@ -3564,6 +3564,7 @@ a-counter.com.ua
 a-counter.kiev.ua
 a-dxk.play.api.3g.youku.com
 a-mo.net
+a.198banjia.com
 a.779.net
 a.7baike.com
 a.adk2x.com
@@ -6608,6 +6609,7 @@ bdysite.com
 bdzhhjnml.pw
 beacon-1.newrelic.com
 beacon-us-sjc1.rubiconproject.com
+beacon.gtimg.com
 beacon.heliumnetwork.com
 beacon.richrelevance.com
 beacon.search.yahoo.com
@@ -7488,6 +7490,7 @@ britishproxy.uk
 brizads.com
 brlfycvtbo.com
 brlxlpe8pmdgqv.ru
+broced.co
 brogiao.com
 broklam.com
 broomboxmain.com
@@ -9485,6 +9488,7 @@ cn-msedge.net
 cn-soft.com
 cn-visa.com
 cn-xbn.com
+cn.api.push.le.com
 cn.bing.net
 cn.dayabook.com
 cn.fmnnow.com
@@ -10247,6 +10251,7 @@ cupoden.com
 curarmbin.club
 curker.ru
 curlc.com
+curnkiosk.com
 curtainsky.wang
 cusdvs.net
 customer-security.online
@@ -20942,6 +20947,7 @@ lyblog.net
 lybmmxah.com
 lycosu.com
 lycryp.com
+lydgyhthfb.com
 lyfczxw.com
 lyfwpt.com.cn
 lyg001.com
@@ -21734,6 +21740,7 @@ medprofile.cn
 medserv.carrefour.com
 medserv.carrefour.fr
 medtiz.com
+medware.top
 medyanetads.com
 meeket.com
 meeuapp.net
@@ -26015,6 +26022,7 @@ qydzycrxlkdlin.com
 qyec.com
 qyerstatic.com
 qyfunsvmtudozq.com
+qyhwqie.cn
 qyi.io
 qyifxakawscsyd.com
 qyillxuyjdlmh.com
@@ -35305,6 +35313,7 @@ y4dg.cc
 y4dg.com
 y6162.com
 y66zz.com
+y7o9rh.cn
 y7wr7.cn
 y8tc.14.iamallama.com
 y999.com
