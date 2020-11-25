@@ -13192,6 +13192,7 @@ adshmct.qq.com
 adshmmsg.qq.com
 adshoppeevents.com
 adshopping.com
+adshostnet.com
 adshot.de
 adshow.58.com
 adshow.it168.com
@@ -35475,6 +35476,7 @@ d3iouejux1os58.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 d3j1weegxvu8ns.cloudfront.net
+d3j3yrurxcqogk.cloudfront.net
 d3jgr4uve1d188.cloudfront.net
 d3k68ig7ckr3r6.cloudfront.net
 d3kblkhdtjv0tf.cloudfront.net
@@ -48448,6 +48450,7 @@ fsacebok.com
 fsae.com
 fsaticze.com
 fsbeisuda.com
+fsbotviofnthgk.com
 fsbus.com
 fsbywj.com
 fscebook.com
@@ -63411,6 +63414,7 @@ ivayy.com
 ivcbrasil.org.br
 ivemusic.net
 iverycd.com
+ivfihumeajjmbc.com
 ivhnnw.com
 ivideo.sytes.net
 ivideostar.com
@@ -81031,6 +81035,7 @@ mybasilsoup.com
 mybbc-analytics.files.bbci.co.uk
 mybbchina.net
 mybbs.us
+mybdqn.com
 mybeatsbydrestudio.com
 mybeatsbydreuk.com
 mybeatscheapbydre.com
@@ -85084,6 +85089,7 @@ oemol.com
 oemresource.com
 oende.cn
 oenhan.com
+oeob.net
 oeofo.com
 oesell.com
 oetsi.com
@@ -89463,6 +89469,7 @@ pjtra.com
 pjtsu.com
 pjtx.net
 pjx1ky4xhwip.com
+pjxna.xyz
 pjylw.net
 pjyu.golden1.sogou.com
 pk.zhuaji.org
@@ -90372,6 +90379,7 @@ portkingric.net
 portlytinytimeout.com
 portmoody.tk
 portofinohotels.cc
+portoflower.com
 ports-intl.com
 porzo.com
 pos.baidu.com
@@ -90721,6 +90729,7 @@ prchecker.info
 prchistory.org
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
+prd-collector-auth.playbuzz.com
 prdcity.com
 prdele.eu
 pre-bmwgroup.jobs
@@ -104626,6 +104635,7 @@ ssp.otm-r.com
 ssp.pro.cn
 ssp.rambler.ru
 ssp.tadseeker.com
+ssp.tencentmusic.com
 ssp.tenmax.io
 ssp.xiaomi.com
 ssp.youxiaoad.com
@@ -107872,6 +107882,7 @@ tagphi.net
 tagprice.com
 tags.bluekai.com
 tags.cdn.circlesix.co
+tags.creativille.co.uk
 tags.crwdcntrl.net
 tags.growingio.com
 tags.master-perf-tools.com
@@ -110234,6 +110245,7 @@ tigerchef.com
 tigerfintech.com
 tigervpn.com
 tigeryun.com
+tigtag.com
 tijian001.com
 tijian123.com
 tijianbao.com
@@ -118744,6 +118756,7 @@ waistcoataskeddone.com
 waistcoatfast.com
 waitig.com
 waitingpresen.info
+waitor.info
 waitsun.com
 waitui.net
 waiwaier.com
