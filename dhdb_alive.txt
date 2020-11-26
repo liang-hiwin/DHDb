@@ -27786,7 +27786,6 @@ cdn1.lp.saboom.com
 cdn1.pebx.pl
 cdn1.res.nx5.com
 cdn1.srv.revdepo.com
-cdn11.anime-stream24.com
 cdn11.contentabc.com
 cdn15.acloudimages.com
 cdn2.071811.cc
@@ -28893,7 +28892,6 @@ chenzhongtech.com
 cheonhyeong.com
 cheoo.com
 cheoz.com
-chepin88.com
 chepinnet.com
 chepinxiu.net
 chepoo.com
