@@ -9329,6 +9329,7 @@
 913h6.cn
 913nd.dieti-natura.es
 913u.com
+913vt.com
 91472.com
 915.com
 915.im
@@ -25654,6 +25655,7 @@ bzdww.com
 bzfwq.com
 bzfxw.com
 bzgd.com
+bzgxqj.com
 bzidp.com
 bzkad.com
 bzko.com
@@ -29532,6 +29534,7 @@ chinasnow.net
 chinasnw.com
 chinaso.com
 chinasocialdemocraticparty.com
+chinasofti.com
 chinasoftinc.com
 chinasou.com
 chinasoul.org
@@ -75430,6 +75433,7 @@ macintoshsoftware.com
 macjb.com
 mackeeper.com
 mackeeperapp.mackeeper.com
+mackext.com
 macmini.com
 macno1.com
 macocn.com
@@ -91868,6 +91872,7 @@ puma-api.iqiyi.com
 puma.api.iqiyi.com
 pumao.net
 pumf.org
+puminlvyou.com
 pumped.io
 pumpvip.com
 pumtaimp.com
@@ -111922,6 +111927,7 @@ trackeame.com
 trackedlink.net
 trackedweb.net
 tracker-api.my.com
+tracker-cdn.moeking.me
 tracker-id.cdiscount.com
 tracker-tds.info
 tracker-udp.gbitt.info
