@@ -462,6 +462,7 @@
 114s.com
 114so.cn
 114study.adsame.com
+114yeah.com
 11544.com
 1155q.com
 1158pk.com
@@ -5141,6 +5142,7 @@ analytics.artirix.com
 analytics.bl
 analytics.blogspot.in
 analytics.bloomberg.com
+analytics.brandcrumb.com
 analytics.cervellio.com
 analytics.dol.gr
 analytics.edgekey.net
