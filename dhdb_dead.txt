@@ -2005,7 +2005,6 @@
 51cnhr.com
 51coolpad.com
 51daiwei.com
-51datakey.com
 51diangu.com
 51dianji.cn
 51dojoy.com
@@ -5833,7 +5832,6 @@ atax.gamestats.com
 atax.ign.com
 atax.teamxbox.com
 atcanjhcv.com
-atchinese.com
 atcpu.com
 ateoildim.club
 atgsvcs.com
@@ -7083,7 +7081,6 @@ bjfz.cc
 bjgesainuo.com
 bjh789.com
 bjhdsc.com
-bjhengdiao.com
 bjhpk.com
 bjhqhhw.com
 bjhyyx.net
@@ -9757,7 +9754,6 @@ codeok.com
 codepollen.net
 coderbolg.com
 coderclock.com
-coderlord.com
 coderprepares.com
 coderrobin.com
 codes.wai.it
@@ -26486,7 +26482,6 @@ riqu2015.com
 risencn.com
 risle.ru
 risunsolar.com
-ritarpower.com
 ritecounter.com
 ritering.com
 rivrai.com
