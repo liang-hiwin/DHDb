@@ -10511,7 +10511,6 @@ a.letsjerk.to
 a.ligatus.com
 a.livesportmedia.eu
 a.lz13.cn
-a.m.gxwztv.com
 a.mayakinfo.ru
 a.mct01.com
 a.medialaancdn.be
@@ -22494,7 +22493,6 @@ bitol.net
 bitonclick.com
 bitqiu.com
 bitquick.co
-bitraffic.com
 bitren.com
 bitsde.com
 bitshuo.com
@@ -25735,7 +25733,6 @@ c.bxb.oupeng.com
 c.c4.workers.dev
 c.caijing123.com
 c.cdlkzb.com
-c.chaochao132.xyz
 c.citic
 c.cnzz.com
 c.code222.com
