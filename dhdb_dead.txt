@@ -114,6 +114,7 @@
 029rencai.com
 029zp.com
 02b0.com
+02f08caa2ee.com
 02kdid.com
 02m5j.cn
 02wan.com
@@ -1872,6 +1873,7 @@
 4cbd1.azurewebsites.net
 4cun.com
 4d4c.com
+4ded47cc011c1.com
 4dex.io
 4dsbanner.com
 4e34b4865905c4.com
@@ -3733,6 +3735,7 @@ a4s6.com
 a5.yeshj.com
 a52.privatedns.org
 a5e04df959f1af34.com
+a5e2773db8a5.com
 a6.bjdianyue.com
 a6.chaojilamei.cn
 a6.hujiang.com
@@ -10717,6 +10720,7 @@ d24eyxbghz0zxt.cloudfront.net
 d24f0fbbs0l72b.cloudfront.net
 d250oh0inbp07d.cloudfront.net
 d2518dpi0ehrmy.cloudfront.net
+d25192919cb6d.com
 d2522tws4pjc2c.cloudfront.net
 d258hxk86e2ixw.cloudfront.net
 d25a42c2b7y7jt.cloudfront.net
@@ -11575,6 +11579,7 @@ deyioo.com
 dezhouqh.com
 df.mmo001.info
 df3n43m.com
+df56c6ad09.com
 df6a.https.cdn.softlayer.net
 df77.com
 df892.com
@@ -13549,6 +13554,7 @@ f6fd947d0f7.com
 f773.com
 f7777.net
 f826fdf639.com
+f82ef2dafcfe.com
 f85c751e0b4.com
 f8a22e34a2.com
 fa.corp.163.com
@@ -13729,6 +13735,7 @@ fbthirdpartypixel.net
 fbthirdpartypixel.org
 fbzm.pqnlorg.cn
 fc-.cdn.bcebos.com
+fc4254b6e17.com
 fc455c6ee5.com
 fc571.com
 fc811.com
