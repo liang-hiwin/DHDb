@@ -38430,6 +38430,7 @@ display.digitalriver.com
 display.nativemedia.rs
 display.studio
 displaycontentnetwork.com
+displaycontentprofit.com
 displaymarketplace.com
 displaynetworkprofit.com
 displaynews.live
@@ -55143,6 +55144,7 @@ hbzrtx.com
 hbzsb.com
 hbzxr.com
 hbzywh.com
+hc-analytics.idp.clogin.att.com
 hc-byq.com
 hc-software.com
 hc.dhcp.biz
@@ -84193,6 +84195,7 @@ notenpartner.de
 notepad-plus-plus.org
 notepad.pw
 notepadprinting.com.au
+notes-analytics-events.apple.com
 notestscredi.club
 notetech.org
 notevenwrong.net
@@ -92704,6 +92707,7 @@ qdaeon.com
 qdaiduo.com
 qdaily.com
 qdailyapp.com
+qdatasales.com
 qdbaikal.com
 qdbdsk.com
 qdccdl.com
@@ -99574,6 +99578,7 @@ securedocs.com
 securee.ru
 secureeavesdroppingdisguised.com
 securegate.xyz
+securegate9.com
 secureintl.com
 securemoney.ru
 securenetconnection.com
@@ -119792,6 +119797,7 @@ wearesaudis.net
 wearn.com
 weartrends.com
 weasing.com
+weather-analytics-events.apple.com
 weather-data.apple.com
 weather.com.hk
 weatherdt.com
