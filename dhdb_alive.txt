@@ -14590,6 +14590,7 @@ air2s.com
 airairgu.com
 airasia-firebase.firebaseio.com
 airasia.com
+airav.asia
 airav.cc
 airav.city
 airav.co
@@ -16727,6 +16728,7 @@ api-es.doglobal.net
 api-extractor.com
 api-flow.flyme.cn
 api-flow.meizu.com
+api-location-prd.pelcro.com
 api-login.kkbox.com.tw
 api-lp1.znc.srv.nintendo.net
 api-luckycoinsdk.doglobal.net
@@ -35782,6 +35784,7 @@ dagfs.com
 daghighparto.com
 dagnar.com
 dagolor.pw
+dagonghuzhu.com
 dagospia.com
 daguangnews.com
 dagumanhua.net
@@ -36481,6 +36484,7 @@ daxia.com
 daxiaamu.com
 daxiangdaili.com
 daxiit.com
+daxijia.cn
 daxishi.com
 daxiyu.com
 daxueask.com
@@ -42017,6 +42021,7 @@ ecrans.fr
 ecrent.com
 ecrrc.com
 ecshop.com
+ecshop.name
 ecsponline.com
 ecsqyotk.com
 ecstart.com
@@ -53857,6 +53862,7 @@ h.canmg.cn
 h.cliphunter.com
 h.dd.dnsrd.com
 h.holder.com.ua
+h.how5.cn
 h.imedia.cz
 h.irs01.com
 h.msn.com
@@ -58618,6 +58624,7 @@ huiqituan.com
 huiranpk.com
 huirendai.com
 huiris.com
+huirnbrfj.com
 huirong168.com
 huiruanzhijia.com
 huishangbao.com
@@ -61169,6 +61176,7 @@ img.shengdingkm.com
 img.shoplineapp.com
 img.shoubiao88.com.cn
 img.shouji.sogou.com
+img.sxcol.cn
 img.tan5858.com
 img.taotaosou.cn
 img.tcdxt.com
@@ -85294,6 +85302,7 @@ ofdittor.com
 ofdl.nctu.me
 ofeetles.pro
 ofenltlzepz.com
+ofexmskz.com
 offaces-butional.com
 offalakazaman.com
 offbeatchina.com
