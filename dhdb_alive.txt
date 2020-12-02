@@ -4339,6 +4339,7 @@
 360protected.com
 360pw.com
 360qc.com
+360qhcdn.com
 360qikan.com
 360qikan.net
 360qws.com
@@ -6701,6 +6702,7 @@
 56zzx.com
 57.com.cn
 57023.com
+57138.com
 571400.net
 571free.com
 571seo.com
@@ -7351,6 +7353,7 @@
 6396i.com
 6399868.com
 63diy.com
+63ee.net
 63ff.net
 63fut3uw0b.xyz
 63gg.net
@@ -19647,6 +19650,7 @@ baguatoutiao.com
 baguinet.com
 bagus.my
 bagxs.com
+bahemei.com
 bahens.com
 bahhexelm.com
 bahisciler.co
@@ -20928,6 +20932,7 @@ bdtic.com
 bdtjrcv.com
 bdtkba.com
 bdtm.net
+bdtongfei.cn
 bdtwxreri.com
 bdu.focus.cn
 bdu1.coozhi.cn
@@ -22630,6 +22635,7 @@ bituzi.com
 bitvip.com
 bitvise.com
 bitwarden.com
+bitx.tv
 bityun.org
 biu.co
 biuapp.im
@@ -22889,6 +22895,7 @@ bjldh.com
 bjledu.com
 bjlemon.com
 bjlevsoft.com
+bjljjk.com
 bjlkhd.net
 bjlmfq.com
 bjlmok.com
@@ -84684,6 +84691,7 @@ nouseeth.com
 noutstancerewe.info
 nouvelobs.com
 nouvelobs.s3-website-eu-west-1.amazonaws.com
+nouzhu.cn
 nov.evmenov37.ru
 nov.im
 nova.dice.net
@@ -109576,6 +109584,7 @@ teamall.cc
 teamamericany.com
 teambetaffiliates.com
 teambition.com
+teambition.net
 teambitionapis.com
 teambox.com
 teambuy.cc
@@ -124848,6 +124857,7 @@ www.acevpn.com
 www.acfx.com
 www.acgft.com
 www.acgn.ren
+www.acgnx.se
 www.acgsou.com
 www.acgzone.org
 www.acint.net
@@ -125010,6 +125020,7 @@ www.anime-sharing.com
 www.anime.reactor.cc
 www.animetake.com
 www.anipodium.de
+www.anix.moe
 www.anonine.se
 www.anonvpn.io
 www.anonymouse.ws
