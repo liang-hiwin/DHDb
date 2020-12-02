@@ -9218,6 +9218,7 @@
 8c9cc6d2b0e13.com
 8c9cz5kp0o.com
 8cc5ff581a88.bitsngo.net
+8cce6d834ab4e80c7.com
 8cheche.com
 8chzga.v.admaster.com.cn
 8cnd.com
@@ -42662,6 +42663,7 @@ efotile.com
 efount.com
 efpp.com
 efproject.net
+efrcjwdcwhhqrx.com
 eftoutiao.com
 efubo.com
 efucms.com
@@ -65147,6 +65149,7 @@ jiantizi.com
 jiantuku.com
 jianwang360.com
 jianwi.com
+jianxinshanghai.com
 jianxun.io
 jianyi.net
 jianyousj.com
@@ -98761,6 +98764,7 @@ saikr.com
 sail-club.com
 sail.name
 sail2world.com
+sailcovertend.com
 saili.science
 sailif.com
 sailingyun.com
@@ -108185,6 +108189,7 @@ sznews.com
 szniushi.com
 sznmd.com
 szns-marathon.com
+sznycm.com
 szol.net
 szolxd.com
 szonline.net
@@ -116263,10 +116268,12 @@ us-central1-metronaut-dev-fa32c.cloudfunctions.net
 us-central1-ripple-3dc2d.cloudfunctions.net
 us-central1.cloudfunctions.net
 us-east.beeppool.org
+us-events.api.iheart.com
 us-ex.com
 us-pool.beeppool.org
 us-stratum.viaxmr.com
 us-tracker.publictracker.xyz
+us-tracking.nextdoor.com
 us-u.openx.net
 us.02.ns02.us
 us.3zs0.date
