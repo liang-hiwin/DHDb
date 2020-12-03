@@ -19032,6 +19032,7 @@ awoyun.com
 awprt.com
 awptjmp.com
 awqsaged.cn
+aws-ajax.com
 aws-iot-hackathon.com
 aws.e8play.cc
 aws1.millegrilles.com
@@ -33627,6 +33628,7 @@ cpp-prog.com
 cpp-summit.org
 cpp114.com
 cppblog.com
+cppccnews.com
 cppcns.com
 cppfans.org
 cppfoto.com
@@ -86738,6 +86740,7 @@ opposk.ga
 oppressiveinterdependenthumanity.com
 opps.taboola.com
 opqnext.com
+opqsr.com
 opr.formulas.jp
 oproi.com
 opromo.com
