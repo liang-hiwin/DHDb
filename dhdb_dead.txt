@@ -727,6 +727,7 @@
 16kxsw.com
 16manhua.com
 16o8.com
+16tree.com
 170i.com
 170tao.com
 17117a.com
@@ -5224,6 +5225,7 @@ analytics.bloomberg.com
 analytics.brandcrumb.com
 analytics.cervellio.com
 analytics.dol.gr
+analytics.easyvideo.vn
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics.fairfax.com.au
@@ -7387,6 +7389,7 @@ bmw-connecteddrive.lt
 bmw-connecteddrive.lv
 bmw-fleet.net
 bmw-int1.com
+bmw-routes.com
 bmw-world.net
 bmw.com.ge
 bmwarchiv.at
