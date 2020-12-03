@@ -3334,7 +3334,6 @@
 92bbs.net
 92cc.com
 92ec94d51076357.com
-92gzc.com
 92hidc.net
 92jc.net
 92jn.com
@@ -4212,7 +4211,6 @@ adm.ps.easou.com
 adm.sina.com.cn
 adm.zbinfo.net
 admaster.mobi
-admaster.net
 admax.quisma.com
 admaxer.ru
 admedia.com.vn
@@ -4365,7 +4363,6 @@ adserverplus.com
 adservhere.com
 adservr.de
 adsettings.com
-adsgangsta.com
 adsgid.com
 adsglow.net
 adshare.freedocast.com
@@ -9592,7 +9589,6 @@ cloudserver01.com
 cloudservice28.kingsoft-office-service.com
 cloudsmobi.com
 cloudsoar.com
-cloudstack-china.org
 cloudtcp.net
 cloudtomicro.com
 cloudvdn.com
