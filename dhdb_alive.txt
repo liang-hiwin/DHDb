@@ -2138,7 +2138,6 @@
 16rd.com
 16rd.net
 16sucai.com
-16tree.com
 16tz.com
 16wl.cc
 16xcw.com
@@ -4331,7 +4330,6 @@
 360protected.com
 360pw.com
 360qc.com
-360qhcdn.com
 360qikan.com
 360qikan.net
 360qws.com
@@ -15982,7 +15980,6 @@ analytics.disneyinternational.com
 analytics.dpd.com
 analytics.dugun.com
 analytics.dvidshub.net
-analytics.easyvideo.vn
 analytics.ecosia.org
 analytics.eip.telegraph.co.uk
 analytics.electro-com.ru
@@ -18105,7 +18102,6 @@ asciimw.jp
 ascraftan.com
 asd.01.longmusic.com
 asd.projectfreetv.so
-asd.sincetrade.com
 asd.zuhaowan8.com
 asd2.projectfreetv.so
 asd868.com
@@ -23751,7 +23747,6 @@ bmw-plant-munich.com
 bmw-powertrain.com
 bmw-product-highlights.com
 bmw-qatar.com
-bmw-routes.com
 bmw-rp.com
 bmw-rrdays.com
 bmw-saudiarabia.com
