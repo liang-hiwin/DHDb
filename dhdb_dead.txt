@@ -8567,7 +8567,6 @@ cdnmerkezi.ninja
 cdnok.com
 cdnopw.com
 cdnpod.com
-cdnqq.yl89.cn
 cdnst.net
 cdntest.a8tiyu.com
 cdntip.com
@@ -9674,7 +9673,6 @@ cn.manvip610.com
 cn.manxbridge.com
 cn.net
 cn.nimiq.com
-cn.tmagazine.com.nyud.net
 cn.vc
 cn.voa.mobi
 cn0-6.com
@@ -15079,7 +15077,6 @@ glawyer.net
 glb6.com
 glbdns.com
 glbdns.microsoft.com
-gleersoo.net
 glenoldencedarburg.com
 glenviewexcello.com
 glgcclcyz.com
