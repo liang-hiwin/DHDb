@@ -3120,6 +3120,7 @@
 22.jetos.com
 22.ly.rs
 22.now-ip.net
+22.qingsongbar.com
 22.suroot.com
 22.te.rs
 220808.com
@@ -10813,6 +10814,7 @@ a66qq.com
 a67dy.com
 a67z.com
 a6be07586bc4a7.com
+a6f845e6c37b2833148.com
 a6lxbeui.ru
 a6x4effomlxe.com
 a7.com
@@ -16950,6 +16952,7 @@ api.kiip.me
 api.ktplay.com
 api.kwaizt.com
 api.leancloud.cn
+api.lgsstyel.com
 api.mcwbiz.com
 api.mediarithmics.com
 api.mediation.amberweather.com
@@ -31981,6 +31984,7 @@ cnszkl.com
 cnt.3dmy.net
 cnt.alawar.com
 cnt.iceporn.com
+cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.my
 cnt.nicemix.com
@@ -48833,6 +48837,7 @@ ftp.coinlab.biz
 ftp.freecontent.info
 ftp.freecontent.net
 ftp.ichinaka.com
+ftp.uptobox.com
 ftp0118.info
 ftp1.biz
 ftpaccess.cc
@@ -115309,6 +115314,7 @@ uc.qq.uuaoz.com
 uc.ucweb.com
 uc.udn.com.tw
 uc.xddi.ru
+uc.xiansuper.com
 uc.zhuici.com
 uc108.com
 uc123.com
