@@ -1090,7 +1090,6 @@
 22.gotgeeks.com
 22.otzo.com
 22.proxydns.com
-22.qingsongbar.com
 221234.xyz
 221316.com
 2222178.com
@@ -5500,7 +5499,6 @@ api.jsfc8.cn
 api.koudaikj.com
 api.l33tsite.info
 api.leadbolt.net
-api.lgsstyel.com
 api.linksalpha.com
 api.logmatic.io
 api.lwansc.cn
@@ -8904,7 +8902,6 @@ che43.com
 cheapbagshoes.com
 cheapheadsetmall.com
 cheapheadsetshop.com
-cheapshoesvip.com
 cheapwireless04.com
 chebse.com
 check.cc
@@ -30683,7 +30680,6 @@ ubutplho.com
 ubxnqtnnoljn.com
 uc-japan.org
 uc.whkwpzz.cn
-uc.xiansuper.com
 uc56.com
 uca6.com
 ucaliyun.cn
