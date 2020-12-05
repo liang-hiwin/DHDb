@@ -332,7 +332,6 @@
 024hp.com
 024hpg.com
 024huada.com
-024ybtg.com
 024zihai.com
 024zol.com
 02516.com
@@ -16880,7 +16879,6 @@ api.atas.io
 api.atdmt.com
 api.avocet.io
 api.bailingjiankang.com
-api.bd-gl.com
 api.birdmedia.com
 api.bitp.it
 api.bitumconference.ru
