@@ -126,6 +126,7 @@
 00yyyy.com
 01-123.com
 01-cf.com
+01.gxso.net
 0101122.com
 0101826.com
 0101shop.com
@@ -7056,6 +7057,7 @@
 5lyq.com
 5m68.com
 5maodang.com
+5mgurg.cn
 5minsgold.com
 5mme.com
 5mnh.com
@@ -32152,6 +32154,7 @@ cocos2dx.net
 cocoseditor.com
 cocostudio.org
 cocounion.com
+cocss.com
 cocthailand.com
 cocty.com
 cod.bitrec.com
@@ -33070,6 +33073,7 @@ coova.org
 coovbbs.com
 coovee.com
 coovee.net
+coovouch.com
 coozhi.com
 cop3.changeip.net
 copacet.com
