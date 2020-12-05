@@ -12638,6 +12638,7 @@ adnet.de
 adnet.lt
 adnet.ru
 adnet.vn
+adnetpartner.com
 adnetpub.yaolan.com
 adnetwork.vn
 adnetworkme.com
@@ -20703,6 +20704,7 @@ bcvc.mobi
 bcvcmedia.com
 bcvcrdr.xyz
 bcvpn.net
+bcvutcks.com
 bcweibo.com
 bcxww.com
 bcy.net
@@ -31131,6 +31133,7 @@ cloudsgis.com
 cloudsigma.com
 cloudsohu.net
 cloudsrvtrk.com
+cloudstack-china.org
 cloudtopo.com
 cloudtracer101.com
 cloudtracked.com
@@ -71490,6 +71493,7 @@ leitingcn.com
 leitingjunshi.com
 leiue.com
 leixjun.com
+leiyunge.net
 lejdd.fr
 lejhdbxl.com
 lejiachao.com
@@ -72113,6 +72117,7 @@ liberdomus.org
 libertystmedia.com
 libertytimes.com.tw
 libfre.obs.cn-east-3.myhuaweicloud.com
+libili.com
 libinx.com
 libisky.com
 libnav.com
