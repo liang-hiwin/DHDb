@@ -12349,7 +12349,6 @@ adimages.sina.com.hk
 adimg.ce.cn
 adimg.cqnews.net
 adimg.daumcdn.net
-adimg.dayoo.com
 adimg.deviantart.net
 adimg.mobile.sina.cn
 adimg.uimserv.net
@@ -32157,7 +32156,6 @@ cocos2dx.net
 cocoseditor.com
 cocostudio.org
 cocounion.com
-cocss.com
 cocthailand.com
 cocty.com
 cod.bitrec.com
