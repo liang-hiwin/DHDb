@@ -15164,6 +15164,7 @@ alice.xfu.jp
 alicejapan.co.jp
 alicloud.com
 alicloudapi.com
+alicmayuns.com
 alidayu.com
 alidns.com
 alidongxi.com
@@ -35828,6 +35829,7 @@ dabangp.com
 dabangq.com
 dabao123.com
 dabaoku.com
+dabaoku.net
 dabieshu.com
 dabin69.com
 dable.io
