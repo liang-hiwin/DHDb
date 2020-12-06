@@ -4180,6 +4180,7 @@ adhubbj.xyz
 adidasevent.com
 adimg.bbcss.com
 adimg.cpmchina.co
+adimg.dayoo.com
 adimg.qxlsjw.com
 adimg.vue.weibo.com
 adimgs.xici.net
@@ -9893,6 +9894,7 @@ coco988.cn
 cocophp.com
 cocos2dev.com
 cocosbcx.net
+cocss.com
 code.51sotu.com
 code.admin6.com
 code.barrior.online
