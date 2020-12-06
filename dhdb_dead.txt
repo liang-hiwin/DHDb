@@ -367,7 +367,6 @@
 10086.cn.baidu.cdn.yiwk.com
 100ayrc.com
 100bo100.com
-100cpc.com
 100credit.com
 100du.com
 100dyrc.com
@@ -9712,7 +9711,6 @@ cn.manxbridge.com
 cn.net
 cn.nimiq.com
 cn.nytimes.com.nyud.net
-cn.tmagazine.com.nyud.net
 cn.vc
 cn.voa.mobi
 cn0-6.com
@@ -23564,7 +23562,6 @@ nqnggjvdzsy.com
 nqp0852y7r.com
 nqv63c7lai.com
 nqvlw.com
-nqwkzvqwa.com
 nqxdnmsp.com
 nqzmtrwend.com
 nqzmumesrbiy.com
@@ -23964,7 +23961,6 @@ okcklbtuel.com
 okdvodyejd.com
 okexysylgzo.ru
 okeyletsgo.ml
-okfri.com
 okhimalayanzi.com
 oki.sxlczj.cn
 oki.xcyjzs.net
