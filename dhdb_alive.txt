@@ -5847,7 +5847,6 @@
 51php.com
 51piaozi.com
 51pigai.com
-51pintan.com
 51pinwei.com
 51pjmm.com
 51pla.com
@@ -6261,7 +6260,6 @@
 52linglong.com
 52lion.com
 52lishi.com
-52lubo.cn
 52lvyou.com
 52m.xde6.net
 52mac.com
@@ -15166,7 +15164,6 @@ alice.xfu.jp
 alicejapan.co.jp
 alicloud.com
 alicloudapi.com
-alicmayuns.com
 alidayu.com
 alidns.com
 alidongxi.com
@@ -16626,7 +16623,6 @@ anzerclub.com
 anzhen.org
 anzhi.com
 anzhixun.com
-anzhouinvest.com
 anzhuo2.com
 anzhuocpm.com
 anzhuoshangdian.com
@@ -25163,7 +25159,6 @@ bugreportv2.qq.com
 bugsec.org
 bugtags.com
 bugutime.com
-bugv.net
 bugxia.com
 bugzilla.mozilla.org
 bugzilla.org
@@ -28157,7 +28152,6 @@ cenray-ic.com
 censh.com
 censoredplanet.org
 census.gov
-census11.com
 centanet.com
 centauro.com.br
 centavoip.com.ar
