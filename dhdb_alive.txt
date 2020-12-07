@@ -17682,7 +17682,6 @@ appurl.me
 appuu.cn
 appving.com
 appvipshop.com
-appvv.com
 appwall.api.airpush.com
 appwall.tv2phone.cn
 appwebview.com
@@ -31164,7 +31163,6 @@ cls.vrvm.com
 cls7.theushuaiaexperience.com
 clsa.com
 clsn.io
-clssn.com
 cltt.org
 club-img.douyucdn.cn
 club.arte.tv
