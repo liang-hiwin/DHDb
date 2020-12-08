@@ -727,6 +727,7 @@
 169bj.cn
 169gold.net
 169t.com
+16app.tv
 16fenqi.com
 16guu.com
 16k6.com
@@ -1507,6 +1508,7 @@
 360wbl.com
 360webcache.com
 360wscdn.com
+360wyw.com
 360wzb.com
 360zhaoa.com
 360zhuizhu.com
@@ -2231,6 +2233,7 @@
 52qmct.com
 52qqba.com
 52qumao.com
+52shouyu.com
 52ssr.cn
 52tansuo.net
 52tt.vip
@@ -2605,6 +2608,7 @@
 66mobi.com
 66nh.com
 66s.cc
+66san.com
 66shlf.com
 66sy.com
 66test.com
@@ -3869,6 +3873,7 @@ aaswayoe.com
 aauisg64017.cn
 aaxtuhit.com
 aay63.com
+aayeljzpuu.com
 aayis.com
 aazwugtom.com
 aazyz.com
@@ -5325,6 +5330,7 @@ animecrazy.net
 anioscp.com
 aniruyt.ru
 anit.ro
+aniworld.tv
 anizedglittledisco.info
 anji-ceva.com
 anji-tonghui.com
@@ -6056,6 +6062,7 @@ avc-ott.com
 avc.com.tw
 avcyr.com
 avdish.com
+avenuesforhumanartistry.com
 avero.xyz
 avesha.cn
 avgle.com.tw
@@ -6924,6 +6931,7 @@ bestvpnchina.net
 bestweb2013stat.lk
 bestwebdeal.net
 bet16.com
+bet301.com
 bet365029.com
 bet3658802.com
 beta.airpush.com
@@ -7226,6 +7234,7 @@ bjhdsc.com
 bjhpk.com
 bjhqhhw.com
 bjhyyx.net
+bjinnovate.com
 bjinternet.com
 bjiwex.com
 bjjhcczgs.com
@@ -8145,8 +8154,10 @@ caacbook.com
 caanb.com
 caasse.com
 cabet016.com
+cabet066.com
 cabet070.com
 cabet075.com
+cabet150.com
 cabet159.com
 cabet181.com
 cabet211.com
@@ -9835,6 +9846,7 @@ cnhbstock.com
 cnhd.com
 cnhlsxe.com
 cnhoney.com
+cnhqzb-wx.com
 cnhsjz.com
 cnhuadong.net
 cnhubei.com
