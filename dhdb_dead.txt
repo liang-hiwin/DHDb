@@ -10970,7 +10970,6 @@ d24eyxbghz0zxt.cloudfront.net
 d24f0fbbs0l72b.cloudfront.net
 d250oh0inbp07d.cloudfront.net
 d2518dpi0ehrmy.cloudfront.net
-d25192919cb6d.com
 d2522tws4pjc2c.cloudfront.net
 d258hxk86e2ixw.cloudfront.net
 d25a42c2b7y7jt.cloudfront.net
@@ -26026,7 +26025,6 @@ qmail.com
 qmcmw.com
 qmconfig.com
 qmengyun.com
-qmhigtmwikvzin.com
 qmin.xin
 qmitao.com
 qmlcdlo.cn
