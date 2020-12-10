@@ -12455,6 +12455,7 @@ adlook.net
 adloop.co
 adlooxtracking.com
 adlpartner.com
+adls.suning.com
 adlure.net
 adlux.com
 adm-vids.info
@@ -13734,6 +13735,7 @@ adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
 adx.adxglobal.com
 adx.agrantsem.com
+adx.appsdk.com.cn
 adx.baolongan.vn
 adx.birdmedia.com
 adx.chip.de
@@ -13747,6 +13749,7 @@ adx.kul.vn
 adx.maplehaze.cn
 adx.ms
 adx.pro.cn
+adx.rrt365.com
 adx.xemvtv.net
 adx.xiaodutv.com
 adx.yiche.com
@@ -16783,6 +16786,7 @@ api-es.doglobal.net
 api-extractor.com
 api-flow.flyme.cn
 api-flow.meizu.com
+api-gi.getui.com
 api-location-prd.pelcro.com
 api-login.kkbox.com.tw
 api-lp1.znc.srv.nintendo.net
@@ -19209,6 +19213,7 @@ b-click.net
 b-eurochina.com
 b-fairy.com
 b-gi.getui.com
+b-gtc.getui.com
 b-ok.as
 b-ok.asia
 b-ok.cc
@@ -25748,6 +25753,7 @@ c-cnzz.com
 c-ctrip.com
 c-est-simple.com
 c-fol.net
+c-gtc.getui.com
 c-hzgt2.getui.com
 c-lion.com
 c-lodop.com
@@ -37556,6 +37562,7 @@ dev.atas.io
 dev.coinlab.biz
 dev.cryptobara.com
 dev.imp.nextmedia.com
+dev.iyuba.cn
 dev.nimiq-network.com
 dev.tg.wan.360.cn
 dev.tg.youxi.com
@@ -53206,6 +53213,7 @@ gssxb.com
 gst-china.net
 gstarcad.com
 gstat.bitauto.com
+gstat.myzaker.com
 gstatic.cn
 gstatic.com
 gstats.cn
@@ -67922,6 +67930,7 @@ k-wisdom.com
 k-xian.com
 k.3mon.xyz
 k.85wa.cn
+k.97wanle.com
 k.ailefen.com
 k.bjjinshuitong.com
 k.cnsayo.com
@@ -71115,6 +71124,7 @@ lc-cn-n1-npxfk.com
 lc-model.com
 lc-news.com
 lc-push.zhihu.com
+lc.getui.com
 lc.jiathis.com
 lc06.cc
 lc123.net
@@ -85009,6 +85019,7 @@ nra.com
 nraddramatica.club
 nradio.me
 nrc.tapas.net
+nrcapi.ssl2.duapps.com
 nrcdiscovery.com
 nrdaixdlt.com
 nrdlj2ru.com
@@ -91934,7 +91945,10 @@ proffigurufast.com
 profi-link.org
 proficientinflectionaluminium.com
 profile.bharatmatrimony.com
+profile.se.360.cn
 profile.ssp.rambler.ru
+profile1.se.360.cn
+profile2.se.360.cn
 profilesnitch.com
 profilesterility.com
 profiliate.net
@@ -100032,6 +100046,7 @@ sdjyjszb.com
 sdk-ab-config.aiclk.com
 sdk-globalconfig.aiclk.com
 sdk-log-inter.youdao.com
+sdk-open-phone.getui.com
 sdk-orion.appboy.com
 sdk.adincube.com
 sdk.adtiming.com
@@ -101116,10 +101131,13 @@ sf.vserv.mobi
 sf007.com
 sf01.fastapi.net
 sf024.com
+sf1-be-pack.pglstatp-toutiao.com
 sf1-ttcdn-tos.pstatp.com
 sf14g.com
+sf3-be-pack.pglstatp-toutiao.com
 sf3-fe-tos.pglstatp-toutiao.com
 sf3-ttcdn-tos.pstatp.com
+sf6-be-pack.pglstatp-toutiao.com
 sf9yvla26s5t.com
 sfacg.com
 sfanf.com
@@ -102355,6 +102373,7 @@ show.m.mediav.com
 show.mediav.com
 show.meituan.yoga
 show.re.taobao.com
+show.suning.beer
 show.tca.org.tw
 show.tcth8.com
 show160.com
@@ -110196,6 +110215,7 @@ temposnitehah.work
 temptedcreationnovel.com
 tempttalk.com
 temtaifu.com
+ten.sngapm.qq.com
 tenacy-free.com
 tenacy-vpn.com
 tenacy.shell.la
@@ -129942,6 +129962,7 @@ www.totuwo.com
 www.touclick.com
 www.toujing1.top
 www.toujing2.top
+www.toujing7.top
 www.toujing8.top
 www.toutiaoabc.com
 www.toutiaopage.com
