@@ -4418,7 +4418,6 @@ adshare.freedocast.com
 adshark.site
 adshob.com
 adshost.site
-adshost2.com
 adsina.allyes.com
 adsister.com
 adslala.com
@@ -9847,7 +9846,6 @@ cn.manvip610.com
 cn.manxbridge.com
 cn.net
 cn.nimiq.com
-cn.tmagazine.com.nyud.net
 cn.vc
 cn.voa.mobi
 cn0-6.com
