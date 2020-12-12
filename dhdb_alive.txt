@@ -2568,6 +2568,7 @@
 1984bbs.com
 1984blog.com
 198503.xyz
+19850608.com
 198526.com
 198526.net
 19869.com
@@ -17127,6 +17128,7 @@ aplestore.com
 aplleipods.com
 aplum-inc.com
 aplum.com
+apluscap.com
 aplusunion.com
 aplusvpn.com
 apm-engine.meteor.com
@@ -18164,6 +18166,7 @@ asiaone.com
 asiapr.id
 asiarobot.net
 asiatgp.com
+asiatoday.us
 asiaxxtv.com
 asicminermarket.com
 asifadeaway.com
@@ -20001,6 +20004,7 @@ banmaaike.com
 banmajsq.com
 banman.isoftmarketing.com
 banmeng_1725.it760.com
+banned.video
 bannedbook.org
 bannednews.org
 banner-in.net
@@ -42268,6 +42272,7 @@ edmontonchina.cn
 edmontonchina.com
 edmontonservice.com
 edmotherew.fun
+edninfo.com
 ednplus.com
 ednrc.com
 edns.biz
@@ -43631,10 +43636,15 @@ epmedios.com.mx
 epnclick.ru
 epnredirect.ru
 epnt.ebay.com
+epoch.cloud
 epoch.com
+epochbuy.com
+epochcar.com
 epochhk.com
+epochmall.com
 epochmediagroup.com
 epochokaypeerless.com
+epochshop.com
 epochstories.com
 epochtime.com
 epochtimes-bg.com
@@ -43657,6 +43667,7 @@ epochtimes.nl
 epochtimes.pl
 epochtimes.ru
 epochtimes.se
+epochtimeshk.org
 epochtimestr.com
 epochweek.com
 epochweekly.com
@@ -44223,6 +44234,7 @@ etufo.org
 etui.fs.ml.com
 etulink.com
 etulinktechnology.com
+etviet.com
 etvonline.hk
 etxtdqxv.com
 etyper.com
@@ -52055,6 +52067,7 @@ golinksworld.com
 golizoli.com
 gollox.de
 golomber.com
+golosameriki.com
 golpebaixo.com.br
 golue.com
 gomain.pro
@@ -62165,6 +62178,8 @@ infotorch.net
 infotrx.zapto.org
 infovc.com
 infovps.site
+infowars.com
+infowarsmedia.com
 infoweb24.com
 infowuxi.com
 infox.sg
@@ -82385,7 +82400,9 @@ n2s.co.kr
 n39hc7isp08t.com
 n3ro.fun
 n3ro.live
+n3ro.lol
 n3ro.net
+n3ro.wtf
 n3x7.xyz
 n423.com
 n4403ad.doubleclick.net
@@ -85173,7 +85190,9 @@ ntcfy.com
 ntd.com
 ntd.tv
 ntdbjlngermplx.com
+ntdca.com
 ntdcantonese.com
+ntdimg.com
 ntdtv.ca
 ntdtv.com
 ntdtv.com.tw
@@ -89253,6 +89272,7 @@ persagg.com
 persecution.net
 persecutionblog.com
 persevered.com
+persianepochtimes.com
 persiankitty.com
 persianstat.com
 persianstat.ir
@@ -120435,6 +120455,7 @@ wannianli.net
 wannianli8.com
 wanning1.com
 wannuoda.com
+wanokokorosoh.com
 wanpaig.4567.org
 wanparks.com
 wanplus.com
