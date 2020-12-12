@@ -10729,7 +10729,6 @@ a3.mzstatic.com
 a3.ogt.jp
 a32a.com.cn
 a337b163a0bc.com
-a33bb68b84b.com
 a34.site
 a35c92d96766745.com
 a3761801a40c59b48.com
@@ -13185,7 +13184,6 @@ adserver.luzu.vn
 adserver.pandora.com
 adserver.rhombusads.com
 adserver.shadow.snapads.com
-adserver.smart.bid
 adserver.snapads.com
 adserver.ubiyoo.com
 adserver.unityads.unity3d.com
@@ -19524,7 +19522,6 @@ backwardkneesencroach.com
 backzero.com
 bacon.section.io
 baconaces.pro
-bad.maienyanjing.cn
 bad.mn
 bad1.51gxqm.com
 badaas.com
