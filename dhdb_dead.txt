@@ -3063,6 +3063,7 @@
 8158ad2ee8d4.com
 815ss.cn
 816.microcycas.com
+816edu.com
 81813.com
 818mov.com
 818today.com
@@ -4417,6 +4418,7 @@ adshare.freedocast.com
 adshark.site
 adshob.com
 adshost.site
+adshostnet.com
 adsina.allyes.com
 adsister.com
 adslala.com
@@ -4801,6 +4803,7 @@ aimo.moe
 aimodou.net
 aimto.cn
 ainiapp.com
+ainiuwa.com
 aiodt.com
 aioemfxj.com
 aiokvzsq.com
@@ -9745,6 +9748,7 @@ cloudsoar.com
 cloudstack-china.org
 cloudtcp.net
 cloudtomicro.com
+cloudtracked.com
 cloudvdn.com
 cloudy2.gq
 clscsbcj.com
