@@ -945,7 +945,6 @@
 1mall.com
 1mint1.info
 1mit.com
-1mm8.com
 1mushroom.com
 1mynews.asia
 1mynews.net
@@ -5661,7 +5660,6 @@ apple-store.wang
 apple-usa.net
 apple.com.akadns.net
 apple.comscoreresearch.com
-apple21.com
 apple4.us
 appleads-trk.com
 appleadstech.com
@@ -7260,7 +7258,6 @@ bj65z.com
 bjadn.net
 bjado.com
 bjaodidazhong.com
-bjbrtc.com
 bjbus.com
 bjbywx.com
 bjcankao.com
@@ -13250,7 +13247,6 @@ ee.64ri.cn
 ee.e701.net
 ee.grtnahd.cn
 ee.i16yf.cn
-ee.inchangling.com
 ee.m08pe.cn
 ee.mtmfjdo.cn
 ee.oikqfwv.cn
