@@ -3884,7 +3884,6 @@ aa-gb.mgid.com
 aa.goodsblock.mgid.com
 aa.tianya999.com
 aa.xiangxiangmf.com
-aa.zldh123.com
 aa059.com
 aa1.ifeng.com
 aa13.cloud
@@ -5772,7 +5771,6 @@ api.adverster.com
 api.aeon.hashvault.pro
 api.appsee.com
 api.authedmine.com
-api.bd-gl.com
 api.bhzejltg.info
 api.calq.io
 api.cdnbye.com
@@ -9936,7 +9934,6 @@ claiks.com
 clandia.cn
 clanzx.net
 clarifyingquack.com
-clarm.ru
 classfoo.com
 classicgir.cn
 claz.com.cn
@@ -13557,7 +13554,6 @@ eco.4hs345.xyz
 eco.chng5.xyz
 eco.hn765f.xyz
 eco.myt7th.xyz
-eco.qasdw3.xyz
 eco.vng25.xyz
 ecomoter.com
 econducte.com
@@ -20823,7 +20819,6 @@ lank.ru
 lanktydm.com
 lanlanlife.com
 lanmogu.net
-lanqiao.org
 lansdaleweare.com
 lansezw.com
 lansha.tv
@@ -23477,7 +23472,6 @@ mvo.dfger.xyz
 mvo.hhnt7r.xyz
 mvo.hn765f.xyz
 mvo.jh76fy.xyz
-mvo.lki6hy.xyz
 mvo.m76ghr.xyz
 mvotvznetuvfb.com
 mvpn.pro
