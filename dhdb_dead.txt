@@ -4574,6 +4574,7 @@ ads2.speedfinancial.online
 ads3.advance.net
 ads3.mojiva.com
 ads345.com
+ads360.cn
 ads4.ad-center.com
 ads4.advance.net
 ads4.mojiva.com
@@ -17634,6 +17635,7 @@ hyndir.com
 hynews.net
 hyp.deaftone.com
 hyper.sh
+hyperoi.com
 hypersell.ru
 hypertrackeraff.com
 hyprshr.com
