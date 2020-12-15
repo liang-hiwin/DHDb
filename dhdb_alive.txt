@@ -5560,6 +5560,7 @@
 517idc.com
 517japan.com
 517jianfei.com
+517kp.com
 517life.com
 517m.cn
 517m5.com
@@ -5988,6 +5989,7 @@
 51vipedu.com
 51vv.com
 51wangdai.com
+51wanquan.com
 51wcity.com
 51web.com
 51websec.com
@@ -18221,6 +18223,7 @@ api.0530hz.cn
 api.11h5.com
 api.140proof.com
 api.186078.com
+api.1q8h.cn
 api.22lianmeng.com
 api.24kidea.com
 api.557400.com
@@ -27568,6 +27571,7 @@ c.f1zd.com
 c.fedsdq.com
 c.fi.msn.com
 c.fr.msn.com
+c.future888.net
 c.gazetevatan.com
 c.gdt.qq.com
 c.gj.qq.com
@@ -32294,6 +32298,7 @@ civilmedia.tw
 civilness.com
 civisec.org
 civitik.com
+civralowjoifjy.com
 ciweek.com
 ciwei.me
 ciweimao.com
@@ -64419,6 +64424,7 @@ img1.g.pptv.com
 img1.jintang114.org
 img1.km.com
 img1.leyun365.com
+img1.mekbet.com
 img1.mini.cache.wps.cn
 img1.nend.net
 img1.pcfg.cache.wps.cn
@@ -85736,6 +85742,7 @@ mytogo.com
 mytokenpocket.vip
 mytomatosoup.com
 mytop-in.net
+mytop.az
 mytopf.com
 mytrack.pro
 mytrackf73.com
@@ -94985,6 +94992,7 @@ poppen.de
 poppur.co
 poppur.com
 poppysol.com
+poppyta.com
 popqiu.com
 popruexo.com
 pops.freeze.com
