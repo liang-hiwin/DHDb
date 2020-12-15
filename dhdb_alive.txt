@@ -22480,6 +22480,7 @@ bdtic.com
 bdtjrcv.com
 bdtkba.com
 bdtm.net
+bdtongfei.cn
 bdtwxreri.com
 bdu.focus.cn
 bdu1.coozhi.cn
@@ -29774,6 +29775,7 @@ cdnssl.clicktale.net
 cdnstats-a.akamaihd.net
 cdnstats.tube8.com
 cdnstoremedia.com
+cdntlz.cn
 cdntrf.com
 cdnudns.com
 cdnunion.com
@@ -78408,6 +78410,7 @@ m.6z1gf.cn
 m.7180443.com
 m.74n3a.cn
 m.77vcd.com
+m.8c3k.cn
 m.8v61j.cn
 m.918.com
 m.91heima.cn
@@ -83580,6 +83583,7 @@ mobileoffers-al-download.com
 mobileoffers-bn-download.com
 mobileraffles.com
 mobilerevenu.com
+mobiletelemetry.ebay.com
 mobiletrain.org
 mobileview.page
 mobileways.de
