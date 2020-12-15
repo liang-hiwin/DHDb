@@ -2158,7 +2158,6 @@
 51vhost.net
 51vs.com
 51wan.com
-51wanquan.com
 51weidashi.com
 51wish.com
 51wj.com
@@ -3442,7 +3441,6 @@
 9499000.com
 94cb903e060e.com
 94cto.com
-94dwc.com
 94nw.com
 94qy.com
 94rp.com
@@ -4155,7 +4153,6 @@ ad.mediabong.net
 ad.mwork.vn
 ad.mygamesol.com
 ad.netzquadrat.de
-ad.outstream.today
 ad.pentabox.net
 ad.preferences.com
 ad.proxy.sh
@@ -8947,7 +8944,6 @@ cdn-tudou.com
 cdn-v.com
 cdn.5bong.com
 cdn.7vyou.com
-cdn.ads.jlscds.com
 cdn.adsymptotic.com
 cdn.aegins.com
 cdn.ajcryptominer.com
