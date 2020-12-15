@@ -1911,7 +1911,6 @@
 492.ddnsking.com
 4948.com
 495.ddnsking.com
-49644913.com
 497-img.com
 497.com
 499-img.com
@@ -9042,7 +9041,6 @@ cdntest.a8tiyu.com
 cdntip.com
 cdntips.com
 cdntips.net
-cdntlz.cn
 cdntrf.de
 cdnunion.org
 cdnvpn.net

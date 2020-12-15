@@ -13824,7 +13824,6 @@ ads.silverdisc.co.uk
 ads.simplyhired.com
 ads.simtel.com
 ads.sina.com
-ads.sitemaji.com
 ads.sjon.info
 ads.skorfikstur.com
 ads.sl.interpals.net
@@ -17539,7 +17538,6 @@ analytics.zg-api.com
 analytics.zhihu.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
-analytics2.socialblade.com
 analytics3.dopool.com
 analytics3.starschina.com
 analyticsapi.happypancake.net
@@ -22249,7 +22247,6 @@ bccard.xyz
 bccfw.com
 bcchinese.net
 bccn.net
-bccp6666.com
 bccv.com
 bcd.esprit.de
 bcdaren.com
@@ -22484,7 +22481,6 @@ bdtic.com
 bdtjrcv.com
 bdtkba.com
 bdtm.net
-bdtongfei.cn
 bdtwxreri.com
 bdu.focus.cn
 bdu1.coozhi.cn
@@ -26305,7 +26301,6 @@ brew.sh
 brewmp.com
 brewster.kahle.org
 brfiles.com
-brgzqubngqbioh.com
 brhthg.com
 briancon05urgencetibet.over-blog.com
 briantreepayments.net
