@@ -4229,7 +4229,6 @@ adbetnet.advertserve.com
 adbitty.com
 adblockdetect.xyz
 adblockerkillswebsites.pw
-adblockmetrics.ru
 adboost.com
 adbreak.net
 adbrn.com
@@ -15703,7 +15702,6 @@ glab2018.com
 glanceguide.com
 glassboxcdn.com
 glassboxdigital.io
-glasszz.com
 glastream.ca
 glaswall.online
 glawyer.net
