@@ -2140,6 +2140,7 @@
 51shop.ink
 51shoubei.com
 51shoufei.net
+51showmy.com
 51taiwanziyouxing.com
 51tanbao.com
 51testing.com
@@ -25836,6 +25837,7 @@ pinterestmail.com
 pintuanzu.com
 pinweiduo.com
 pinwenba.com
+pinyoux.com
 pinyuncloud.com
 pinzhikeji.net
 pioneer-worker.forums-free.com
@@ -39118,6 +39120,7 @@ zxh.site
 zxhrq.cn
 zxin131.cn
 zxjjzx.com
+zxlmnet.com
 zxmseed.com
 zxmxd.com
 zxnic.net
