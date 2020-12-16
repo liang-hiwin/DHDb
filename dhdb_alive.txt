@@ -8991,6 +8991,7 @@
 87xue.com
 87yy.com
 88-baidu.com
+88-sms.com
 88.etowns.org
 8800.org
 8801.net
@@ -13100,6 +13101,7 @@ adp.atm.youku.com
 adp.cnool.net
 adp.gazeta.pl
 adp.homes.co.jp
+adp.s8bbs.com
 adp1.cnool.net
 adp4wb.ru
 adpacks.com
@@ -24486,6 +24488,7 @@ bjmepin.com
 bjmjm.com
 bjmslp.com
 bjmti.com
+bjmxcy.cn
 bjnaxl.com
 bjnewlife.org
 bjnsr.com
@@ -65447,6 +65450,7 @@ int-agri.com
 int.dpool.sina.com.cn
 intagram.com
 intagrm.com
+intake-analytics.wikimedia.org
 intangibleconcordant.com
 intarget.ru
 intc.com
@@ -78541,6 +78545,7 @@ m.cabet988.com
 m.cafafaca.com
 m.cc777.com
 m.cdfzcz.com
+m.cdntlz.cn
 m.cdouj.com
 m.cdxtny.cn
 m.ceyiuy.com
@@ -81422,6 +81427,7 @@ melote.com
 melove.net
 meltdownintibet.com
 meltoday.com
+melvillet.pro
 memacx.com
 memagames.com
 member.cff888.com
@@ -120977,6 +120983,7 @@ ulaaq.com
 ulaen.com
 ulandian.com
 ulaojiu.com
+ulareighte.top
 ularsecono.club
 ularunicalrep.info
 ulc.net
@@ -123285,6 +123292,7 @@ vidarsoft.com
 vidarural.com.br
 vidaugust.ru
 vidble.com
+vidcdn.info
 vidcoin.com
 vidcpm.com
 vidds.net
