@@ -334,6 +334,7 @@
 0xff000000.com
 0y856.com
 1-1ads.com
+1-dt.com
 1-yuan.net
 1.15lu.com
 1.allyes.com.cn
@@ -2848,6 +2849,7 @@
 736bdcef84.com
 736f35dde67b7da2976.com
 7384tv.com
+73999z.com
 73bc.com
 73cm.com
 73ppp.com
@@ -5123,6 +5125,7 @@ ajcsjktzlqh.com
 ajebw.com
 ajhdf.com
 ajialive.com
+ajiez.com
 ajjsffefpooknd.com
 ajkcdn.com
 ajkdns2.com
@@ -5272,6 +5275,7 @@ alicontainer.com
 alidata.org
 alidongxi.com
 aliedge.com
+aliegame.com
 aliexpresskupit.ru
 alifanyi.com
 aligaofang.com
@@ -8288,6 +8292,7 @@ bx.neolabs.kz
 bx.optimix.asia
 bx01.optimix.asia
 bx1k.com
+bx9q3.icu
 bxaddbia.com
 bxczchdxynw.com
 bxczv.cn
