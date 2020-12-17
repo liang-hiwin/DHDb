@@ -17215,6 +17215,7 @@ an-apple-a-day.com
 an-ran.com
 an.1x.net
 an.batmobi.net
+an.biocoop.cn
 an.blogis.org
 an.dongphim.net
 an.m.liebao.cn
@@ -17919,6 +17920,7 @@ antigfw.weebly.com
 antiprism.ca
 antiquesilverhouse.com
 antispywareexpert.com
+antivirus-scanner.com
 antivirus.baidu.com
 antiwave.net
 antiy.com
@@ -19501,6 +19503,7 @@ as.payback.it
 as.sexad.net
 as.sinahk.net
 as.sogo.eu.org
+as.stat.su
 as.trklinklog.com
 as.webmd.com
 as.weixin.qq.com
@@ -69800,6 +69803,7 @@ js.goodemc.com
 js.goods.redtram.com
 js.govbaidu.cn
 js.gsspcln.jp
+js.handanxinkai.com
 js.haoxyx.com
 js.hdzog.com
 js.hkslg520.com
@@ -106841,6 +106845,7 @@ show.look.360.cn
 show.m.mediav.com
 show.mediav.com
 show.meituan.yoga
+show.pinyoux.com
 show.re.taobao.com
 show.suning.beer
 show.tca.org.tw
