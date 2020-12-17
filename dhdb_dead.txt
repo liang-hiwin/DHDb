@@ -799,7 +799,6 @@
 17heli.com
 17kgl.com
 17kuxun.com
-17leyi.com
 17liansuo.com
 17lyhq.com
 17maimaimai.com
@@ -10150,7 +10149,6 @@ cm33.ml
 cmads.us.publicus.com
 cmaif.com
 cmbestsrv.com
-cmbimg.com
 cmbuy10086.com
 cmc168.com
 cmcore.com
@@ -10333,7 +10331,6 @@ cnnerv.com
 cnnetsec.com
 cnnlabs.com
 cnnmoney.ch
-cnodejs.org
 cnpharm.com
 cnplugins.com
 cnpowdertech.com
