@@ -2194,6 +2194,7 @@
 175ha.com
 175pt.com
 175wan.com
+175wx.com
 176.chuangmijishu.xyz
 17611.com
 17666.mobi
@@ -8631,6 +8632,7 @@
 80ml.com
 80nb.com
 80note.com
+80paper.com
 80s.cm
 80s.la
 80s.qucaigg.com
@@ -33338,6 +33340,7 @@ cn-java.com
 cn-jnrc.com
 cn-lcd.com
 cn-mpa.com
+cn-mw.com
 cn-office.com
 cn-proxy.com
 cn-psy.com
@@ -33727,6 +33730,7 @@ cnk8.com
 cnkaile.com
 cnkang.com
 cnkefa.com
+cnki.mobi
 cnki.net
 cnki.vip
 cnkicheck.info
@@ -33735,6 +33739,7 @@ cnkinect.com
 cnkiorg.com
 cnkirito.moe
 cnkis.net
+cnkitop.com
 cnkivip.net
 cnkix.com
 cnkizw.com
@@ -38375,6 +38380,7 @@ danews.cc
 dang-jian.com
 dang-yang.com
 dang3.com
+dangan168.com
 dangaoss.com
 dangbei.com
 dangbei.net
@@ -41777,6 +41783,7 @@ dongcheng120.com
 dongdalou.com
 dongdao.net
 dongdongaijia.com
+dongdongwenda.com
 dongdongyx.com
 dongdongzu.com
 dongdui.com
@@ -50804,6 +50811,7 @@ franticcarpenter.com
 franzsandner.com
 frassli.ir
 frat-party-sluts.com
+fraudjs.io
 fraudoutrageoustransport.com
 frbao.com
 frcasquesbeats.com
@@ -56782,6 +56790,7 @@ gzqudou.com
 gzqunsheng.com
 gzqwkj.com
 gzqxxz.net
+gzrishun.com
 gzrljx.cn
 gzrobots.com
 gzrsa.com
@@ -60012,6 +60021,7 @@ hmltec.com
 hmma.baidu.com
 hmml.org
 hmmob.com
+hmnjf.com
 hmnst.com
 hmoegirl.com
 hmongcash.com
@@ -62476,6 +62486,7 @@ hzdhkj.com
 hzdhr.cn
 hzdjr.com
 hzdmacore.kejet.net
+hzdx.com
 hzeduask.com
 hzesm.com
 hzfangwang.com
@@ -63014,6 +63025,7 @@ icafebolger.com
 icaidao.com
 icaile.com
 icams.com
+ican-contest.org
 icandata.com
 icanhazchat.com
 icanstay.com
@@ -63058,6 +63070,7 @@ ice.work
 ice1000.org
 iceasy.com
 iceban.su
+icebear.me
 icebeatuy.com
 icebergindigo.com
 icebns.com
@@ -65820,6 +65833,7 @@ iotechnologies.com
 iotexpo.org
 iotfair.net
 iotinactionevents.com
+iotmag.com
 iotpai.com
 iotwrt.com
 iotxing.com
@@ -71307,6 +71321,7 @@ kangzhi.com
 kanhaiwai.com
 kanhuacanchan.com
 kanichi.jp
+kaniuquan.com
 kanjia.com
 kanjian.com
 kanjianlishi.com
@@ -80160,6 +80175,7 @@ mark.l.qq.com
 mark6.app
 markable.club
 markchao.org
+markdown.xyz
 markdream.com
 markedcrayon.com
 markedmeasure.com
@@ -92170,6 +92186,7 @@ paper211.com
 paperb.us
 paperbus.com
 paperbye.com
+paperccb.com
 paperclipservice.com
 papercool.com
 papereasy.com
@@ -92184,6 +92201,7 @@ papersay.com
 papersee.com
 papersion.club
 papertime.cc
+papertime.shop
 paperweekly.site
 paperwrite.net
 paperyobus.com
@@ -94280,6 +94298,8 @@ pixiv.me
 pixiv.net
 pixiv.org
 pixivacg.com
+pixivic.com
+pixivic.net
 pixivsketch.net
 pixnet.net
 pixolium.com
@@ -106985,6 +107005,7 @@ shuaibo.wang
 shuaigay.nl
 shuaigay.pro
 shuaigay.ws
+shuaigay1.com
 shuaigeshe.com
 shuaigetupian.com
 shuaihuajun.com
@@ -107205,6 +107226,7 @@ shuyong.net
 shuyue.cc
 shuyue8.net
 shuyuewu.co
+shuyun.com
 shuzgj.com
 shuzhailou.com
 shuzhiduo.com
@@ -115040,6 +115062,7 @@ tencentipv6.com
 tencentlog.com
 tencentmusic.com
 tencentsuite.com
+tencentwm.com
 tenchdesing.com
 tenchong.com
 tend-new.com
@@ -119714,6 +119737,7 @@ tuliu.com
 tulongteam.com
 tumabeni.com
 tumajewelry.com
+tumanyi.com
 tumblebirds.com
 tumbleonapp.com
 tumbleractedblunder.com
@@ -127150,6 +127174,7 @@ wezhan.us
 wezhuiyi.com
 wezone.net
 wf.flnet.org
+wf.pub
 wf.smathis.com
 wf.taboola.com
 wf163.com
@@ -140879,6 +140904,7 @@ yatab.net
 yataiwujin.com
 yatiku.com
 yatiwang.com
+yatsenglobal.com
 yatsoft.com
 yau-awards.science
 yaudience.com
@@ -141128,6 +141154,7 @@ yearnfar.com
 yeas.yahoo.co.jp
 yeax.com
 yebadu.com
+yebaike.com
 yebangyu.org
 yecdn.com
 yecl.net
@@ -147267,6 +147294,7 @@ zwduxs.com
 zwdzm8egrhiadwu.website
 zwechat.com
 zwfw.com
+zwgeek.com
 zwhz.com
 zwie2003.com
 zwjczx.com
