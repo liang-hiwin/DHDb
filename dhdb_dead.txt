@@ -1513,7 +1513,6 @@
 360laoshi.com
 360mkt.com
 360qd.com
-360qhcdn.com
 360qike.cn
 360qike.com.cn
 360safe.com
@@ -5350,7 +5349,6 @@ aliyunh.xyz
 aliyuni.xyz
 aliyunj.com
 aliyunj.xyz
-aliyunlive.com
 aliyunp.xyz
 aliyunwaf.com
 aliyunwaf1.com
@@ -7352,7 +7350,6 @@ bgvfx.com
 bgwbqsmj.com
 bgyawaib.com
 bgzdrgliwew.com
-bh100.com.cn
 bh1t.com
 bhdee.skpbp14.pw
 bhdns.net
