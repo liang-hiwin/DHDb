@@ -9001,7 +9001,6 @@ cdn.jquery-uim.download
 cdn.m.okdd.net
 cdn.mdotm.com
 cdn.millennialmedia.com
-cdn.mingmingtehui.com
 cdn.office.net
 cdn.openxt.cn
 cdn.plopx.com
@@ -12297,7 +12296,6 @@ dfdjilnzqgtow.com
 dfdjy.net
 dfebr.com
 dfehnb.xyz
-dfhtqc.com
 dfkhgj.com
 dflfcm.com
 dflfnrmi.xyz
