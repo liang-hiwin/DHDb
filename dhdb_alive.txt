@@ -1823,6 +1823,7 @@
 1373700.com
 1377.com
 13800.net
+138138l.com
 1382tt.com
 1388012.com
 1388771.com
@@ -10753,6 +10754,7 @@ a.thefreethoughtproject.com
 a.thn21.com
 a.tiyuxiu.com
 a.tovarro.com
+a.track.sohu.com
 a.travel-assets.com
 a.tribalfusion.com
 a.tuizhuti.com
@@ -64208,6 +64210,7 @@ ihxlife.com
 ihzzy.com
 ii-i.org
 ii.cc
+ii.gdt.qq.com
 ii.ntped.xyz
 ii.u1e9.cn
 ii3g.com
@@ -65208,6 +65211,7 @@ in.ndtzx.com
 in.pomhz.com
 in.qzkxt.com
 in.taomochou.cn
+in.vipliangmei.com
 in.webcounter.cc
 in.zog.link
 in01.icu
@@ -78883,6 +78887,7 @@ m.addthis.com
 m.addthisedge.com
 m.admedia.com
 m.adnxs.com
+m.ads.sohu.com
 m.adtiming.com
 m.aduiz.com
 m.adxpop.com
@@ -79082,6 +79087,7 @@ m.g71i1.cn
 m.game.weibo.cn
 m.gcaog.com
 m.gd881.cn
+m.gdt.qq.com
 m.gexings.com
 m.gghh493.cn
 m.giroud.top
@@ -104946,6 +104952,7 @@ sdk.open.amp.igexin.com
 sdk.open.lbs.igexin.com
 sdk.open.phone.igexin.com
 sdk.open.talk.gepush.com
+sdk.open.talk.getui.net
 sdk.open.talk.igexin.com
 sdk.s.360.cn
 sdk.starbolt.io
@@ -110851,6 +110858,7 @@ ssp-kc.com
 ssp-rtb.sape.ru
 ssp.0531kt.com
 ssp.08160.cn
+ssp.1nmob.com
 ssp.1rtb.com
 ssp.4hw.com.cn
 ssp.adriver.ru
@@ -117241,6 +117249,7 @@ tl-shida.com
 tl-tek.com
 tl-vogue.com
 tl.gd
+tl.oneway.mobi
 tl.tradetracker.net
 tl2go.com
 tl813.com
@@ -126368,6 +126377,7 @@ waskucity.com
 wasm.stream
 wasoinfo.com
 wasp-182b.com
+waspaortascene.com
 wasqq.com
 wassermann.online
 wassner.com.ar
@@ -137788,6 +137798,7 @@ x.120ask.com
 x.17xxtv.com
 x.55peixun.com
 x.892155.com
+x.adnet.qq.com
 x.allabout.co.jp
 x.appbaqend.com
 x.bidswitch.net
